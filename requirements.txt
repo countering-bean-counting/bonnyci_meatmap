@@ -1,0 +1,5 @@
+click
+mock
+requests
+test-utils
+tox
