@@ -1,0 +1,8 @@
+language: python
+dist: trusty
+python:
+  - 3.6
+jobs:
+  include:
+    - stage: check commit
+      script: tests/check_signed_off_by.sh
