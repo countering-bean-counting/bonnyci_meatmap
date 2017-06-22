@@ -10,3 +10,4 @@ __pycache_
 */.Rproj.user/
 .~*
 */.~*
+.DS_Store

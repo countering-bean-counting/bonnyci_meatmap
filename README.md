@@ -7,7 +7,7 @@ Identify concentrations of activity for specific communities using the Meetup AP
 
 ## Roadmap
 
-Project Status: https://github.ibm.com/Augustina-Ragwitz/meatmap/projects/1
+Project Status: https://github.com/BonnyCI/meatmap/projects/1
 
 The analysis starts with looking at the IBM "Big Data Developers" meetups to determine where IBM already has established communities. The next phase analyzes meetup activity for communities we are interested in targeting, like the R community. Finally, we compare the results of the two groups to see what the meetup activity looks like for these communities in the cities with established IBM communities. The final deliverable is a slide deck with visual plots summarizing the results and a spreadsheet with data points of interest in more granular detail.
 
