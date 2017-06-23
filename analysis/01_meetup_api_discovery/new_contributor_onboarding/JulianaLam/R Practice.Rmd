@@ -1,0 +1,34 @@
+---
+title: "R Practice"
+output: html_notebook
+---
+```{r}
+library(httr)
+library(jsonlite)
+library(lubridate)
+
+url <- "https://api.meetup.com/"
+events <- "find/events?photo-host=public"
+query <- "&text=Big+Data+Developers&"
+signature <- "sig_id=229104800&sig=7c0e9ef3a1a7032a1c374ed199c54106c653b678"
+paths <- paste(events,query) 
+paths <- paste(paths,signature)
+
+raw <- GET(url=url, path = paths)
+print(typeof(raw))
+jsontest = toJSON(raw,pretty=TRUE, auto_unbox = TRUE)
+print(typeof(jsontest))
+```
+```{r}
+cities <- list()
+for (i in 0:199){
+  temp <- raw.result[i]['group']['localized_location']
+  cities <- c(cities,temp)
+}
+print(cities)
+```
+```{r}
+print(typeof(raw.result))
+print()
+```
+

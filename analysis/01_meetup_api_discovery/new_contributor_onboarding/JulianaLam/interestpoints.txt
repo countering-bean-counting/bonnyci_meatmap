@@ -1,0 +1,10 @@
+1. Is high GDP/low unemployment rates/large change in personal wealth in a city correlate to higher meetup rates
+https://www.bea.gov/index.htm
+2. analyze how groups grow
+- get list of all bdd groups
+- show over time how many meetups they had and how rsvp has changed
+3. keyword search on descriptions
+- do some hot words show up and rsvp increases
+4. how to subjects trend
+- by city, by group, springboarding off another group
+5. 
