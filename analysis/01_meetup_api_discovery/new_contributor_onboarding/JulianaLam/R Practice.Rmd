@@ -29,5 +29,6 @@ print(cities)
 ```
 ```{r}
 print(typeof(raw.result))
+print()
 ```
 
