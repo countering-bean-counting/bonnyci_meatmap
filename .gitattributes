@@ -1,0 +1,4 @@
+*.Rmd linguist-language=R
+reports/* linguist-documentation
+*.html linguist-documentation=True
+*.pdf linguist-documentation=True

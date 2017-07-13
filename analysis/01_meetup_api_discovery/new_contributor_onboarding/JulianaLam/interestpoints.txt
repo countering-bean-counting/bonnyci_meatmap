@@ -1,3 +1,4 @@
+
 https://w3.ibm.com/developer/programs/2017/06/21/great-meetups-are-like-a-great-wedding/
 http://journals.uic.edu/ojs/index.php/fm/article/view/4681/3810
 https://signalvnoise.com/posts/2751-scott-heiferman-looks-back-at-meetups-bet-the-company-moment-
@@ -12,4 +13,6 @@ https://www.bea.gov/index.htm
 - do some hot words show up and rsvp increases
 4. how to subjects trend
 - by city, by group, springboarding off another group
+
+5. 
 
