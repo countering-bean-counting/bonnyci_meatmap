@@ -1,0 +1,97 @@
+---
+title: "Bureau of Labor Statistics"
+author: "Augustina Ragwitz"
+date: "July 28, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(ggmap)
+library(stringr)
+library(tabulizer)
+library(tidyr)
+```
+
+
+# Quarterly Census of Employment and Wages
+
+## Region codes
+```{r qcew_region_codes, echo=FALSE, eval=FALSE}
+download.file("https://data.bls.gov/cew/doc/titles/area/area_titles.csv",
+              "downloads/bls_qcew_area_titles.csv")
+```
+
+## Longitude and Latitude Lookup
+
+This will allow us to cross-reference with Meetup
+
+```{r meetup_geo_states, echo=FALSE, eval=FALSE}
+
+meetup_geo <- read.csv("../tech_meetups/meetup_geo.csv")
+
+# set state abbreviations
+data(state)
+
+meetup_geo_states <- merge(
+  meetup_geo,
+  data_frame(state_abb=state.abb, state_name=state.name),
+  by.x="state",
+  by.y="state_abb"
+)
+
+write.csv(meetup_geo_states, "meetup_geo_states.csv")
+```
+
+
+```{r qcew_region_cxref, echo=FALSE}
+# to filter qcew areas
+meetup_geo_states <- read.csv("meetup_geo_states.csv")
+
+# list of areas the qcew is divided into
+qcew_areas <- read.csv("downloads/bls_qcew_area_titles.csv")
+qcew_areas <- qcew_areas %>% mutate(area_title=as.character(area_title))
+
+```
+
+```{r, echo=FALSE}
+qcew_areas_split <- qcew_areas %>% 
+  separate(area_title, c("area_descr", "area_state"), ", ", 
+           remove=FALSE, extra="merge", fill="right")
+
+qcew_areas_join <- merge(meetup_geo_states %>% select(state_name, state, city, city_state), 
+                         qcew_areas_split, by.x="state_name", by.y="area_state")
+```
+
+
+```{r qcew_geocode}
+qcew_geo <- geocode(qcew_areas_join$area_title)
+#qcew_area_lookup <- bind_cols(qcew_areas, qcew_geo)
+```
+
+```{r}
+# build url for source data
+
+# http://www.bls.gov/cew/data/api/2015/2/area/29213.csv
+```
+
+
+## NAICS Industry Codes
+
+What industry codes should be included in "Tech Industry"?
+
+Paytas, Jerry, and Dan Berglund. "Technology industries and occupations for NAICS industry data." Pittsburgh: Carnegie Mellon Center for Economic Development and State Science and Technology Institute (2004). http://ssti.org/report-archive/NAICS_Tech1.pdf
+
+Markusen, Ann, et al. "Gauging Metropolitan “High-Tech” and “I-Tech” Activity." Minneapolis, MN (2001). https://s3.amazonaws.com/academia.edu.documents/34059711/hightech.pdf
+
+```{r naics_tech_codes_download, echo=FALSE}
+download.file("http://ssti.org/report-archive/NAICS_Tech1.pdf", "downloads/ssti_naics_tech_codes.pdf")
+```
+
+```{r naics_tech_codes}
+naics_extracts <- extract_tables("downloads/ssti_naics_tech_codes.pdf")
+```
+
+
