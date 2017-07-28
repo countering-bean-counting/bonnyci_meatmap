@@ -1,0 +1,1782 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- This site has been literally handcrafted (using only TextMate) by Jed Christiansen --><title>Seed-DB | RockHealth</title>
+<!-- Bootstrap --><link href="/static/css/bootstrap.min.css" rel="stylesheet">
+<link href="/static/css/bootstrap-tour.min.css" rel="stylesheet">
+<link href="/static/css/tip-yellow.css" rel="stylesheet">
+<link type="text/css" rel="stylesheet" href="/static/css/style.css">
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.4/themes/smoothness/jquery-ui.css">
+<link rel="stylesheet" href="/static/css/theme.blue.css">
+<link rel="stylesheet" href="/static/css/theme.bootstrap.css">
+<style> body { padding-top: 70px; }</style>
+<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries --><!-- WARNING: Respond.js doesn't work if you view the page via file:// --><!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]--><script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script><!-- Include all compiled plugins (below), or include individual files as needed --><script src="/static/js/bootstrap.min.js"></script><script src="/static/js/bootstrap-tour.min.js"></script><script src="/static/js/jquery.tablesorter.js"></script><script src="/static/js/jquery.tablesorter.widgets.js"></script><script src="https://use.fontawesome.com/f0066c3885.js"></script><script async="" defer src="//survey.g.doubleclick.net/async_survey?site=ix4be3owbdhbu"></script><!-- Hotjar Tracking Code for http://www.seed-db.com --><script>
+	    (function(h,o,t,j,a,r){
+	        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+	        h._hjSettings={hjid:296066,hjsv:5};
+	        a=o.getElementsByTagName('head')[0];
+	        r=o.createElement('script');r.async=1;
+	        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+	        a.appendChild(r);
+	    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+	</script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-1798923-18', 'auto');
+  ga('send', 'pageview');
+
+    </script>
+</head>
+<body>
+  <nav class="navbar navbar-inverse navbar-fixed-top"><div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="/">Seed-DB</a>
+    </div>
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      <ul class="nav navbar-nav">
+<li id="stepone" value="stepone"><a href="/accelerators">Accelerators</a></li>
+        <li id="steptwo" value="steptwo"><a href="/chartsandtables"><img src="/static/img/new_icon.png" height="24" width="24"> Charts/Tables</a></li>
+        <li id="stepthree" value="stepthree"><a href="/investorgraph">Investor Graph</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+<li><a href="/about/view?page=about">Seed-DB</a></li>
+            <li><a href="/about/view?page=history">History and Team</a></li>
+            <li><a href="/about/view?page=research">Original seed accelerator research paper</a></li>
+            <li><a href="/about/view?page=definition">Definition of "seed accelerator"</a></li>
+            <li class="divider">
+            <li><a href="/about/view?page=guide-accelerators">Seed-DB guide for accelerators</a></li>
+            <li class="divider">
+            <li><a href="http://blog.jedchristiansen.com/category/seed-accelerators/" target="_blank">Blog - Seed-DB</a></li>
+            <li><a href="/about/view?page=newsletter">Subscribe to the Seed Accelerator Newsletter</a></li>
+            <li class="divider">
+            <li><a href="https://www.patreon.com/seeddb" target="_blank"><strong>Support Seed-DB by contributing to the Patreon campaign</strong></a></li>
+            <li class="divider">
+            <li><a href="/about/view?page=termsofservice">Terms of Service</a></li>
+          </ul>
+</li>
+      </ul>
+<!-- #TODO <form class="navbar-form navbar-left" role="search">
+        <div class="form-group">
+          <input type="text" class="form-control" placeholder="Search">
+        </div>
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form> --><ul class="nav navbar-nav navbar-right">
+<li><a href="http://twitter.com/GoSeedDB" target="_blank"><img src="/static/img/twitter-bird-white-on-blue.png" width="20" height="20"> @GoSeedDB</a></li>
+        <li class="dropdown" id="stepfour" value="stepfour">
+          
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Sign In <span class="caret"></span></a>
+          <ul class="dropdown-menu" role="menu">
+<li><a href="/auth/google">Sign In with Google</a></li>
+            <li><a href="/auth/facebook">Sign In with Facebook</a></li>
+          </ul>
+</li>
+      </ul>
+</div>
+<!-- /.navbar-collapse -->
+  </div>
+<!-- /.container-fluid -->
+</nav><div class="container-fluid">
+		<div class="row">
+			<div class="col-md-12">
+				
+				
+<div class="row">
+	<div class="col-md-6">
+	</div>
+	<div class="col-md-4">
+		<h1 itemprop="name">RockHealth</h1>
+		<p><a href="http://rockhealth.com" target="_blank" itemprop="url">http://rockhealth.com</a></p>
+		<p>Established: </p>
+		<p>San Francisco, CA, US</p>
+		<p>
+			
+			
+				<button class="btn btn-warning">Program has become a seed fund</button>
+			
+		</p>
+		<br>
+</div>
+	<div class="col-md-2">
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-6">
+		<p></p>
+		<p></p>		
+	</div>
+	<div class="col-md-6">
+		<p itemprop="description"><b> 
+			</b>
+			</p>
+		<p></p>
+		<p></p>
+		<p>Focus: Healthcare</p>
+		<br><h3>Statistics</h3>
+		<p>49 startups funded</p>
+		<p>8 exits</p>
+		<p>$             500,000 in total exits</p>
+		<p>$         317,521,698 in total funding raised</p>
+		<br><div class="btn-group" role="group">
+			<button type="button" class="btn btn-default btn-sm"><a href="/accelerators/view?acceleratorid=8008">View By Cohort</a></button>
+			<button type="button" class="btn btn-primary btn-sm">View All Companies</button>
+		</div>
+	</div>
+</div>
+	<hr>
+<script type="text/javascript">
+
+$(function(){
+	$.tablesorter.themes.bootstrap = {
+	  // these classes are added to the table. To see other table classes available,
+	  // look here: http://getbootstrap.com/css/#tables
+	  table        : 'table table-condensed table-bordered table-striped table-hover',
+	  caption      : 'caption',
+	  // header class names
+	  header       : 'bootstrap-header', // give the header a gradient background (theme.bootstrap_2.css)
+	  sortNone     : '',
+	  sortAsc      : '',
+	  sortDesc     : '',
+	  active       : '', // applied when column is sorted
+	  hover        : '', // custom css required - a defined bootstrap style may not override other classes
+	  // icon class names
+	  icons        : '', // add "icon-white" to make them white; this icon class is added to the <i> in the header
+	  iconSortNone : 'bootstrap-icon-unsorted', // class name added to icon when column is not sorted
+	  iconSortAsc  : 'glyphicon glyphicon-chevron-up', // class name added to icon when column has ascending sort
+	  iconSortDesc : 'glyphicon glyphicon-chevron-down', // class name added to icon when column has descending sort
+	  filterRow    : '', // filter row class; use widgetOptions.filter_cssFilter for the input/select element
+	  footerRow    : '',
+	  footerCells  : '',
+	  even         : '', // even row zebra striping
+	  odd          : ''  // odd row zebra striping
+	};
+
+  $("#seedcos thead th:eq(5)").data("sorter", false);
+
+  $("#seedcos").tablesorter(
+		{
+			theme: 'bootstrap',
+			sortList:[[3,0],[6,1]],
+			sortInitialOrder: 'desc',
+			headerTemplate : '{content} {icon}',
+			widgets : [ "uitheme", "zebra" ],
+			widgetOptions : {
+			      // using the default zebra striping class name, so it actually isn't included in the theme variable above
+			      // this is ONLY needed for bootstrap theming if you are using the filter widget, because rows are hidden
+			      zebra : ["even", "odd"],
+			    },
+			dateFormat: 'mm/yyyy',
+			selectorHeaders: '> thead > tr > th',
+			headers: 
+				{
+					3:{sorter:'datetime'},
+					5:{sorter:'thousands'},
+					6:{sorter:'thousands'},
+				},
+		}
+	);
+});
+
+  $.tablesorter.addParser({
+    id: "datetime",
+    is: function(s) {
+        return false; 
+    },
+    format: function(s,table) {
+        s = s.replace(/\-/g,"/");
+        s = s.replace(/(\d{1,2})[\/\-](\d{4})/, "$2/$1");
+        return $.tablesorter.formatFloat(new Date(s).getTime());
+    },
+    type: "numeric"
+});
+
+ $.tablesorter.addParser({ 
+    id: 'thousands',
+    is: function(s) { 
+        return false; 
+    }, 
+    format: function(s) {
+        return s.replace('$','').replace(/,/g,'');
+    }, 
+    type: 'numeric' 
+});
+
+</script><style>
+table{
+        width: 50%;
+    }
+    @media only screen and (max-width: 1200px) {
+        .hidethiswhensmall{
+            display: none;
+        }
+    }
+    @media only screen and (max-width: 800px) {
+        .hidethiswhenverysmall{
+            display: none;
+        }
+    }
+</style>
+<div class="table-responsive">
+<table id="seedcos" class="tablesorter table table-striped table-bordered table-condensed">
+<thead><tr>
+<th scope="col" class="hidethiswhensmall">State</th>
+			<th scope="col">Company Name</th>
+			<th scope="col" class="hidethiswhenverysmall">Website &amp; Crunchbase links</th>
+			<th scope="col" class="hidethiswhenverysmall">Cohort Date</th>
+			<th scope="col" class="hidethiswhenverysmall"><a href="#" id="disclaimer1" title="Exit values are Seed-DB estimates only">Exit Value</a></th>
+			<th scope="col" class="hidethiswhensmall"></th>
+			<th scope="col"><a href="#" id="disclaimer2" title="Funding figures come from Crunchbase">Funding</a></th>
+		</tr></thead>
+<tbody>
+<tr class="success">
+<td class="hidethiswhensmall">
+				
+				
+				<button class="btn btn-success btn-xs disabled">Exited</button>
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/cake-health" target="_blank"><strong>CakeHealth </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://cakehealth.com" target="_blank">http://cakehealth.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/cake-health" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/cake-health" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">6/2011</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">             150,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/heartbeat-2" target="_blank"><strong>Heartbeat </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://heartbeat.com" target="_blank">http://heartbeat.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/heartbeat" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/heartbeat-2" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">6/2011</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">              20,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/agilemd" target="_blank"><strong>Agile Diagnosis </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.agilemd.com" target="_blank">http://www.agilemd.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/agile-diagnosis" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/agilemd" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">           2,000,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/nephosity" target="_blank"><strong>Nephosity </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://nephosity.com/" target="_blank">http://nephosity.com/</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/nephosity" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/nephosity" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">              20,000</span>
+</td>
+		</tr>
+<tr class="success">
+<td class="hidethiswhensmall">
+				
+				
+				<button class="btn btn-success btn-xs disabled">Exited</button>
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/pipette" target="_blank"><strong>Pipette </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://usepipette.com" target="_blank">http://usepipette.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/pipette" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/pipette" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">6/2011</span></td>
+			<td class="hidethiswhenverysmall">$<span style="float:right">             500,000</span>
+</td>
+			<td class="hidethiswhensmall">
+				
+				<span class="badge badge-important pull-right">L</span>
+</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/chickrx" target="_blank"><strong>ChickRx </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.chickrx.com/home" target="_blank">http://www.chickrx.com/home</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/chickrx" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/chickrx" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">             560,000</span>
+</td>
+		</tr>
+<tr class="success">
+<td class="hidethiswhensmall">
+				
+				
+				<button class="btn btn-success btn-xs disabled">Exited</button>
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/docphin" target="_blank"><strong>Docphin </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.docphin.com" target="_blank">http://www.docphin.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/docphin" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/docphin" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">           1,000,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/skimble" target="_blank"><strong>Skimble </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://skimble.com" target="_blank">http://skimble.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/skimble" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/skimble" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">6/2011</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">              20,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/cognitive-health-innovations" target="_blank"><strong>Cognitive Health Innovations </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.copingtutor.com" target="_blank">http://www.copingtutor.com</a>
+				<div class="btn-group pull-right">
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/cognitive-health-innovations" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/genomera" target="_blank"><strong>Genomera </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://genomera.com" target="_blank">http://genomera.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/genomera" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/genomera" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">6/2011</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">              20,000</span>
+</td>
+		</tr>
+<tr class="success">
+<td class="hidethiswhensmall">
+				
+				
+				<button class="btn btn-success btn-xs disabled">Exited</button>
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/care-at-hand" target="_blank"><strong>CareAtHand </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.careathand.com" target="_blank">http://www.careathand.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/care-at-hand" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/care-at-hand" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">           1,910,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="/companies/view?companyid=27003"><strong>Helpful Systems</strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://" target="_blank">http://</a>
+				<div class="btn-group pull-right">
+				
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/bigevidence" target="_blank"><strong>BigEvidence </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.bigevidence.com" target="_blank">http://www.bigevidence.com</a>
+				<div class="btn-group pull-right">
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/bigevidence" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">6/2011</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="/companies/view?companyid=28002"><strong>Epi.md</strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://epi.md" target="_blank">http://epi.md</a>
+				<div class="btn-group pull-right">
+				
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/sano-intelligence" target="_blank"><strong>Sano Intelligence </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://sano.co" target="_blank">http://sano.co</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/sano-intelligence" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/sano-intelligence" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">          31,791,288</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/bitgym" target="_blank"><strong>BitGym </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://bitgym.com" target="_blank">http://bitgym.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/bitgym" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/bitgym" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">6/2011</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">              25,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="/companies/view?companyid=29002"><strong>GetMyCare</strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://ifindcare.com" target="_blank">http://ifindcare.com</a>
+				<div class="btn-group pull-right">
+				
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/brainbot" target="_blank"><strong>BrainBot </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.brainbot.me" target="_blank">http://www.brainbot.me</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/brainbot-1" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/brainbot" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">6/2011</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">              20,000</span>
+</td>
+		</tr>
+<tr class="danger">
+<td class="hidethiswhensmall">
+				
+				<button class="btn btn-danger btn-xs disabled">Dead</button>
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/healthrally" target="_blank"><strong>HealthRally </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.healthrally.com" target="_blank">http://www.healthrally.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/healthrally" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/healthrally" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">             400,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/cell-scope" target="_blank"><strong>CellScope </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://cellscope.com" target="_blank">http://cellscope.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/cellscope" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/cell-scope" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">6/2011</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">           5,620,000</span>
+</td>
+		</tr>
+<tr class="danger">
+<td class="hidethiswhensmall">
+				
+				<button class="btn btn-danger btn-xs disabled">Dead</button>
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/impressity" target="_blank"><strong>Chronology </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.impressity.com" target="_blank">http://www.impressity.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/impressity" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/impressity" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">6/2011</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/health-in-reach" target="_blank"><strong>HealthInReach </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://healthinreach.com" target="_blank">http://healthinreach.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/health-in-reach" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/health-in-reach" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">6/2011</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="/companies/view?companyid=33002"><strong>WeSprout</strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://wesprout.org" target="_blank">http://wesprout.org</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/wesprout" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">6/2011</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">              20,000</span>
+</td>
+		</tr>
+<tr class="success">
+<td class="hidethiswhensmall">
+				
+				
+				<button class="btn btn-success btn-xs disabled">Exited</button>
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/sessions" target="_blank"><strong>Sessions </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.joinsessions.com" target="_blank">http://www.joinsessions.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/sessions-2" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/sessions" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">             320,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/omada-health" target="_blank"><strong>Omada Health </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://omadahealth.com" target="_blank">http://omadahealth.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/omada-health-1" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/omada-health" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">6/2011</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">         126,520,000</span>
+</td>
+		</tr>
+<tr class="danger">
+<td class="hidethiswhensmall">
+				
+				<button class="btn btn-danger btn-xs disabled">Dead</button>
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/avva-health" target="_blank"><strong>Avva </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://avvahealth.com" target="_blank">http://avvahealth.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/avva-health" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/avva-health" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/cardiio" target="_blank"><strong>Cardiio </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="https://www.cardiio.com" target="_blank">https://www.cardiio.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/cardiio" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/cardiio" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">             170,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/senstore" target="_blank"><strong>Senstore </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.senstore.com" target="_blank">http://www.senstore.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/senstore" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/senstore" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">1/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/podimetrics" target="_blank"><strong>Podimetrics </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.podimetrics.com" target="_blank">http://www.podimetrics.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/podimetrics" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/podimetrics" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">5/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">           9,517,460</span>
+</td>
+		</tr>
+<tr class="danger">
+<td class="hidethiswhensmall">
+				
+				<button class="btn btn-danger btn-xs disabled">Dead</button>
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/home-team-therapy" target="_blank"><strong>Home Team Therapy </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://hometeamtherapy.com" target="_blank">http://hometeamtherapy.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/home-team-therapy-1" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/home-team-therapy" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">5/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">              20,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/neumitra" target="_blank"><strong>Neumitra </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.neumitra.com" target="_blank">http://www.neumitra.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/neumitra-3" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/neumitra" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">5/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">              20,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/neurotrack-technologies" target="_blank"><strong>Neurotrack </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://neurotrack.com" target="_blank">http://neurotrack.com</a>
+				<div class="btn-group pull-right">
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/neurotrack-technologies" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">5/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">          20,248,963</span>
+</td>
+		</tr>
+<tr class="danger">
+<td class="hidethiswhensmall">
+				
+				<button class="btn btn-danger btn-xs disabled">Dead</button>
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/rxapps" target="_blank"><strong>RXApps </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.rxapps.com" target="_blank">http://www.rxapps.com</a>
+				<div class="btn-group pull-right">
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/rxapps" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">5/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">              20,000</span>
+</td>
+		</tr>
+<tr class="danger">
+<td class="hidethiswhensmall">
+				
+				<button class="btn btn-danger btn-xs disabled">Dead</button>
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/novimedicine" target="_blank"><strong>NoviMedicine </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.novimedicine.com" target="_blank">http://www.novimedicine.com</a>
+				<div class="btn-group pull-right">
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/novimedicine" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">5/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">              20,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/reify-health" target="_blank"><strong>Reify Health </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.reifyhealth.com" target="_blank">http://www.reifyhealth.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/reify-health" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/reify-health" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">5/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">             350,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/clinicast" target="_blank"><strong>CliniCast </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://clinicast.net" target="_blank">http://clinicast.net</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/clinicast" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/clinicast" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">             100,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/superbetter" target="_blank"><strong>SuperBetter </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.superbetterlabs.com" target="_blank">http://www.superbetterlabs.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/superbetter-labs" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/superbetter" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="/companies/view?companyid=261001"><strong>Beam Technologies</strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.beamtoothbrush.com" target="_blank">http://www.beamtoothbrush.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/beam-technologies" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="/companies/view?companyid=262001"><strong>BenefitsMe</strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="" target="_blank"></a>
+				<div class="btn-group pull-right">
+				
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/mango-health" target="_blank"><strong>Mango Health </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.mangohealth.com" target="_blank">http://www.mangohealth.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/mango-health-1" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/mango-health" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">           8,300,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="/companies/view?companyid=263001"><strong>Eligible</strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://eligibleapi.com" target="_blank">http://eligibleapi.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/eligible" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/kitcheck" target="_blank"><strong>Kit Check </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://kitcheck.com" target="_blank">http://kitcheck.com</a>
+				<div class="btn-group pull-right">
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/kitcheck" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">          37,470,400</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/labdoor" target="_blank"><strong>LabDoor </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="https://Labdoor.com" target="_blank">https://Labdoor.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/labdoor" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/labdoor" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">          10,790,587</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/wellframe" target="_blank"><strong>Wellframe </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.wellframe.com" target="_blank">http://www.wellframe.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/wellframe" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/wellframe" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">          25,200,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/moxe-health" target="_blank"><strong>Moxe Health </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.moxehealth.com" target="_blank">http://www.moxehealth.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/moxe-health" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/moxe-health" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">           5,850,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/lee-company-inc" target="_blank"><strong>OpenPlacement </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://waffle.at" target="_blank">http://waffle.at</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/open-placement" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/lee-company-inc" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr class="success">
+<td class="hidethiswhensmall">
+				
+				
+				<button class="btn btn-success btn-xs disabled">Exited</button>
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/wello" target="_blank"><strong>Wello </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.wello.com" target="_blank">http://www.wello.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/wello-find-your-fit" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/wello" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">           1,000,000</span>
+</td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="/companies/view?companyid=268001"><strong>Wildflower Health</strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.duedateplus.com" target="_blank">http://www.duedateplus.com</a>
+				<div class="btn-group pull-right">
+				
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td></td>
+		</tr>
+<tr>
+<td class="hidethiswhensmall">
+				
+				
+				
+			</td>
+			<td>
+				
+					<a href="http://www.crunchbase.com/organization/zipongo" target="_blank"><strong>Zipongo </strong></a>
+				
+				
+			</td>
+			<td class="hidethiswhenverysmall">
+				<a href="http://www.zipongo.com" target="_blank">http://www.zipongo.com</a>
+				<div class="btn-group pull-right">
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="https://angel.co/zipongo" target="_blank"><img src="/static/img/Angellist.jpg" height="16" width="16"></a></button>
+				
+				
+					<button type="button" class="btn btn-default btn-xs hidethiswhensmall"><a href="http://www.crunchbase.com/organization/zipongo" target="_blank"><img src="/static/img/Crunchbase.jpg"></a></button>
+				
+				</div>
+			</td>
+			<td class="hidethiswhenverysmall"><span style="float:right">10/2012</span></td>
+			<td class="hidethiswhenverysmall"></td>
+			<td class="hidethiswhensmall">
+				
+				</td>
+			<td>$<span style="float:right">          28,028,000</span>
+</td>
+		</tr>
+</tbody>
+</table>
+</div>
+<hr>
+<h3>Disclaimers</h3>
+<ol>
+<li>
+<a name="disclaimer1"></a>Exit values are <strong>estimates only</strong>.  Confidence is indicated by H/M/L colors.</li>
+	<li>
+<a name="disclaimer2"></a>Values for funding and number of employees come from <a href="http://crunchbase.com">Crunchbase</a>
+</li>
+</ol>
+<hr>
+<h4>
+<a href="mailto:jed.christiansen@seed-db.com?Subject=Update%20for%20RockHealth">Contact Jed</a> if you have updated information for RockHealth</h4>
+	
+	
+	<p>Created: 08-May-2012, 22:48</p>
+	<p>Last modified: 27-Jul-2017, 06:00</p>
+
+				<hr>
+<footer class="footer"><p class="pull-right"><a href="#">Back to top</a></p>
+					<p>Seed-DB was created by <a href="/about/view?page=history">Jed Christiansen</a>.</p>
+					<p><a href="/about/view?page=termsofservice">Terms of Service</a></p>
+				
+
+				</footer>
+</div>
+		</div>
+	</div>
+	<script>
+	$(function () {
+	    var tour = new Tour({
+		  steps: [
+		  {
+		    element: "#stepone",
+		    title: "Accelerators",
+		    content: "Check out data on hundreds of accelerators around the world, and the companies they've funded."
+		  },
+		  {
+		    element: "#steptwo",
+		    title: "Charts & Tables",
+		    content: "View charts of Seed-DB data, and key tables of accelerated companies."
+		  },
+		  {
+		    element: "#stepthree",
+		    title: "Investor Graph",
+		    content: "View which investors have funded which companies from which accelerators."
+		  },
+		  {
+		    element: "#stepfour",
+		    placement: "left",
+		    title: "Login",
+		    content: "Login and sign up for occasional updates."
+		  },
+		]});
+
+	    // Initialize the tour
+	    tour.init();
+
+	    // Start the tour
+	    tour.start();
+	    });
+	</script><script>
+    var _intro_bar = window._intro_bar || {};(function() {var i,e;i=document.createElement("script"), i.type='text/javascript';i.async=1, i.src="//cdn.introbar.com/js/v1.js", e=document.getElementsByTagName("script")[0], e.parentNode.insertBefore(i,e);})();
+    _intro_bar.account_id = '555439b59500a';
+</script>
+</body>
+</html>

@@ -1,0 +1,156 @@
+---
+title: "Incubators"
+author: "Augustina Ragwitz"
+date: "July 27, 2017"
+output: html_document
+---
+
+Scrape Seeddb.com for a list of incubators.
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(rvest)
+library(stringr)
+
+# TODO make this a parameter
+accelerators_html_file=paste("scraped_html/seeddb", "accelerators", "html", sep="_")
+```
+
+## Seedb Accelerators Page
+```{r seedb_html, include=FALSE, echo=FALSE}
+
+# Scrape the Accelerators Page and save the result as a local file
+# Do not run this unless you want your local file to be overwritten!
+
+download.file("http://www.seed-db.com/accelerators", accelerators_html_file)
+
+```
+
+## Parse Accelerators Table into Data Frame
+```{r seeddb_accelerators_table, echo=FALSE}
+
+seeddb_accelerators_html <- read_html(accelerators_html_file)
+
+seeddb_accelerators <- seeddb_accelerators_html %>% 
+  html_nodes("#accellist") %>%
+  html_table(fill=TRUE) %>% as.data.frame()
+
+seeddb_accelerators <- seeddb_accelerators %>% 
+  mutate(Companies=X..Co.s, 
+         Exits=X..Exits, 
+         Funding=X..Funding,
+         Average=Average..) %>%
+  select(Program, Location, Companies, Exits, Funding, Average)
+
+```
+
+## Get Company List for Each Accelerator
+
+```{r seeddb_accelerators_links, echo=FALSE}
+seeddb_accelerators_links <- data.frame()
+link_selector <- "#accellist > tbody > tr:nth-child($) > td:nth-child(1) > a:nth-child(1)"
+
+# TODO use better tidyverse workflow for this!!
+for(n in 1:nrow(seeddb_accelerators)) {
+  selector <- str_replace_all(link_selector, "\\$", as.character(n))
+  # extract link from html
+  link_node <- seeddb_accelerators_html %>% 
+    html_node(selector)
+  # extract acc from html
+  link <- link_node %>% html_attrs()
+  link <- str_replace(link, "view", "viewall")
+  acc <- link_node %>% html_text() 
+
+  # merge with existing
+  seeddb_accelerators_links <- bind_rows(
+    seeddb_accelerators_links,
+    data.frame(Program=acc, link=paste("http://www.seed-db.com", link, sep=""))
+  )
+}
+
+seeddb_accelerators <- merge(seeddb_accelerators, seeddb_accelerators_links, by="Program")
+rm(seeddb_accelerators_links)
+
+write.csv(seeddb_accelerators, "seeddb_accelerators.csv")
+
+```
+
+```{r}
+seeddb_acc_has_companies <- seeddb_accelerators %>% filter(Companies > 0)
+```
+
+
+```{r seeddb_accelerators_companies, include=FALSE}
+# Create the archive of the HTML scrapes for the company pages
+# Don't run this unless you want all of your archives to be overwritten
+
+# TODO replace this with better titdyverse workflow
+for(n in 1:nrow(seeddb_acc_has_companies)){
+  row <- seeddb_acc_has_companies[n,]
+  link <- as.character(row["link"])
+  acc <- as.character(row["Program"])
+  
+  acc_filename <- str_replace_all(acc, "/| ", "_")
+  acc_filename <- str_to_lower(acc_filename)
+  acc_filename <- paste("scraped_html/", acc_filename, "companies", "html", sep="_")
+  
+  print(paste("getting HTML for", acc))
+  seeddb_company_html <- download.file(link, acc_filename)
+  print(paste("saved HTML to", acc_filename))
+}
+
+```
+
+Crunchbase blocks bots, but here are the links where you can find out more about locations.
+
+```{r seeddb_companies, echo=FALSE}
+seeddb_companies <- data_frame()
+
+# TODO: refactor so this isn't using for loops
+for(n in 1:nrow(seeddb_acc_has_companies)){
+  row <- seeddb_acc_has_companies[n,]
+  acc <- as.character(row["Program"])
+  acc_filename <- str_replace_all(acc, "/| ", "_")
+  acc_filename <- str_to_lower(acc_filename)
+  acc_filename <- paste("scraped_html/", acc_filename, "companies", "html", sep="_")
+
+  seeddb_company_html <- read_html(acc_filename)
+  seeddb_company_table <- seeddb_company_html %>%
+    html_nodes("#seedcos") %>%
+    html_table(fill=TRUE) %>%
+    as.data.frame()
+  
+  seeddb_company_table <- seeddb_company_table %>% 
+    mutate(Company=Company.Name, 
+         Website=Website...Crunchbase.links, 
+         Exit=Exit.Value) %>%
+    select(State, Company, Website, Cohort.Date, Exit, Funding)
+  
+  seeddb_company_table <- seeddb_company_table %>% 
+    mutate(Program=acc)
+
+  crunchbase_links <- data_frame()
+  for (i in 1:nrow(seeddb_company_table)) {
+    company <- seeddb_company_table[i,]["Company"]
+    crunchbase_link <- seeddb_company_html %>% 
+      html_node(str_replace("#seedcos > tbody > tr:nth-child($) > td:nth-child(2) > a", 
+                            "\\$", as.character(i))) %>% html_attrs()
+    crunchbase_links <- bind_rows(crunchbase_links, 
+                              data_frame(Company=as.list(company), crunchbase=crunchbase_link[1]))
+    
+  }
+
+  seeddb_company_table <- merge(seeddb_company_table, crunchbase_links, by="Company")
+  seeddb_companies <- bind_rows(seeddb_companies, seeddb_company_table)
+}
+
+# Fix crunchbase urls
+seeddb_companies <- seeddb_companies %>%
+  mutate(crunchbase = ifelse(str_match(crunchbase, "^http") > 0, crunchbase, NA))
+
+write.csv(seeddb_companies, "seeddb_companies.csv")
+```
+
+
