@@ -1,0 +1,40 @@
+---
+title: "Tech Meetups"
+author: "Augustina Ragwitz"
+date: "July 27, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(rvest)
+
+meetup_topics_html_file="scraped_html/meetup_topics_html"
+```
+
+Get a list of Tech Meetup topics from Meetup.com. They don't seem to have an easy way to do this in the API (or else I just haven't found it).
+```{r}
+download.file("https://www.meetup.com/topics/", meetup_topics_html_file)
+```
+
+```{r}
+topics_html <- read_html(meetup_topics_html_file)
+
+topics <- topics_html %>% 
+  html_nodes("#meetupBody > div.view > section:nth-child(34) > div > ul")
+
+links <- topics %>% 
+  html_nodes("li > a") %>%
+  html_attr("href")
+
+names <- topics %>% 
+  html_nodes("li > a") %>%
+  html_text()
+
+topics_df <- data_frame(links=links, names=names)
+
+```
+
+

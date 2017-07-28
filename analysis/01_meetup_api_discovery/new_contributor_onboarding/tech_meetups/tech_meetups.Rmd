@@ -1,0 +1,148 @@
+---
+title: "Tech Meetups per City"
+author: "Augustina Ragwitz"
+date: "July 27, 2017"
+output: html_document
+params:
+  meetup_api_key: !r Sys.getenv("API_KEY_MEETUP")
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(ggmap)
+library(httr)
+library(jsonlite)
+library(purrr)
+library(tidyr)
+```
+
+## Cities of Interest
+```{r geocode, include=FALSE, eval=FALSE}
+cities <- c(
+  "Austin",
+  "Atlanta",
+  "Boston",
+  "Chicago",
+  "Denver",
+  "Detroit",
+  "Durham",
+  "Miami",
+  "Philadelphia",
+  "Phoenix",
+  "Portland",
+  "San Francisco",
+  "Seattle"
+)
+
+states <- c(
+  "TX",
+  "GA",
+  "MA",
+  "IL",
+  "CO",
+  "MI",
+  "NC",
+  "FL",
+  "PA",
+  "AZ",
+  "OR",
+  "CA",
+  "WA"
+)
+
+locations <- data_frame(city=cities, state=states)
+locations <- locations %>% mutate(
+  city_state=paste(city, state)
+)
+
+locations <- bind_cols(locations, geocode(locations$city_state))
+
+write.csv(locations, "meetup_geo.csv")
+```
+
+```{r}
+meetup_geo <- read.csv("meetup_geo.csv")
+```
+
+
+```{r meetup_groups}
+
+url <- "https://api.meetup.com/find/groups"
+
+query_params <- list(
+  key=params$meetup_api_key, 
+  sign=TRUE,
+  page=200,
+  radius=50,
+  category=34,
+  order="most_active")
+
+get_meetups <- function (url, query) {
+  req <- GET(url, query=query)
+  print(paste(req$url))
+  json <- content(req, as = "text")
+  groups <- fromJSON(json, flatten=TRUE)
+  return(groups)
+}
+
+# # TODO figure out how to do this in purr; tried multiple things and failed
+#meetup_groups_list <- mapply(get_groups, meetup_geo$lon, meetup_geo$lat)
+# q <- mapply(append, query, meetup_geo$lon, meetup_geo$lat)
+
+meetup_groups <- data_frame()
+
+for (n in 1:nrow(meetup_geo)) {
+  lon <- meetup_geo[n,]["lon"]
+  lat <- meetup_geo[n,]["lat"]
+  city <- meetup_geo[n,]["city_state"]
+  print(paste("Getting groups for :", city$city))
+  meetup_groups <- bind_rows(meetup_groups, 
+                             get_meetups(url, append(query_params, c(lon=lon$lon, lat=lat$lat))))
+  write.csv(meetup_groups, paste("meetup_groups/_meetup_groups_", n, ".csv", sep=""))
+}
+
+meetup_groups <- meetup_groups %>% 
+  mutate(events_url = paste("https://api.meetup.com/", urlname, "/events", sep=""))
+
+write.csv(meetup_groups, "meetup_groups.csv")
+
+```
+
+```{r}
+meetup_groups <- read.csv("meetup_groups.csv")
+
+query_params <- list(
+  key=params$meetup_api_key, 
+  sign=TRUE,
+  page=200,
+  status="past",
+  fields=paste("comment_count", "photo_album", sep=", ")
+)
+
+meetup_events <- data_frame()
+
+```
+
+```{r}
+# re-do 1-66
+
+for (n in 1231:nrow(meetup_groups)) {
+  events_url <- meetup_groups[n,]["events_url"]
+  print(paste("Trying url:", events_url$events_url))
+  meetups <- get_meetups(events_url$events_url, query_params)
+  if(length(meetups)== 0) {
+    next()
+  }
+
+  meetups <- meetups %>% mutate(photo_album.photo_sample=NA)
+  meetup_events <- bind_rows(meetup_events, meetups)
+  write.csv(meetup_events, paste("meetup_events/_meetup_events_", n, ".csv", sep=""))
+}
+
+
+write.csv(meetup_events, "meetup_events.csv")
+```
+
+
