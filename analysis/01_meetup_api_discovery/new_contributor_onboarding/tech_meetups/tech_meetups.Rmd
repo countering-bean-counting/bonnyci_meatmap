@@ -128,7 +128,7 @@ meetup_events <- data_frame()
 ```{r}
 # re-do 1-66
 
-for (n in 1231:nrow(meetup_groups)) {
+for (n in 1:nrow(meetup_groups)) {
   events_url <- meetup_groups[n,]["events_url"]
   print(paste("Trying url:", events_url$events_url))
   meetups <- get_meetups(events_url$events_url, query_params)
