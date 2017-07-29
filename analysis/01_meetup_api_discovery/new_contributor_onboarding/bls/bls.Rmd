@@ -9,7 +9,9 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 
 library(dplyr)
+library(geosphere)
 library(ggmap)
+library(purrr)
 library(stringr)
 library(tabulizer)
 library(tidyr)
@@ -27,6 +29,10 @@ download.file("https://data.bls.gov/cew/doc/titles/area/area_titles.csv",
 ## Longitude and Latitude Lookup
 
 This will allow us to cross-reference with Meetup
+
+First strategy is to do lookups by county specific to states and compute their distance to the city of interest. This will not cover entire metro areas so it could be misleading.
+
+Another method further down simply looks for cities of interest in the "metro statistics" area and makes a manual selection.
 
 ```{r meetup_geo_states, echo=FALSE, eval=FALSE}
 
@@ -56,6 +62,88 @@ qcew_areas <- qcew_areas %>% mutate(area_title=as.character(area_title))
 
 ```
 
+
+```{r}
+# find metro areas
+qcew_areas_msa <- qcew_areas %>% 
+  separate(area_title, c("area_descr", "area_state"), ", ", 
+           remove=FALSE, extra="merge", fill="right") %>%
+  filter(! is.na(str_match(area_state, "MSA"))) %>%
+  separate(area_state, c("msa_state", "msa"), " ") %>%
+  mutate(msa_states = strsplit(msa_state, "-")) %>% 
+  unnest(msa_states) %>%
+  mutate(msa_cities = strsplit(area_descr, "-")) %>%
+  unnest(msa_cities)
+
+qcew_msa_lookup <- merge(
+  meetup_geo_states %>% select(state_name, state, city, city_state),
+  qcew_areas_msa %>% select(msa_states, msa_cities, area_fips),
+  by.x=c("state", "city"),
+  by.y=c("msa_states", "msa_cities"))
+
+qcew_msa_lookup <- merge(
+  qcew_msa_lookup,
+  qcew_areas_msa %>% select(area_fips, msa_states, msa_cities, area_title),
+  by="area_fips"
+)
+
+write.csv(qcew_msa_lookup, "qcew_msa.csv")
+```
+
+
+```{r}
+# build url for source data
+qcew_area_msa_fips <- qcew_msa_lookup %>% group_by(area_fips) %>% summarise()
+qcew_url <- "http://www.bls.gov/cew/data/api/$Y/$Q/area/$FIP.csv"
+
+qcew_url_y <- map_df(2012:2016, ~ data_frame(link_y=str_replace(
+                                         qcew_url, "\\$Y", as.character(.x))))
+
+qcew_url_q <- map_df(1:4, ~ data_frame(link_q=str_replace(
+                                         qcew_url_y$link_y, "\\$Q", as.character(.x))))
+
+qcew_area_msa_links <- map_df(qcew_area_msa_fips$area_fips, 
+                       ~ data_frame(fip=.x,
+                                    link_fip=str_replace(qcew_url_q$link_q, "\\$FIP", as.character(.x))))
+
+qcew_area_msa_links <- qcew_area_msa_links %>% 
+  group_by(fip) %>% mutate(file=paste("downloads/", fip, row_number(), ".csv", sep="_"))
+
+write.csv(qcew_area_msa_links, "qcew_area_msa_links.csv")
+```
+
+Download CSV files from BLS
+```{r}
+
+# this seems to be broken but the files looks ok
+
+qcew_area_msa_links %>% do(tryCatch(download.file(.$link_fip, .$file),
+                                    error=function (e) {
+                                      print(paste("Error downloading", .$link_fip, "to", .$file))
+                                    },
+                                    finally=print(paste("Saving", .$link_fip, "to", .$file))))
+
+```
+
+Make a big dataframe
+```{r}
+qcew_area_msa_files <- bind_rows(map_df(qcew_area_msa_links$file, function(x){read.csv(file=x,header=T)}))
+write.csv(qcew_area_msa_files, "qcew_area_msa.csv")
+```
+
+
+
+### County Geolocation
+
+Could be useful later depending on what data are available from QCEW. Cross-ref with Metro areas above.
+
+This takes forever, you really don't want to run this unless you have to. This is a filtered list based on states of interest.
+
+```{r qcew_geocode, eval=FALSE}
+qcew_geo <- geocode(qcew_areas_join$area_title)
+write.csv(qcew_geo, "qcew_geo.csv")
+```
+
 ```{r, echo=FALSE}
 qcew_areas_split <- qcew_areas %>% 
   separate(area_title, c("area_descr", "area_state"), ", ", 
@@ -65,16 +153,32 @@ qcew_areas_join <- merge(meetup_geo_states %>% select(state_name, state, city, c
                          qcew_areas_split, by.x="state_name", by.y="area_state")
 ```
 
-
-```{r qcew_geocode}
-qcew_geo <- geocode(qcew_areas_join$area_title)
-#qcew_area_lookup <- bind_cols(qcew_areas, qcew_geo)
+```{r clean_qcew_geocode}
+qcew_geo <- read.csv("qcew_geo.csv")
+# link up names and geos
+qcew_area_lookup <- bind_cols(qcew_areas_join, qcew_geo)
+qcew_area_lookup <- qcew_area_lookup %>% 
+  mutate(lon_county=lon, lat_county=lat) %>%
+  filter(!is.na(lon) & !is.na((lat))) %>%
+  filter(area_descr=="Out-of-State") %>%
+  select(city, city_state, state, state_name, area_fips, area_title, area_descr, lon_county, lat_county )
 ```
 
-```{r}
-# build url for source data
+```{r build_qcew_city_geo}
 
-# http://www.bls.gov/cew/data/api/2015/2/area/29213.csv
+# get city lon/lat from meetup data
+qcew_city_geo <- merge(qcew_area_lookup, 
+                       meetup_geo_states %>% select(city_state, lon, lat), 
+                       by="city_state")
+```
+
+
+
+Function to compute distance between lon/lat if needed
+```{r distance_miles}
+# x is a lon/lat pair c(lon, lat)
+distance_miles <- function (x=c(lon, lat)) {
+  distm(x, c(lon_county, lat_county), fun = distHaversine)*0.000621371}
 ```
 
 
