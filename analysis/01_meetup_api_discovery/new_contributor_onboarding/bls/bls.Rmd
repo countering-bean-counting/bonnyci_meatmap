@@ -48,13 +48,13 @@ meetup_geo_states <- merge(
   by.y="state_abb"
 )
 
-write.csv(meetup_geo_states, "meetup_geo_states.csv")
+write.csv(meetup_geo_states, "qcew/meetup_geo_states.csv", row.names = FALSE)
 ```
 
 
 ```{r qcew_region_cxref, echo=FALSE}
 # to filter qcew areas
-meetup_geo_states <- read.csv("meetup_geo_states.csv")
+meetup_geo_states <- read.csv("qcew/meetup_geo_states.csv")
 
 # list of areas the qcew is divided into
 qcew_areas <- read.csv("downloads/bls_qcew_area_titles.csv")
@@ -87,7 +87,7 @@ qcew_msa_lookup <- merge(
   by="area_fips"
 )
 
-write.csv(qcew_msa_lookup, "qcew_msa.csv")
+write.csv(qcew_msa_lookup, "qcew/qcew_msa.csv", row.names = FALSE)
 ```
 
 
@@ -109,7 +109,7 @@ qcew_area_msa_links <- map_df(qcew_area_msa_fips$area_fips,
 qcew_area_msa_links <- qcew_area_msa_links %>% 
   group_by(fip) %>% mutate(file=paste("downloads/", fip, row_number(), ".csv", sep="_"))
 
-write.csv(qcew_area_msa_links, "qcew_area_msa_links.csv")
+write.csv(qcew_area_msa_links, "qcew/qcew_area_msa_links.csv", row.names = FALSE)
 ```
 
 Download CSV files from BLS
@@ -128,10 +128,8 @@ qcew_area_msa_links %>% do(tryCatch(download.file(.$link_fip, .$file),
 Make a big dataframe
 ```{r}
 qcew_area_msa_files <- bind_rows(map_df(qcew_area_msa_links$file, function(x){read.csv(file=x,header=T)}))
-write.csv(qcew_area_msa_files, "qcew_area_msa.csv")
+write.csv(qcew_area_msa_files, "qcew/qcew_area_msa.csv", row.names=FALSE)
 ```
-
-
 
 ### County Geolocation
 
@@ -141,7 +139,7 @@ This takes forever, you really don't want to run this unless you have to. This i
 
 ```{r qcew_geocode, eval=FALSE}
 qcew_geo <- geocode(qcew_areas_join$area_title)
-write.csv(qcew_geo, "qcew_geo.csv")
+write.csv(qcew_geo, "qcew/qcew_geo.csv")
 ```
 
 ```{r, echo=FALSE}
@@ -154,7 +152,7 @@ qcew_areas_join <- merge(meetup_geo_states %>% select(state_name, state, city, c
 ```
 
 ```{r clean_qcew_geocode}
-qcew_geo <- read.csv("qcew_geo.csv")
+qcew_geo <- read.csv("qcew/qcew_geo.csv")
 # link up names and geos
 qcew_area_lookup <- bind_cols(qcew_areas_join, qcew_geo)
 qcew_area_lookup <- qcew_area_lookup %>% 
@@ -195,7 +193,78 @@ download.file("http://ssti.org/report-archive/NAICS_Tech1.pdf", "downloads/ssti_
 ```
 
 ```{r naics_tech_codes}
-naics_extracts <- extract_tables("downloads/ssti_naics_tech_codes.pdf")
+naics_extracts <- extract_tables("downloads/ssti_naics_tech_codes.pdf",
+                                  pages=c(4:7), method="data.frame") %>%
+  reduce(bind_rows)
+
+# combine Industry for wrapped lines
+naics_extracts_fix_rows <- naics_extracts %>% 
+  filter(is.na(NAICS.6.NAICS.Industry)) %>%
+  mutate(NAICS4_na = is.na(NAICS.4),
+    NAICS.4=ifelse(NAICS4_na, lead(NAICS.4), NAICS.4),
+    NAICS.6=as.character(ifelse(NAICS4_na, lead(NAICS.6), NAICS.6)),
+    NAICS.Industry=ifelse(NAICS4_na, paste(NAICS.Industry, lead(NAICS.Industry)), NAICS.Industry),
+    NAICS4_na_prev=lag(NAICS4_na) & row_number() > 1
+    ) %>%
+  filter(!NAICS4_na_prev) %>% # remove rows for wrapped lines
+  select(NAICS.4, NAICS.6, NAICS.Industry)
+
+# some pages had the columns munged
+naics_extracts_fix_cols <- naics_extracts %>% 
+  filter(! is.na(NAICS.6.NAICS.Industry)) %>% 
+  select(NAICS.4, NAICS.6.NAICS.Industry) %>%
+  mutate(NAICS4_na = is.na(NAICS.4), # prepend space to extra row so seperate doesn't munge it
+         NAICS.6.NAICS.Industry= ifelse(NAICS4_na, 
+                                        paste(" ", NAICS.6.NAICS.Industry), 
+                                        NAICS.6.NAICS.Industry),
+         NAICS4_na_prev=lag(NAICS4_na) & row_number() > 1) %>%
+  separate(NAICS.6.NAICS.Industry, c("NAICS.6", "NAICS.Industry"), 
+           sep=" ", extra="merge", convert=FALSE) %>%
+  mutate(NAICS.Industry=ifelse(NAICS4_na_prev, # combine Industry for wrapped lines
+                                       paste(NAICS.Industry, lag(NAICS.Industry)),
+                                       NAICS.Industry)) %>%
+  filter(!NAICS4_na) %>% # remove rows for wrapped lines
+  select(NAICS.4, NAICS.6, NAICS.Industry)
+
+naics_tech <- merge(naics_extracts_fix_cols, naics_extracts_fix_rows, 
+                    by=c("NAICS.4", "NAICS.6", "NAICS.Industry"), all=TRUE) 
+
+# save extracted naic codes
+write.csv(naics_tech, "qcew/naics_tech.csv", row.names = FALSE)
+
 ```
 
+Some industry codes changed since 2012, so we need to create a lookup table to make sure they are correctly consolidated.
+
+```{r naics_changes}
+
+download.file("https://www.bls.gov/cew/bls_naics/2017_changes.csv", "downloads/naics_changes_2017.csv")
+
+# TODO
+
+```
+
+
+## QCEW Tech
+
+Extract rows from the QCEW report for Tech Industry NAIC codes
+
+```{r qcew_area_msa_tech}
+
+qcew_area_msa <- read.csv("qcew/qcew_area_msa.csv")
+
+naics_tech <- read.csv("qcew/naics_tech.csv")
+
+qcew_area_msa_tech_join <- merge(qcew_area_msa, naics_tech, by.x="industry_code", by.y="NAICS.6")
+
+qcew_msa_lookup <- read.csv("qcew/qcew_msa.csv")
+qcew_msa_meetup <- qcew_msa_lookup %>% 
+  select(area_fips, area_title, state, city, state_name, city_state)
+
+# add city info from Meetup
+qcew_area_msa_tech <- merge(qcew_area_msa_tech_join, qcew_msa_meetup, by="area_fips")
+qcew_area_msa_tech <- unique(qcew_area_msa_tech)
+
+write.csv(qcew_area_msa_tech, "qcew/qcew_area_msa_tech.csv", row.names = FALSE)
+```
 
