@@ -13,6 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 library(dplyr)
 library(rvest)
 library(stringr)
+library(tidyr)
 
 # TODO make this a parameter
 accelerators_html_file=paste("scraped_html/seeddb", "accelerators", "html", sep="_")
@@ -73,14 +74,34 @@ for(n in 1:nrow(seeddb_accelerators)) {
 seeddb_accelerators <- merge(seeddb_accelerators, seeddb_accelerators_links, by="Program")
 rm(seeddb_accelerators_links)
 
-write.csv(seeddb_accelerators, "seeddb_accelerators.csv")
+write.csv(seeddb_accelerators, "seeddb_accelerators.csv", row.names = FALSE, na = "")
 
 ```
 
 ```{r}
+seeddb_accelerators <- read.csv("seeddb_accelerators.csv")
 seeddb_acc_has_companies <- seeddb_accelerators %>% filter(Companies > 0)
 ```
 
+```{r seeddb_accelerators_fix_cities}
+
+# not perfect but does the job
+seeddb_accelerators_split <- seeddb_accelerators %>% 
+  mutate(location_1 = strsplit(as.character(Location), " \\/|; ")) %>% 
+  unnest(location_1) %>%
+  separate(location_1, c("city", "location_2"), sep=", ", fill="right", extra="merge") %>%
+  mutate(location_3=ifelse(is.na(location_2), city, NA)) %>%
+  separate(location_2, c("state", "country"), sep=" ", fill="right", extra="merge") %>%
+  separate(location_3, c("city2", "country2"), sep=" ", fill="right", extra="merge") %>%
+  mutate(country=ifelse(is.na(country), country2, country),
+         city=ifelse(is.na(state), city2, city))
+
+seeddb_accelerators_usa <- seeddb_accelerators_split %>% 
+  filter(country == 'US') %>% 
+  select(-city2, -country2)
+
+write.csv(seeddb_accelerators_usa, "seeddb_accelerators_usa.csv", row.names = FALSE, na = "")
+```
 
 ```{r seeddb_accelerators_companies, include=FALSE}
 # Create the archive of the HTML scrapes for the company pages
@@ -103,7 +124,7 @@ for(n in 1:nrow(seeddb_acc_has_companies)){
 
 ```
 
-Crunchbase blocks bots, but here are the links where you can find out more about locations.
+Crunchbase blocks bots. Angellist API doesn't provide location information about companies but could provide other insights for future research.
 
 ```{r seeddb_companies, echo=FALSE}
 seeddb_companies <- data_frame()
@@ -111,7 +132,7 @@ seeddb_companies <- data_frame()
 # TODO: refactor so this isn't using for loops
 for(n in 1:nrow(seeddb_acc_has_companies)){
   row <- seeddb_acc_has_companies[n,]
-  acc <- as.character(row["Program"])
+  acc <- as.character(row$Program)
   acc_filename <- str_replace_all(acc, "/| ", "_")
   acc_filename <- str_to_lower(acc_filename)
   acc_filename <- paste("scraped_html/", acc_filename, "companies", "html", sep="_")
@@ -131,26 +152,67 @@ for(n in 1:nrow(seeddb_acc_has_companies)){
   seeddb_company_table <- seeddb_company_table %>% 
     mutate(Program=acc)
 
-  crunchbase_links <- data_frame()
+  company_links <- data_frame()
+
+  print(paste("Building Links for:", n, acc))
   for (i in 1:nrow(seeddb_company_table)) {
-    company <- seeddb_company_table[i,]["Company"]
     crunchbase_link <- seeddb_company_html %>% 
       html_node(str_replace("#seedcos > tbody > tr:nth-child($) > td:nth-child(2) > a", 
                             "\\$", as.character(i))) %>% html_attrs()
-    crunchbase_links <- bind_rows(crunchbase_links, 
-                              data_frame(Company=as.list(company), crunchbase=crunchbase_link[1]))
+    angellist_link <- seeddb_company_html %>% 
+      html_node(
+        str_replace("#seedcos > tbody > tr:nth-child($) > td:nth-child(3) > div > button:nth-child(1) > a",
+                    "\\$", as.character(i))) %>% html_attrs()
+    links_df <- data_frame(Company=c(seeddb_company_table[i,]["Company"]), 
+                                  crunchbase=crunchbase_link[1], 
+                                  angellist=angellist_link[1])
+    links_df <- links_df %>% mutate(Company=as.character(Company))
+    
+    company_links <- bind_rows(company_links, links_df)
     
   }
 
-  seeddb_company_table <- merge(seeddb_company_table, crunchbase_links, by="Company")
+  seeddb_company_table <- seeddb_company_table %>%
+    inner_join(company_links, by="Company")
+  
   seeddb_companies <- bind_rows(seeddb_companies, seeddb_company_table)
 }
 
 # Fix crunchbase urls
 seeddb_companies <- seeddb_companies %>%
-  mutate(crunchbase = ifelse(str_match(crunchbase, "^http") > 0, crunchbase, NA))
+  mutate(crunchbase = ifelse(str_match(crunchbase, "^http") > 0, crunchbase, NA),
+         angellist = ifelse(str_match(angellist, "angel.co") > 0, angellist, NA))
 
-write.csv(seeddb_companies, "seeddb_companies.csv")
+write.csv(seeddb_companies, "seeddb_companies.csv", row.names = FALSE, na = "")
 ```
 
+```{r get_company_location}
+
+# Currently doesn't work
+
+seeddb_companies <- read.csv("seeddb_companies.csv")
+seeddb_companies_lnk <- seeddb_companies %>% filter(! is.na(angellist))
+
+for(n in 1){#:nrow(seeddb_companies)){
+  row <- seeddb_companies_lnk[n,]
+  angellist_link <- as.character(row["angellist"])
+  company <- as.character(row["Company"])
+  
+  company_filename <- str_replace_all(company, "/| ", "_")
+  company_filename <- str_to_lower(company_filename)
+  company_filename <- paste("scraped_html/company", company_filename, "html", sep="_")
+  
+  print(paste("getting HTML for", acc))
+  seeddb_company_html <- download.file(angellist_link, company_filename)
+  print(paste("saved HTML to", company_filename))
+}
+
+```
+
+
+
+
+# Sources
+
+[1] Angellist API https://market.mashape.com/community/angellist
 
