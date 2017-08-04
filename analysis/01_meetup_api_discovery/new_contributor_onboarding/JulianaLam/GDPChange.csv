@@ -1,0 +1,529 @@
+Fips,Area,IndCode,Industry,2001-2002,2002-2003,2003-2004,2004-2005,2005-2006,2006-2007,2007-2008,2008-2009,2009-2010,2010-2011,2011-2012,2012-2013,2013-2014,2014-2015
+998,United States (Metropolitan Portion),1,All industry total,1.8,2.5,3.6,3.3,2.7,1.5,-0.6,-2.8,2.1,1.4,2.1,1.2,2.3,2.5
+998,United States (Metropolitan Portion),2,  Private industries,1.8,2.7,4,3.7,3,1.7,-1,-3.2,2.4,1.7,2.5,1.5,2.6,2.9
+998,United States (Metropolitan Portion),3,"    Agriculture, forestry, fishing, and hunting",7.3,3.7,4.6,6.3,8.2,-15.1,-2.7,16.7,0.2,-8.2,-6.9,16.5,3.2,10.6
+998,United States (Metropolitan Portion),4,      Farms,8.6,3.3,5.1,8,4.7,-18.4,-2,22.1,-0.6,-10.5,-11.2,21.9,3,(NA)
+998,United States (Metropolitan Portion),5,"      Forestry, fishing, and related activities",3.5,5.1,2.9,0.2,19.7,-4.6,-5.2,1.7,2.7,-0.2,9.2,0.7,3.9,(NA)
+998,United States (Metropolitan Portion),6,    Mining,-0.4,-13.2,-1.6,-1,10.1,6.2,0.8,15.6,-9.3,5.7,12.2,5.6,7.3,9.1
+998,United States (Metropolitan Portion),7,      Oil and gas extraction,7.8,-18,-2.9,-2.9,8.7,5.9,0.9,27.7,-14.8,3.8,17.8,6.7,6.3,(NA)
+998,United States (Metropolitan Portion),8,"      Mining, except oil and gas",-5.6,1,-0.2,2.4,-0.7,0.4,-9.7,-5.6,5.3,5.3,-6.1,4.6,9.4,(NA)
+998,United States (Metropolitan Portion),9,      Support activities for mining,-30.1,2.4,6.6,9.5,32.4,12.9,9.2,-22.7,10.7,18.4,1.1,-0.1,11.3,(NA)
+998,United States (Metropolitan Portion),10,    Utilities,2,-3.5,4.8,-6.3,5.9,1.3,0.9,-7.6,8.9,1.2,-0.5,-0.6,-3.7,-5.3
+998,United States (Metropolitan Portion),11,    Construction,-3,1.9,3.7,0.4,-2.5,-3.9,-8.9,-13.2,-5,-0.8,3.7,2.8,1,5.5
+998,United States (Metropolitan Portion),12,    Manufacturing,0.9,5.4,6.6,2.5,5.2,3.6,-2.6,-7.3,5.2,-0.4,0.2,1.5,1.7,1.6
+998,United States (Metropolitan Portion),13,      Durable goods manufacturing,1.7,7.1,6.6,6.7,7.7,4.9,-0.7,-13.5,11.1,5.9,2.8,0.9,1.6,1
+998,United States (Metropolitan Portion),14,        Wood products manufacturing,0.6,1,-2.4,10.1,-1.6,4,-9.5,-16.2,0.4,9.2,-1,-2.7,-3.9,(NA)
+998,United States (Metropolitan Portion),15,        Nonmetallic mineral products manufacturing,-1.1,2.2,7.3,2,-6.3,0.4,-10.4,-21.5,-0.4,2.8,3.2,7.2,1.9,(NA)
+998,United States (Metropolitan Portion),16,        Primary metals manufacturing,2.5,-3.8,10.1,-8,-8.7,-3.8,4.1,0.7,-4.9,3.8,16.1,8.6,-3.7,(NA)
+998,United States (Metropolitan Portion),17,        Fabricated metal products,-4.8,3.8,3.9,2.3,3.7,4,-5.8,-23.3,9.5,6,3.2,-1.8,4.3,(NA)
+998,United States (Metropolitan Portion),18,        Machinery manufacturing,-7.8,-1.2,10.8,6.7,7.5,4.8,-0.1,-19.9,9.9,13.5,-0.9,-2.7,0.1,(NA)
+998,United States (Metropolitan Portion),19,        Computer and electronic products manufacturing,8.2,25,14.3,13,17,12.9,12.4,0.7,11.8,3.7,4.3,0.3,2.9,(NA)
+998,United States (Metropolitan Portion),20,"        Electrical equipment, appliance, and components manufacturing",-0.1,6.9,-5.4,0.5,16.2,-5.9,7.2,-15.6,3.4,-3.6,1.4,1.8,0.8,(NA)
+998,United States (Metropolitan Portion),21,"        Motor vehicles, bodies and trailers, and parts manufacturing",13.2,8,1.4,5.1,10,-4.4,-22.6,-54,100.5,27.3,8,5.8,-0.1,(NA)
+998,United States (Metropolitan Portion),22,        Other transportation equipment manufacturing,-7.2,-4.5,1.6,14.9,4.8,17.8,-2.5,-4.2,0,1.8,-3.4,1.5,2,(NA)
+998,United States (Metropolitan Portion),23,        Furniture and related products manufacturing,-2.6,-1.9,7.4,5.3,2.6,-9.5,-14.9,-26.9,0.4,1.1,-1.4,6,2.2,(NA)
+998,United States (Metropolitan Portion),24,        Miscellaneous manufacturing,4.4,1.7,4.9,4.8,8,1.5,5.8,2.4,2,-4.1,0.1,-3.3,2.1,(NA)
+998,United States (Metropolitan Portion),25,      Nondurable goods manufacturing,-0.1,3.1,6.6,-2.7,2.2,2,-4.8,0.4,-0.9,-7,-2.7,2.2,1.7,2.3
+998,United States (Metropolitan Portion),26,        Food and beverage and tobacco products manufacturing,-4.7,2.8,1.1,-0.5,10.3,0.1,-5,7.8,-3.9,-3.9,-1.6,-0.6,-0.9,(NA)
+998,United States (Metropolitan Portion),27,        Textile mills and textile product mills,-4.2,-16.8,20.7,-12.3,-4.3,-2.9,-5.4,-20.5,1.7,-14,12.1,5.5,2.3,(NA)
+998,United States (Metropolitan Portion),28,        Apparel and leather and allied products manufacturing,-8,-14.2,-1.5,-1.5,-4.7,-3.8,0.1,-14.7,9.5,-2,-2.6,2.3,4.2,(NA)
+998,United States (Metropolitan Portion),29,        Paper products manufacturing,2.7,-1.7,6.4,-3.6,6.3,-6.3,-13,5.6,-9.9,-4.7,-2.5,0,1.2,(NA)
+998,United States (Metropolitan Portion),30,        Printing and related support activities,4.3,0.2,2.7,1.4,2,2.7,-2.9,-14,1,1.9,0,0.1,0.3,(NA)
+998,United States (Metropolitan Portion),31,        Petroleum and coal products manufacturing,-8.4,34.3,12.4,0.1,-14.2,1,8,-4.6,-13.8,-15.2,-4.4,11,9.4,(NA)
+998,United States (Metropolitan Portion),32,        Chemical products manufacturing,6.5,0.1,8.9,-5.4,10.5,5.9,-9.2,1.4,6.3,-6.9,-4.3,0.1,-0.8,(NA)
+998,United States (Metropolitan Portion),33,        Plastics and rubber products manufacturing,-2.7,1.3,5.2,-3.1,-7.2,1.5,-12.3,-0.5,6,-1.6,3.5,1.8,4.8,(NA)
+998,United States (Metropolitan Portion),34,    Wholesale trade,0.2,5.9,5.4,5.2,3.9,3.4,-1.4,-13,3,2,2.8,3.1,3.4,3.1
+998,United States (Metropolitan Portion),35,    Retail trade,3.8,5.6,1.5,3.3,0.5,-2.7,-4.3,-3.1,2.6,0.8,2,2.9,2,3.7
+998,United States (Metropolitan Portion),36,    Transportation and warehousing,-3,3.7,9.9,5.7,6.1,-1.2,-0.2,-7.8,5.5,3.4,0.4,0.6,0.7,-1.8
+998,United States (Metropolitan Portion),37,      Air transportation,0.9,6.9,20,5.8,5.3,6.9,-9.2,-5.5,9.9,-1.7,-6.3,4.2,-2.3,(NA)
+998,United States (Metropolitan Portion),38,      Rail transportation,-9.8,8.4,5.3,1.2,2.6,-1.2,4.2,-12.9,1.5,3.7,4.6,0.3,2.7,(NA)
+998,United States (Metropolitan Portion),39,      Water transportation,-23.3,2.2,26.8,31.7,60.2,31.5,18.5,20.2,-16.5,14.1,0.8,20.1,-3.3,(NA)
+998,United States (Metropolitan Portion),40,      Truck transportation,-1.3,2,6.3,3.5,5.6,-2.9,-5,-11.5,9.1,7.7,1.9,-2.5,0.2,(NA)
+998,United States (Metropolitan Portion),41,      Transit and ground passenger transportation,-0.7,2.6,3.5,-0.3,4.7,0.3,-1.3,-9.5,0.3,3,-0.8,-3.6,2.8,(NA)
+998,United States (Metropolitan Portion),42,      Pipeline transportation,-42.5,13.4,7.5,-1.9,3,19.9,27.8,-27.1,26.8,4.1,9.4,-1.7,6.3,(NA)
+998,United States (Metropolitan Portion),43,      Other transportation and support activities,2.1,0.5,5.9,6.1,2.8,-9.8,2.9,-8,3.4,0.4,-2.1,-1.2,0.4,(NA)
+998,United States (Metropolitan Portion),44,      Warehousing and storage,1.7,7.5,17.5,14.3,7.9,-5.3,6.3,-1,4,5.5,9.5,4.3,4.3,(NA)
+998,United States (Metropolitan Portion),45,    Information,9.5,2.6,11.1,5.5,2.5,9.8,5.1,-3.7,4.3,0.2,1.3,7,3.9,6.3
+998,United States (Metropolitan Portion),46,"      Publishing industries, except Internet (includes software)",15.1,5.5,12.6,6.4,-8.2,17.8,-2.8,-7.7,5.1,2.9,3,2.3,4.2,(NA)
+998,United States (Metropolitan Portion),47,      Motion picture and sound recording industries,7.3,-2.2,6.8,-17.3,5.9,12,11.4,8.9,18.4,-1.4,3.5,2.4,-0.1,(NA)
+998,United States (Metropolitan Portion),48,      Broadcasting and telecommunications,1.3,2.3,9.4,13,5.2,12.4,6.7,-3.7,0.1,-1.8,1.5,8,3.6,(NA)
+998,United States (Metropolitan Portion),49,"      Data processing, internet publishing, and other information services",54,3.2,19.6,-3.9,12.9,-18.1,11.5,-8.1,5.9,5.9,-7.4,23.1,10.3,(NA)
+998,United States (Metropolitan Portion),50,"    Finance, insurance, real estate, rental, and leasing",1.2,1.1,1.6,6.7,2.7,1.7,-3.7,4.1,2.1,2.2,2.9,-0.8,2.3,1.8
+998,United States (Metropolitan Portion),51,      Finance and insurance,0.1,0.8,-0.2,9,4.5,-2.8,-13.5,16,0.2,0.9,5.3,-3.2,2.3,1.4
+998,United States (Metropolitan Portion),52,"        Federal Reserve banks, credit intermediation, and related services",10.9,2,-8.8,7.7,-0.1,-5.1,-0.9,12.6,-2.4,6.3,4.5,-5.1,-2.9,(NA)
+998,United States (Metropolitan Portion),53,"        Securities, commodity contracts, and investments",-10.7,-12.6,1.5,19.9,12.6,-17.4,-44.3,70,3,-9.5,8.9,-7.7,1.5,(NA)
+998,United States (Metropolitan Portion),54,        Insurance carriers and related activities,-6.5,6.5,10.4,4.7,6.3,8.2,-11.7,2.5,0.7,1.3,3.9,0.4,7.3,(NA)
+998,United States (Metropolitan Portion),55,"        Funds, trusts, and other financial vehicles",1.6,18.1,10.8,12,-7.5,20.9,17.2,-0.3,12.5,-1.2,11.2,10.2,19.1,(NA)
+998,United States (Metropolitan Portion),56,      Real estate and rental and leasing,1.9,1.4,2.7,5.4,1.6,4.5,1.8,-1.4,3.1,2.8,1.6,0.6,2.3,2
+998,United States (Metropolitan Portion),57,        Real estate,2.4,2.2,3.4,5.8,0.5,5.4,1.6,-0.4,3.4,3,1.2,0.6,2.2,(NA)
+998,United States (Metropolitan Portion),58,        Rental and leasing services and lessors of intangible assets,-1.8,-5.9,-4.4,1,12.9,-4.9,3.6,-11.6,0.3,0.8,6.9,0.1,4.4,(NA)
+998,United States (Metropolitan Portion),59,    Professional and business services,1.4,2.6,2.6,4.2,2.8,2.6,4.4,-6.6,3.4,3.8,4.2,0.6,4.2,4.8
+998,United States (Metropolitan Portion),60,"      Professional, scientific, and technical services",2.5,0.6,3.7,3.1,3.6,3.2,7.5,-6.1,0.9,3.7,3.4,-0.9,3.4,5.1
+998,United States (Metropolitan Portion),64,      Management of companies and enterprises,-0.5,3.3,-4.7,0.8,0.7,-2.5,-0.6,-8.6,7.7,4.5,7.6,5,7,5.2
+998,United States (Metropolitan Portion),65,      Administrative and waste management services,0.1,7.2,4.6,9.2,2.2,4.6,0.5,-6.6,6.9,3.7,3.8,1.3,4.3,4
+998,United States (Metropolitan Portion),66,        Administrative and support services,-0.2,7.7,5.4,9.5,3.1,4.3,0.7,-7.1,5.7,5.7,4.2,1.4,4.5,(NA)
+998,United States (Metropolitan Portion),67,        Waste management and remediation services,2.7,2.5,-2.5,5.4,-7.2,8,-1.5,-0.8,20,-14.1,-1.5,-0.3,1.1,(NA)
+998,United States (Metropolitan Portion),68,"    Educational services, health care, and social assistance",4.1,3.4,4,1.8,4,1,5.4,2.3,0.6,1.7,2,1.5,2.3,3
+998,United States (Metropolitan Portion),69,      Educational services,1.6,4.7,5,-0.3,2.4,2.3,4,4.9,1.3,0.9,0.9,-2,2,-0.1
+998,United States (Metropolitan Portion),70,      Health care and social assistance,4.5,3.2,3.9,2.1,4.2,0.8,5.6,1.9,0.5,1.8,2.2,2.1,2.3,3.5
+998,United States (Metropolitan Portion),71,        Ambulatory health care services,6,2.6,4.7,3.4,5.5,0,6,1.3,1.5,2.6,1.6,3.4,2.8,(NA)
+998,United States (Metropolitan Portion),72,        Hospitals and nursing and residential care facilities,3.2,3.3,3.3,0.5,3.1,1.7,5.3,2.8,-0.6,1.8,2,0.5,1.5,(NA)
+998,United States (Metropolitan Portion),73,        Social assistance,2.1,6.1,2,2.8,2.4,1.2,4.9,0.6,0.5,-2.8,7.1,3,2.9,(NA)
+998,United States (Metropolitan Portion),74,"    Arts, entertainment, recreation, accommodation, and food services",2.6,3.1,4.5,0.4,2.5,0.1,-2.5,-6.5,3.6,3.9,2.5,2.2,3.1,1.8
+998,United States (Metropolitan Portion),75,"      Arts, entertainment, and recreation",4.8,3.9,3.5,0.1,3.1,1.5,-0.3,-3.3,4.1,2,3.4,2.9,3.1,2.7
+998,United States (Metropolitan Portion),76,"        Performing arts, spectator sports, museums, and related activities",6.7,5.2,1.2,-1.9,5.6,-1.8,1.1,-1.6,-0.6,2.1,3.1,2.6,2.8,(NA)
+998,United States (Metropolitan Portion),77,"        Amusements, gambling, and recreation industries",2.5,2.1,6.7,2.7,-0.1,6.1,-2.2,-5.6,11,2,3.7,3.3,3.4,(NA)
+998,United States (Metropolitan Portion),78,      Accommodation and food services,1.8,2.8,4.9,0.5,2.2,-0.3,-3.3,-7.6,3.3,4.6,2.2,2,3.1,1.5
+998,United States (Metropolitan Portion),79,        Accommodation,1.6,1.5,6.8,0.3,2.3,2,-3.5,-11.2,4.4,6.6,1.5,4.4,1.1,(NA)
+998,United States (Metropolitan Portion),80,        Food services and drinking places,1.9,3.3,4.1,0.6,2.2,-1.4,-3.2,-6.1,2.9,3.8,2.5,1.1,4,(NA)
+998,United States (Metropolitan Portion),81,"    Other services, except government",2.5,-3.1,1.5,0.3,0.4,-2.2,-3.4,-5.3,-1.8,-0.2,2.2,-0.4,2.6,1.4
+998,United States (Metropolitan Portion),82,  Government,2,1,0.7,0.6,0.7,0.7,1.8,0.6,0.5,-0.6,-0.2,-0.8,0,-0.3
+998,United States (Metropolitan Portion),83,    Federal civilian,1.6,0.5,0.2,-0.8,1.1,0.3,1.2,2.5,2.8,-0.5,0.1,-3.2,0.9,(NA)
+998,United States (Metropolitan Portion),84,    Federal military,2.8,2.7,2.3,1.3,0.3,-2.7,4.8,5.4,0.8,-0.9,-1.8,-2.3,-3.2,(NA)
+998,United States (Metropolitan Portion),85,    State and local,1.9,0.9,0.6,0.8,0.7,1.4,1.5,-0.6,-0.2,-0.6,-0.1,0.1,0.3,(NA)
+998,United States (Metropolitan Portion),86,Addenda:,,,,,,,,,,,,,,
+998,United States (Metropolitan Portion),86,Natural resources and mining,2.3,-7.3,0.6,1.3,9.6,0.5,0,15.9,-7.1,2.1,7.3,8.1,6.3,9.6
+998,United States (Metropolitan Portion),87,Trade,2,5.7,3.4,4.2,2.2,0.3,-2.8,-8.4,2.8,1.4,2.4,3,2.7,3.4
+998,United States (Metropolitan Portion),88,Transportation and utilities,-1.2,1.1,8.1,1.4,6,-0.4,0.2,-7.7,6.8,2.6,0.1,0.2,-0.8,-3
+998,United States (Metropolitan Portion),89,Private goods-producing industries,0.1,3.4,5.3,1.8,3.7,1.3,-3.8,-5.7,1.3,-0.1,1.9,2.7,2.2,3.5
+998,United States (Metropolitan Portion),90,Private services-providing industries,2.3,2.5,3.6,4.3,2.8,1.8,-0.1,-2.6,2.7,2.2,2.6,1.2,2.7,2.8
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",1,All industry total,6.3,2.2,-0.6,1.1,-0.7,1.6,-4.2,-5.3,3.2,-0.9,-1.7,0.9,0.8,1.8
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",2,  Private industries,7.1,3,-0.3,1,-1,2.7,-6.4,-7.7,2.8,-0.2,-4.3,0.9,1,3.4
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing, and hunting",42.9,80,38.9,0,24,-29,-22.7,47.1,16,(D),(D),100,-36.4,3.6
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",4,      Farms,100,225,46.2,5.3,20,-33.3,-25,66.7,5,76.2,-62.2,157.1,-41.7,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",5,"      Forestry, fishing, and related activities",40,-28.6,20,-16.7,20,0,0,-16.7,60,(D),(D),-30,14.3,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",6,    Mining,-28.6,-26.7,-54.5,0,20,-16.7,20,16.7,-28.6,(D),(D),-16.7,0,20
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",7,      Oil and gas extraction,0,0,0,0,0,0,100,0,0,0,(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",8,"      Mining, except oil and gas",-29.2,-29.4,-66.7,0,50,-16.7,0,0,-20,(D),(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",9,      Support activities for mining,(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",10,    Utilities,15.4,47.6,16,-24.6,14.3,-2.8,18.4,-28.2,16.3,-17.1,-15.7,4.8,-0.3,-0.3
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",11,    Construction,-10.7,-13.9,-3.4,-4.6,-22.2,-15.6,-17,-16.3,-3.4,4.8,2.4,1.5,4.4,1.4
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",12,    Manufacturing,21.9,5.5,-4.7,4.9,0.3,-1,-18.4,-32.5,32.3,6.1,-7.5,9.6,-4.9,-4.7
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",13,      Durable goods manufacturing,23.4,6.6,-6.3,7,-1.8,-1.3,-20.2,-38.1,39.1,5.5,-13.5,9.3,-14.7,-6.7
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",14,        Wood products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-10,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",15,        Nonmetallic mineral products manufacturing,12.5,11.1,10,81.8,-25,-13.3,7.7,-35.7,11.1,-10,11.1,90,10.5,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",16,        Primary metals manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",17,        Fabricated metal products,-3.4,13.4,-12.2,-5.4,-12.3,-17.3,-31.4,-28.6,30.7,8.2,2.8,0.9,7.3,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",18,        Machinery manufacturing,-9.2,2.8,8.1,-0.8,-2.5,4.3,-6.6,-30.1,20.3,15.8,-21.8,17.4,1,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",19,        Computer and electronic products manufacturing,-14.3,21.7,2.7,17.3,10.2,22.7,10.1,-18.3,-14,22.8,8,17.2,9.8,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",20,"        Electrical equipment, appliance, and components manufacturing",0,0,-14.3,-50,0,0,0,0,0,(D),(D),250,64.3,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",21,"        Motor vehicles, bodies and trailers, and parts manufacturing",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",22,        Other transportation equipment manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",23,        Furniture and related products manufacturing,0,28.6,22.2,0,-9.1,0,0,-30,-14.3,16.7,14.3,-25,16.7,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",24,        Miscellaneous manufacturing,-5.2,-10.1,-9.2,11.2,-3,33.3,10.2,29.8,-6,4.1,11.7,-4.5,1,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,12.8,-2.2,6.9,-7.4,12.7,0.4,-10.5,-10.1,14.2,7.5,10.1,10.4,18.2,-1.3
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",26,        Food and beverage and tobacco products manufacturing,(D),(D),(D),(D),(D),-12.5,10.7,(D),(D),(D),(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",27,        Textile mills and textile product mills,(D),(D),(D),0,0,0,(D),(D),0,0,0,0,100,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",28,        Apparel and leather and allied products manufacturing,(D),(NM),(NM),(NM),(NM),(D),(D),(D),(D),(D),(D),(NM),(NM),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",29,        Paper products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",30,        Printing and related support activities,8.2,6.2,-4.5,2.7,-2.6,3.4,7.9,-20.1,3.8,5.9,4.9,-7.3,-2.1,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",31,        Petroleum and coal products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",32,        Chemical products manufacturing,34.4,-5.8,29.8,-17.6,17.2,18.2,-29,-8.3,7.3,-12.7,-1.9,5,-0.9,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",33,        Plastics and rubber products manufacturing,7,-20.5,11.3,-10.2,-11.3,22.1,-17.1,-9.2,65.8,6.1,1.4,2.1,34.7,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",34,    Wholesale trade,7.4,10.6,4.2,2.8,4.3,5.4,-8.5,-9.1,3.6,-3.6,1.4,-4.4,5.6,9.5
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",35,    Retail trade,0.9,-3.1,-0.3,-1.2,-6.5,-4.8,0,2.3,2.2,-1.6,-7.3,2.7,1.3,1.8
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",36,    Transportation and warehousing,-12.8,26.9,28.3,20.1,4.9,4.7,6.3,-19.1,14.2,14.9,-14,-10.2,-12.7,1.6
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",37,      Air transportation,-27.3,225,67.3,31,13.2,(D),(D),(D),(D),15.8,-25,-17,-28.8,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",38,      Rail transportation,0,0,0,0,0,0,0,0,0,0,0,0,0,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",39,      Water transportation,(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",40,      Truck transportation,-6.7,8.4,15.6,17.3,0,-4.1,14.5,-30.6,-10.8,2.4,4.7,-1.1,2.3,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",41,      Transit and ground passenger transportation,-15.4,9.1,25,6.7,0,0,-12.5,-14.3,-16.7,-10,11.1,0,10,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",42,      Pipeline transportation,(D),(D),(D),0,(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",43,      Other transportation and support activities,(D),(D),(D),5,(D),(D),-2.6,-10.8,(D),(D),(D),(D),16.2,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",44,      Warehousing and storage,-16.7,-40,0,33.3,0,-12.5,14.3,0,12.5,222.2,-10.3,0,-23.1,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",45,    Information,15,1.5,-6.4,-4.6,-4.6,13.9,4.7,7.6,5.1,1.8,-10.9,9.1,23.1,8.2
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",46,"      Publishing industries, except Internet (includes software)",18.1,12.2,(D),(D),-11.1,6.4,4.6,17.9,4.2,-9.1,-5.6,1.7,8,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",47,      Motion picture and sound recording industries,0,11.8,0,36.8,23.1,(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",48,      Broadcasting and telecommunications,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",49,"      Data processing, internet publishing, and other information services",(D),(D),(D),(D),(D),(D),0.6,-6,-2.6,12.5,-7,29.6,77.2,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",5.6,3.6,-1.2,2.5,3.7,10.2,-3,4.7,-11.2,-7.1,-10.6,-7,-2.3,8.7
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",51,      Finance and insurance,18.3,-4.6,-12.1,10.2,7.7,-4.6,-19.2,28.7,2.8,-14.6,31.6,-0.3,-8.4,4.8
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",52,"        Federal Reserve banks, credit intermediation, and related services",20.7,10,-30.4,7.8,-14,-8.4,-4.3,19.9,3.2,-23.8,72.8,-7.9,-20.5,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",53,"        Securities, commodity contracts, and investments",-5.1,-12.5,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",54,        Insurance carriers and related activities,34.2,-17.4,27.8,14.7,35.4,1.5,-27.6,33.5,-2.3,-11.5,5.8,4.6,0.4,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",55,"        Funds, trusts, and other financial vehicles",-11.5,-60.9,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,3,5.6,1.3,0.9,2.8,13.4,0,1.3,-13.6,-5.5,-18.8,-9.1,-0.2,10
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",57,        Real estate,0.4,3.2,1.2,0.7,1.8,15.6,-0.2,0.9,-13.8,-6.6,-21.3,-10.6,-0.6,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",58,        Rental and leasing services and lessors of intangible assets,75.3,45.9,2.5,4,14.3,-7.5,2.7,6.6,-10.7,5.1,5.3,1.7,2.5,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",59,    Professional and business services,0.2,1.2,0.1,-0.5,-6.9,5,-11.5,-7.3,4.5,1.7,3.1,1.7,1.3,5.3
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",2,-3,3,-4.4,-4.5,6.1,-12.8,-8.7,2.5,3.8,6.9,3.1,2.9,4.9
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",64,      Management of companies and enterprises,1,28.3,-19.4,15.1,-29.7,-5.7,-30.6,-3.5,4.2,12.7,-13.8,13.1,11.6,0.5
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",65,      Administrative and waste management services,-6.1,5.5,1.1,6.4,-2.2,6,0.5,-4,9.8,-7.1,-2.5,-6.1,-7.7,8.4
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",66,        Administrative and support services,-6.8,5.8,1,5,-1.1,6.4,1.2,-4.5,9.5,-6.6,-4.3,-6.7,-8.8,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",67,        Waste management and remediation services,3.6,6.9,3.2,28.1,-19.5,3,-11.8,3.3,16.1,-13.9,29,0,2.5,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",3.5,0.8,3.1,1.9,6.1,1.5,3.6,-0.8,-3.2,2.7,3.8,-0.4,2.7,0.7
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",69,      Educational services,-5.6,-4.4,12.3,16.4,11.8,3.2,3.1,0,1,6.9,9.2,1.7,-0.8,-2.5
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",70,      Health care and social assistance,4.1,1.1,2.6,1.1,5.8,1.3,3.7,-0.9,-3.5,2.4,3.3,-0.5,3.1,0.9
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",71,        Ambulatory health care services,12.8,4,5.4,2.9,9.1,2.4,5.9,-4.3,-1.4,3.4,3.8,1.2,4,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",72,        Hospitals and nursing and residential care facilities,-3.8,(D),(D),(D),(D),(D),(D),(D),(D),2.5,(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",73,        Social assistance,1.4,(D),(D),(D),(D),(D),(D),(D),(D),-12.1,(D),(D),(D),(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",74,"    Arts, entertainment, recreation, accommodation, and food services",2.3,1,8.8,-0.4,-3.8,-2.5,-5.2,-3.2,2.4,3.2,2.1,2.4,6,2.2
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",75,"      Arts, entertainment, and recreation",15,10.9,7.8,-1.8,1.9,0,-14.5,-7.4,3.4,3.3,4.3,5.2,4.9,4.7
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",76,"        Performing arts, spectator sports, museums, and related activities",19.4,16.2,4.7,-11.1,10,-13.6,-26.3,-10.7,8,0,3.7,14.3,3.1,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",77,"        Amusements, gambling, and recreation industries",12.2,9.1,8.3,4.6,-2.9,7.6,-8.5,-4.6,1.6,4.8,4.5,1.4,4.3,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",78,      Accommodation and food services,-0.3,-1.3,9,0,-5.2,-3.3,-2.6,-2.1,2.2,3.2,1.5,1.8,6.5,1.4
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",79,        Accommodation,0,15.5,16.4,0,1.3,-8.9,8.3,-5.1,-4.1,-4.2,4.4,-1.4,2.9,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",80,        Food services and drinking places,-0.3,-4.5,7.2,0.3,-7,-1.6,-5.4,-1.3,3.7,4.9,0.9,2.5,6.9,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",81,"    Other services, except government",0.3,-4.5,2.5,0.8,-0.8,-4.1,1.7,-4.2,-4.9,-4.6,3.5,-3.4,3.2,2.8
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",82,  Government,3.6,-0.7,-1.7,1.6,0.4,-2,2.5,1.5,4.3,-2.5,4.8,1.1,0.3,-1.9
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",83,    Federal civilian,-2.9,8.1,3.8,-0.3,0.7,-3.9,-5.5,31,24.8,5.1,5.5,0.6,2,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",84,    Federal military,4.1,3.9,3.8,-1.8,-5.6,-3.9,0,10.2,5.6,1.8,-5.2,0,-1.8,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",85,    State and local,4,-1.2,-2.1,1.8,0.4,-1.8,3,-0.3,2.7,-3.3,4.9,1.2,0.1,(NA)
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",86,Addenda:,,,,,,,,,,,,,,
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",86,Natural resources and mining,0,30,15.4,0,23.3,-27,-14.8,39.1,6.3,52.9,-46.2,75,-30.6,2.9
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",87,Trade,3.3,2.1,1.5,0.5,-1.8,-0.2,-4.1,-3.1,2.9,-2.6,-3.3,-0.8,3.2,5.5
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",88,Transportation and utilities,2.1,39.3,20.4,-8.1,9.8,0.7,12.7,-24.3,15.4,-2.7,-14.7,-3.7,-6.6,0.5
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",89,Private goods-producing industries,15.6,2.6,-4.4,3.4,-3.4,-3.5,-18.2,-29.6,26.2,6.7,-7.3,9.6,-4.4,-3.8
+11460,"Ann Arbor, MI (Metropolitan Statistical Area)",90,Private services-providing industries,3.7,3.2,1.3,0.1,-0.2,4.7,-3,-2.4,-1.3,-1.7,-3.5,-1.1,2.4,5.1
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",1,All industry total,0.6,4.5,7.2,6.2,8.1,3,4.3,-2.1,5.9,4.7,6,4,5.6,5
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",2,  Private industries,-0.3,5.3,8.9,6.9,9.2,3,4.7,-3.1,6.5,5.8,6.8,4.5,6.2,5.6
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing, and hunting",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),5.1,1.2,14.3
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",4,      Farms,18.2,111.5,60,-22.7,22.1,-21.7,-63.1,-25,88.9,-38.2,57.1,18.2,-5.1,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",5,"      Forestry, fishing, and related activities",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-6.7,7.1,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",6,    Mining,-8.8,(D),(D),(D),(D),(D),-0.3,18.4,-4.4,17.8,19.5,6.7,12.2,16.5
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",7,      Oil and gas extraction,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",8,"      Mining, except oil and gas",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",9,      Support activities for mining,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),29.3,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",10,    Utilities,6.2,0.2,10.3,-2.1,4,(D),(D),15.3,48.2,(D),(D),-40.4,36.9,-12.1
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",11,    Construction,-9.3,1.6,1,2.4,3.8,5.9,-4.3,-8.8,0.3,-3.3,8.2,5.6,4.9,8.5
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",12,    Manufacturing,8.6,13.3,34.3,8,33,-13.3,10.3,-15.6,16.1,6.5,-1.3,7.9,6.9,7.2
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",13,      Durable goods manufacturing,(D),(D),34.3,10.6,36.2,-15.3,15,-17.3,16.3,7.6,-2.6,4.4,9.1,5.9
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",14,        Wood products manufacturing,(D),-14.5,-8.5,0,(D),(D),(D),(D),(D),(D),(D),(D),-12.2,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",15,        Nonmetallic mineral products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",16,        Primary metals manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),5.9,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",17,        Fabricated metal products,-21.9,(D),(D),(D),(D),(D),-2.1,-23.2,10.1,19.4,-1.2,3.7,5.4,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",18,        Machinery manufacturing,(D),(D),(D),-2,9.5,(D),(D),(D),(D),(D),-8.4,7.4,(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",19,        Computer and electronic products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-3.3,2.8,11.1,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",20,"        Electrical equipment, appliance, and components manufacturing",(D),(D),(D),10.9,(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",21,"        Motor vehicles, bodies and trailers, and parts manufacturing",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-6.3,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",22,        Other transportation equipment manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),10.1,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",23,        Furniture and related products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",24,        Miscellaneous manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.7,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,(D),(D),34.1,-7.4,13.3,0.7,-14.2,-4.4,14.6,1.4,4.9,22.8,-1.5,12.6
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",26,        Food and beverage and tobacco products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),27.5,(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",27,        Textile mills and textile product mills,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",28,        Apparel and leather and allied products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",29,        Paper products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-22.2,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",30,        Printing and related support activities,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-5.2,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",31,        Petroleum and coal products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-12.5,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",32,        Chemical products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",33,        Plastics and rubber products manufacturing,-26.7,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),28,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",34,    Wholesale trade,-23.3,9.6,10.5,7.5,-4.5,13,2.3,-7.9,7.2,8.9,6.5,-3.1,-4.5,6.1
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",35,    Retail trade,0.9,4.3,1.3,8.6,6.2,3.1,2.4,0.4,2.7,3.4,7,6,6.1,4.7
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",36,    Transportation and warehousing,-4.7,-1.8,11.7,10,9.5,(D),(D),-8.9,3.4,10.6,1.6,2.6,3.7,1.3
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",37,      Air transportation,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",38,      Rail transportation,0,12.5,6.7,6.3,5.9,-7.4,-6,-21.3,2.7,2.6,12.8,2.3,2.2,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",39,      Water transportation,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",40,      Truck transportation,-7.7,-8.9,(D),(D),(D),-2.9,(D),(D),15.4,19.2,2.6,9,-0.3,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",41,      Transit and ground passenger transportation,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),4.4,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",42,      Pipeline transportation,(D),(D),(D),(D),13,30.8,41.2,(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",43,      Other transportation and support activities,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",44,      Warehousing and storage,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),27,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",45,    Information,29.7,0.5,4.3,3.5,-1.2,19.5,-6.6,-7.2,1.6,1.9,8.6,10.1,10,13.2
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",46,"      Publishing industries, except Internet (includes software)",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",47,      Motion picture and sound recording industries,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),14.1,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",48,      Broadcasting and telecommunications,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",49,"      Data processing, internet publishing, and other information services",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),25,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",-4.7,5.5,-1,8.7,6.2,6.9,9.3,5.4,6.4,6.9,10.1,5.6,5.8,-3
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",51,      Finance and insurance,-4.2,6.8,-7.5,8.2,9.3,-5.6,1.4,11.5,10.7,11.2,0.4,5.1,5.2,10.4
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",52,"        Federal Reserve banks, credit intermediation, and related services",(D),7.9,-18.7,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",53,"        Securities, commodity contracts, and investments",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),2.8,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",54,        Insurance carriers and related activities,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",55,"        Funds, trusts, and other financial vehicles",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,-4.9,4.7,3.3,8.9,4.4,14.4,13.1,2.9,4.4,4.9,15.2,5.8,6.1,-9.2
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",57,        Real estate,(D),(D),4.7,8.5,2.6,15.3,11.9,4.6,5,7.1,15.6,5.6,5.8,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",58,        Rental and leasing services and lessors of intangible assets,(D),(D),-7.2,12.6,20,7.3,22.1,-8.6,0.1,-13.4,11.1,7.9,10,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",59,    Professional and business services,(D),(D),4.8,7.5,6.4,7,(D),(D),(D),(D),5.9,6.3,9.6,10.9
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",(D),1.2,3.7,(D),(D),6.4,12.6,0.2,6.8,5.9,7.4,5.8,9.4,11.8
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",64,      Management of companies and enterprises,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",65,      Administrative and waste management services,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",66,        Administrative and support services,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),7.4,8.3,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",67,        Waste management and remediation services,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",(D),1.9,4.2,2,6.1,2.3,8.5,5.5,2.1,3.3,6.3,2.5,4.9,5.9
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",69,      Educational services,(D),(D),(D),(D),6.7,3.8,14,6.8,3.5,8.5,3.6,-2.1,2.6,3.6
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",70,      Health care and social assistance,(D),(D),(D),(D),6.1,2.1,8,5.4,1.9,2.7,6.6,3.1,5.2,6.2
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",71,        Ambulatory health care services,17.4,-0.1,(D),(D),(D),1.3,8.8,3.1,0.4,2.6,5.5,5.2,4.8,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",72,        Hospitals and nursing and residential care facilities,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",73,        Social assistance,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",74,"    Arts, entertainment, recreation, accommodation, and food services",2.2,3.3,6,1.8,4.8,3.5,-0.2,-2.6,4.8,10.4,5.5,4.9,13.1,6.5
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",75,"      Arts, entertainment, and recreation",3.6,4.4,11.6,-2.4,6.2,7.6,-0.5,0.2,7.6,13.5,(D),(D),(D),5.3
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",76,"        Performing arts, spectator sports, museums, and related activities",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",77,"        Amusements, gambling, and recreation industries",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",78,      Accommodation and food services,1.9,3.1,4.7,2.8,4.4,2.5,-0.2,-3.3,4.2,9.6,(D),(D),(D),6.8
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",79,        Accommodation,4.3,-1.7,7.9,0.4,4.9,6.8,-3.6,-6,5.2,17.5,(D),(D),(D),(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",80,        Food services and drinking places,1.1,4.4,3.9,3.5,4.3,1.3,0.8,-2.4,4,7.7,6.2,5.2,12.3,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",81,"    Other services, except government",0.5,-2.9,1.7,2.5,3,0.3,1.2,-0.6,-2.1,-0.9,4.7,5.4,3.1,-0.7
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",82,  Government,5.7,0,-2.2,1.9,0.8,3.1,2,4.1,2.5,-1.6,1.3,1.1,1.5,0.8
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",83,    Federal civilian,10.4,0.1,0.5,-2.3,1.1,3.5,1.3,1,5.9,-4.2,1.6,-2.1,1.7,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",84,    Federal military,22.4,25.2,8.5,3.9,-6.5,3.5,14,14.2,-2.1,-6.6,-8.5,-4.6,-7.5,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",85,    State and local,5,-0.3,-2.7,2.4,1,3.1,1.8,4.2,2.3,-1.2,1.5,1.5,1.7,(NA)
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",86,Addenda:,,,,,,,,,,,,,,
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",86,Natural resources and mining,(D),(D),-0.3,34.7,8.3,6.1,(D),(D),(D),(D),(D),6.6,11.8,16.4
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",87,Trade,-14.9,7.4,6.8,7.9,-0.4,9,2.4,-4.8,5.5,6.9,6.6,0.2,-0.4,5.6
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",88,Transportation and utilities,-1.1,-1.1,11.1,5.6,7.6,2.2,-0.5,-1.4,19.9,(D),(D),-17.3,15,-4.3
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",89,Private goods-producing industries,(D),(D),23.8,8.6,23.9,-7.3,(D),(D),(D),(D),(D),7.2,7.2,8.8
+12420,"Austin-Round Rock, TX (Metropolitan Statistical Area)",90,Private services-providing industries,(D),(D),4,6.3,3.5,7.6,(D),(D),(D),(D),(D),3.7,5.9,4.7
+14500,"Boulder, CO (Metropolitan Statistical Area)",1,All industry total,-10.1,1.2,3.7,2.9,1.8,4.9,0.5,-2.1,2.7,2.2,3.4,2.9,2.7,3.6
+14500,"Boulder, CO (Metropolitan Statistical Area)",2,  Private industries,-11.4,1.5,4.5,3.2,2.5,6.1,0.1,-2.3,3,2.8,3.6,3.3,2.8,3.9
+14500,"Boulder, CO (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing, and hunting",20,-37.5,40,-9.5,15.8,-31.8,-6.7,92.9,-22.2,23.8,-42.3,6.7,6.3,17.6
+14500,"Boulder, CO (Metropolitan Statistical Area)",4,      Farms,25,-45,45.5,-12.5,14.3,-37.5,-20,150,-30,35.7,-52.6,22.2,0,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",5,"      Forestry, fishing, and related activities",33.3,0,0,0,25,0,40,0,0,0,0,-14.3,16.7,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",6,    Mining,1.2,41.2,12.5,48.9,10,15.4,-23.1,-46.4,-18.1,8.1,1.1,13.8,20.6,21.7
+14500,"Boulder, CO (Metropolitan Statistical Area)",7,      Oil and gas extraction,(D),(D),(D),(D),(D),(D),(D),(D),-16.1,30.8,(D),(D),10.9,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",8,"      Mining, except oil and gas",(D),(D),2.4,44.8,-17.5,-4.8,-25.3,-6.8,-18.8,-10.7,(D),(D),20.9,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",9,      Support activities for mining,(D),(D),(D),(D),(D),(D),(D),(D),0,40,(D),(D),200,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",10,    Utilities,2.2,14,0.9,-13.1,-6.5,18.4,11.7,-11.3,40.2,9.1,7.1,-7.2,-3.9,2
+14500,"Boulder, CO (Metropolitan Statistical Area)",11,    Construction,-15.9,-8.4,-3.6,-9.6,-9,-3.1,-1.3,-9.9,-6.4,-3.4,0.8,0.4,3.9,6
+14500,"Boulder, CO (Metropolitan Statistical Area)",12,    Manufacturing,-0.1,9.1,10.4,7.9,10.2,3.6,-1.9,13.9,0.4,1.8,0.9,4.1,-1.8,4.6
+14500,"Boulder, CO (Metropolitan Statistical Area)",13,      Durable goods manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),8.7,14.7,11,-3.4,8.9
+14500,"Boulder, CO (Metropolitan Statistical Area)",14,        Wood products manufacturing,-25,-37.5,33.3,10,-13.6,-5.3,-16.7,-13.3,15.4,-13.3,(D),(D),0,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",15,        Nonmetallic mineral products manufacturing,-22.8,0,18.2,-5.8,-6.1,-13,0,-27.5,-3.4,-3.6,(D),(D),0,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",16,        Primary metals manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",17,        Fabricated metal products,-14.6,7.3,-12.5,13,14.9,21,-9.9,-33,20.5,17,(D),(D),-16.7,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",18,        Machinery manufacturing,-6.9,-13.4,17.2,5.9,13.9,34.1,17.3,-22.5,11,22.5,(D),(D),-12.4,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",19,        Computer and electronic products manufacturing,30.3,20.4,14.9,12.1,8.6,-3.4,-9.1,1.8,25.4,7.1,(D),(D),-0.6,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",20,"        Electrical equipment, appliance, and components manufacturing",46.7,36.4,10,33.3,9.1,0,4.2,-12,18.2,28.8,(D),(D),-24.5,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",21,"        Motor vehicles, bodies and trailers, and parts manufacturing",(D),(D),(D),16.7,14.3,-12.5,-71.4,-50,(D),(D),(D),(D),(D),(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",22,        Other transportation equipment manufacturing,(D),(D),(D),50,0,0,16.7,0,(D),(D),(D),0,(D),(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",23,        Furniture and related products manufacturing,-48.5,-35.3,-24.2,-24,15.8,-9.1,-20,-37.5,-10,0,(D),(D),9.1,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",24,        Miscellaneous manufacturing,-15.4,-4.5,-13.5,3.7,23,9.4,7.9,3.7,15.3,7.7,(D),(D),-5.7,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),-8.9,-23.1,-13.4,3.5,-7.4
+14500,"Boulder, CO (Metropolitan Statistical Area)",26,        Food and beverage and tobacco products manufacturing,17.9,5.4,26.3,-22.1,0.9,33.8,-0.3,-2.9,-3.3,-11.6,-2.7,5.6,11.3,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",27,        Textile mills and textile product mills,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",28,        Apparel and leather and allied products manufacturing,-44.4,-75,-20,-37.5,-20,(D),(D),200,13.3,17.6,0,20,(D),(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",29,        Paper products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",30,        Printing and related support activities,6.4,6,9.4,19,-5.8,-16.9,3.7,-10.7,-6,10.6,(D),(D),10.4,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",31,        Petroleum and coal products manufacturing,(NM),(NM),(D),(D),(D),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",32,        Chemical products manufacturing,-35.6,-8.9,5.7,22.6,27.2,11.8,8.2,76.8,-28.9,-9.4,(D),(D),-0.6,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",33,        Plastics and rubber products manufacturing,-50,32.9,-54.6,-27.3,-18.8,-7.7,-12.5,0,-4.8,-20,(D),(D),-4.8,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",34,    Wholesale trade,-12.1,-2,2.4,-2.4,12.8,28.9,1.8,-23.3,6.6,3.7,3.2,8,3.9,4.1
+14500,"Boulder, CO (Metropolitan Statistical Area)",35,    Retail trade,-14.8,0.5,-0.5,5.1,-5,0.3,-1.7,-3,1.4,0.2,6.7,3.5,2.3,5.7
+14500,"Boulder, CO (Metropolitan Statistical Area)",36,    Transportation and warehousing,-1.5,7.6,-26.8,-1,-1,2.9,7.6,-15.9,11.6,-2.8,10.7,-0.9,1.8,0
+14500,"Boulder, CO (Metropolitan Statistical Area)",37,      Air transportation,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",38,      Rail transportation,-35.7,33.3,8.3,15.4,-6.7,21.4,17.6,-35,0,0,7.7,-28.6,10,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",39,      Water transportation,(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NM),(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",40,      Truck transportation,-20,-4.2,0,4.3,0,-12.5,9.5,0,17.4,7.4,(D),(D),3.4,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",41,      Transit and ground passenger transportation,-11.1,-18.8,0,0,(D),(D),7.1,-20,0,0,(D),(D),-8.3,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",42,      Pipeline transportation,(NM),50,0,16.7,0,28.6,55.6,-35.7,22.2,0,63.6,22.2,13.6,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",43,      Other transportation and support activities,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0,(D),(D),(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",44,      Warehousing and storage,0,0,0,-50,0,-25,0,-33.3,0,(D),(D),(D),0,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",45,    Information,-17.2,-5.2,7.9,1.4,-5.2,21.6,0.2,0.4,9.9,5.1,-2.2,-1.3,0.9,6.2
+14500,"Boulder, CO (Metropolitan Statistical Area)",46,"      Publishing industries, except Internet (includes software)",10.1,(D),(D),(D),(D),(D),-1.6,-1.1,10.2,-0.5,(D),(D),-2.5,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",47,      Motion picture and sound recording industries,76.3,-53.7,-16.1,-26.9,5.3,70,-8.8,-9.7,14.3,0,(D),(D),-8.8,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",48,      Broadcasting and telecommunications,-76.6,-2.6,-15.5,18.4,11.5,46.1,3.7,13.6,6.7,17.8,(D),(D),10.6,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",49,"      Data processing, internet publishing, and other information services",69.9,(D),(D),(D),(D),(D),23.6,-1.5,12.4,54.5,(D),(D),17.6,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",-11.9,-4.4,-5.6,2.7,-4.4,2.8,-5,4.9,0.3,4.8,10,6.6,5.7,1
+14500,"Boulder, CO (Metropolitan Statistical Area)",51,      Finance and insurance,-13.9,-6.3,-5.4,10,-2.4,-1.7,-6.2,21.1,-11.8,0,12.2,1.9,-0.5,-10.4
+14500,"Boulder, CO (Metropolitan Statistical Area)",52,"        Federal Reserve banks, credit intermediation, and related services",6,-9.3,-5.5,2.9,-1.6,1.6,0.8,14.8,-24.4,21.2,(D),(D),-0.7,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",53,"        Securities, commodity contracts, and investments",-13.1,-20.8,0,22.6,8.9,-24.6,-29,93.9,3.2,-18.9,(D),(D),0.5,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",54,        Insurance carriers and related activities,-47.4,19.4,-13.8,17.9,-22.4,21.6,(D),(D),-4.7,-7.9,(D),(D),(D),(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",55,"        Funds, trusts, and other financial vehicles",0,75,28.6,-22.2,42.9,40,(D),(D),0,0,(D),(D),(D),(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,-11.2,-3.8,-5.7,0.4,-5.1,4.4,-4.6,-0.2,4.8,6.3,9.4,8,7.7,4.4
+14500,"Boulder, CO (Metropolitan Statistical Area)",57,        Real estate,-10.8,-3.7,-2.4,0.7,-4.8,3.7,-5.3,0.3,4.9,7.5,(D),(D),8,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",58,        Rental and leasing services and lessors of intangible assets,-16.1,-4,-44.8,-6.3,-9.3,19.1,12.3,-8.8,2.4,-15.3,(D),(D),-2.5,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",59,    Professional and business services,-18,7.6,10.1,3.1,8,1.7,3.9,-9.6,4.8,2.4,6.8,2.4,4.6,3.2
+14500,"Boulder, CO (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",-15.5,6.2,9.8,3.3,9.4,1.8,5.7,-8.1,4.7,2.3,7.3,2.6,4.4,2.8
+14500,"Boulder, CO (Metropolitan Statistical Area)",64,      Management of companies and enterprises,-57.3,74,33.9,-0.9,3.5,-1.7,-29.4,-32.5,6.3,-5,15.9,7.6,-1.4,7.9
+14500,"Boulder, CO (Metropolitan Statistical Area)",65,      Administrative and waste management services,-17.2,2.2,2.1,3.3,-0.6,3.2,10.1,-11.2,4.9,6,0.3,-1.5,9.4,5.3
+14500,"Boulder, CO (Metropolitan Statistical Area)",66,        Administrative and support services,-17.6,2,4,2.2,0.3,3.1,10.9,-11.5,4,6.8,(D),(D),10.4,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",67,        Waste management and remediation services,-12.5,3.6,-17.2,16.7,-10.7,8,-3.7,-7.7,16.7,0,(D),(D),-3.7,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",1.2,4.4,8,5.9,3.2,1.6,5.8,2.8,-2.3,1.7,2.5,3.8,3.5,4.8
+14500,"Boulder, CO (Metropolitan Statistical Area)",69,      Educational services,-16.3,-3.7,9.6,-6.1,4.7,2.7,5.2,-4.1,-3.4,1.8,5.3,4.2,11.2,0.7
+14500,"Boulder, CO (Metropolitan Statistical Area)",70,      Health care and social assistance,3.8,5.2,7.7,7.1,3.2,1.5,5.8,3.6,-2.2,1.7,2.1,3.9,2.7,5.3
+14500,"Boulder, CO (Metropolitan Statistical Area)",71,        Ambulatory health care services,3.9,4.2,12.6,0.5,6.5,0.8,6.8,3.7,-0.7,2.7,(D),(D),5.3,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",72,        Hospitals and nursing and residential care facilities,3.5,6.4,0.3,20.1,-1.4,2.2,4.5,3.6,-3.3,0.9,3.6,2.6,-1.5,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",73,        Social assistance,4.2,8,6.2,0,3.5,2.2,6.6,2.1,-6.1,-3.2,(D),(D),5.1,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",74,"    Arts, entertainment, recreation, accommodation, and food services",-15.3,-2.3,1,3,1.8,1.1,-1,-7.4,8.5,5.8,3.3,2.8,4.3,3
+14500,"Boulder, CO (Metropolitan Statistical Area)",75,"      Arts, entertainment, and recreation",-7,-0.8,1.7,-3.3,-1.7,1.8,10.3,-3.1,22.6,6.6,0.6,4.3,3.5,5.1
+14500,"Boulder, CO (Metropolitan Statistical Area)",76,"        Performing arts, spectator sports, museums, and related activities",-31.2,5.7,-1.8,-9.1,0,0,12,-5.4,9.4,10.3,(D),(D),8.5,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",77,"        Amusements, gambling, and recreation industries",22.2,-6.1,6.5,0,-1.5,1.5,9.1,-2.8,35.7,3.2,(D),(D),0,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",78,      Accommodation and food services,-17.2,-2.7,0.9,4.7,2.8,0.8,-3.5,-8.5,4.4,5.7,4.2,2.3,4.5,2.3
+14500,"Boulder, CO (Metropolitan Statistical Area)",79,        Accommodation,-25.5,-10.1,5.6,12,6,0,-3.4,-12.8,1.3,5.3,(D),(D),-1.1,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",80,        Food services and drinking places,-15.2,-1.2,0.3,3,2.2,1.2,-3.8,-7.6,5.3,5.6,(D),(D),5.7,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",81,"    Other services, except government",-8.8,-0.7,3,-3.9,-0.3,4.1,8.5,-6.1,-2.6,-2,0.3,1.3,0.5,1.2
+14500,"Boulder, CO (Metropolitan Statistical Area)",82,  Government,-0.1,-0.5,-2.2,0.9,-3.3,-4.1,3.1,0,0.4,-2.3,1.2,0.2,1.8,0.8
+14500,"Boulder, CO (Metropolitan Statistical Area)",83,    Federal civilian,-3.2,-1.6,-2.7,-3.5,-6,-0.8,-0.3,-3.6,-1.9,-4.7,-1.4,-5.2,1.8,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",84,    Federal military,4.7,20,0,0,-5.6,-3.9,2,8,-1.9,-9.4,-8.3,-2.3,-7,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",85,    State and local,0.7,-0.7,-2.1,2.1,-2.6,-4.9,4,0.5,0.9,-1.6,1.9,1.3,1.9,(NA)
+14500,"Boulder, CO (Metropolitan Statistical Area)",86,Addenda:,,,,,,,,,,,,,,
+14500,"Boulder, CO (Metropolitan Statistical Area)",86,Natural resources and mining,6.4,16.2,16.9,38.4,10.5,10.7,-21.9,-36.7,-18.8,10.2,-10.1,14,18,21.5
+14500,"Boulder, CO (Metropolitan Statistical Area)",87,Trade,-13.6,-0.6,0.8,1.7,2.7,13.9,0.2,-14.4,4,2,4.8,5.9,3.1,4.9
+14500,"Boulder, CO (Metropolitan Statistical Area)",88,Transportation and utilities,0,9.2,-15.7,-6.7,-3.6,10.6,9.6,-13.5,25.8,4,8.1,-4.3,-1.1,1.1
+14500,"Boulder, CO (Metropolitan Statistical Area)",89,Private goods-producing industries,-3.3,5.8,8,5.9,6.8,3,-3.5,6.5,-1.3,1.4,0.5,3.9,-0.3,5.4
+14500,"Boulder, CO (Metropolitan Statistical Area)",90,Private services-providing industries,-13.7,0.2,3.4,2.4,1.2,7.1,1.2,-4.8,4.3,3.2,4.6,3.1,3.6,3.5
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",1,All industry total,0.2,1.3,2.4,1.8,2.3,1.3,-2.7,-3.4,1.4,1.3,2.8,-0.8,1.5,3.1
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",2,  Private industries,0,1.3,2.6,2,2.6,1.7,-2.9,-3.8,1.3,1.7,3.2,-0.9,1.9,3.6
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing, and hunting",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",4,      Farms,61.8,-14.3,37.2,-28.5,38.9,21.4,0.6,-23.3,-2.8,29.5,-27.9,51,-27.5,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",5,"      Forestry, fishing, and related activities",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",6,    Mining,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",7,      Oil and gas extraction,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",8,"      Mining, except oil and gas",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),1.7,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",9,      Support activities for mining,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",10,    Utilities,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",11,    Construction,-2.3,3,-0.8,-2.9,-4.4,-5.9,-7.8,-18.6,-9.3,-0.8,2.6,2.3,-0.8,7
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",12,    Manufacturing,-2.3,5.1,6,-3.6,-2.1,6.1,-6.7,-1.4,4.9,1.9,5.9,-5.4,2.4,4.6
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",13,      Durable goods manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-1.9,1.9
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",14,        Wood products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-13.2,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",15,        Nonmetallic mineral products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",16,        Primary metals manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-4.7,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",17,        Fabricated metal products,(D),3.1,3.3,-3.2,0.3,3.5,-10.7,-22.4,11.7,2.2,4.1,-6.9,(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",18,        Machinery manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",19,        Computer and electronic products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-7.4,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",20,"        Electrical equipment, appliance, and components manufacturing",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",21,"        Motor vehicles, bodies and trailers, and parts manufacturing",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",22,        Other transportation equipment manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",23,        Furniture and related products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),3.5,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",24,        Miscellaneous manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),6.5,7.1
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",26,        Food and beverage and tobacco products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",27,        Textile mills and textile product mills,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),32.1,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",28,        Apparel and leather and allied products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",29,        Paper products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",30,        Printing and related support activities,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-0.7,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",31,        Petroleum and coal products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),39.4,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",32,        Chemical products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-4.6,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",33,        Plastics and rubber products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),3.2,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",34,    Wholesale trade,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),3
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",35,    Retail trade,3.7,4,1.2,2.4,0.7,-0.9,-4.2,-5.2,-0.8,0.4,2,2,-1,3.6
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",36,    Transportation and warehousing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",37,      Air transportation,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",38,      Rail transportation,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",39,      Water transportation,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-14.1,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",40,      Truck transportation,-3.1,3.3,7.3,5.9,6.6,-3.8,-5.5,-12.3,7.9,9.2,1.4,-2.5,-0.3,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",41,      Transit and ground passenger transportation,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),1.9,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",42,      Pipeline transportation,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-3.7,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",43,      Other transportation and support activities,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",44,      Warehousing and storage,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",45,    Information,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",46,"      Publishing industries, except Internet (includes software)",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",47,      Motion picture and sound recording industries,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.8,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",48,      Broadcasting and telecommunications,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",49,"      Data processing, internet publishing, and other information services",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",-1.1,-0.7,-0.8,4.1,5.1,2.1,-7.8,5.3,0.5,0,3.4,-3.4,2.7,(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",51,      Finance and insurance,-4.5,-0.5,-1.9,4.9,8.7,-0.8,-19.9,18.4,-1.6,-0.8,6.9,-7.1,4.7,4.2
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",52,"        Federal Reserve banks, credit intermediation, and related services",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-10.8,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",53,"        Securities, commodity contracts, and investments",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),3.3,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",54,        Insurance carriers and related activities,(D),(D),(D),(D),(D),(D),(D),(D),0.1,(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",55,"        Funds, trusts, and other financial vehicles",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,1.5,-0.9,0.1,3.5,2.5,4.3,0.9,-1.7,1.9,0.4,1.2,-0.9,1.3,(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",57,        Real estate,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.7,-1,0.8,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",58,        Rental and leasing services and lessors of intangible assets,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),5.5,-0.7,5.8,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",59,    Professional and business services,-0.3,0.6,2.5,3.2,1.9,1.2,3.2,-8.6,2.4,3,3.9,0.6,3.1,4.2
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",(D),(D),(D),(D),(D),(D),(D),-8.5,-1,(D),(D),(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",64,      Management of companies and enterprises,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.6,(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",65,      Administrative and waste management services,(D),(D),7.3,9,1.8,5.9,(D),(D),(D),3.7,4.8,(D),(D),3.5
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",66,        Administrative and support services,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",67,        Waste management and remediation services,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",2.8,2.7,3.1,2.5,4.6,1.1,4.8,2.2,-0.5,1.9,1.5,0.9,1.4,1.3
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",69,      Educational services,(D),(D),(D),-0.2,(D),(D),(D),(D),(D),(D),(D),-2,2.5,(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",70,      Health care and social assistance,(D),(D),(D),3.1,(D),(D),(D),(D),(D),(D),(D),1.6,1.1,(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",71,        Ambulatory health care services,6,1.9,3.7,4.3,6.1,-0.9,5.1,1.9,0.3,2.1,1,3.5,(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",72,        Hospitals and nursing and residential care facilities,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",73,        Social assistance,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",74,"    Arts, entertainment, recreation, accommodation, and food services",1.5,1.9,3.9,2,3.3,1.4,-1.7,-9.2,2.1,3.2,4.6,1.1,0.1,4
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",75,"      Arts, entertainment, and recreation",(D),(D),(D),-1.2,0.7,3,-3.5,(D),(D),(D),(D),(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",76,"        Performing arts, spectator sports, museums, and related activities",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",77,"        Amusements, gambling, and recreation industries",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),1.2,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",78,      Accommodation and food services,(D),(D),(D),3.4,4.4,0.8,-0.9,(D),(D),(D),(D),(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",79,        Accommodation,(D),(D),(D),6.8,6.6,4.5,-0.2,(D),(D),(D),(D),(D),(D),(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",80,        Food services and drinking places,-0.9,2.6,4.3,2.3,3.6,-0.6,-1.2,(D),(D),4,2.6,0.5,1,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",81,"    Other services, except government",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",82,  Government,1.9,0.6,0.1,-0.1,0,-2.2,-0.8,0.3,1.8,-2.6,-0.4,-0.5,-2,-2.5
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",83,    Federal civilian,-2.2,-1.1,-1.7,-1.7,-3,-1.6,-1.5,-0.1,3,-4.3,-0.9,-3.7,1.2,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",84,    Federal military,1.8,-0.1,-0.9,-3.1,-3,-3.1,4.4,5.9,-2.6,-12.7,-5.6,-5,-8.6,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",85,    State and local,2.8,1,0.6,0.4,0.8,-2.2,-1,0,1.9,-1.6,0,0.3,-2.2,(NA)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",86,Addenda:,,,,,,,,,,,,,,
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",86,Natural resources and mining,16.3,-7.3,12.7,-18.5,14.5,2.4,-9.6,-15.4,-8.1,14.6,-16.7,(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",87,Trade,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),3.2
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",88,Transportation and utilities,-2.4,-3.5,9.9,1.1,11,-5.3,-2.2,-9.9,7.3,4.3,0,-0.3,0.5,-2.4
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",89,Private goods-producing industries,-2.1,4.4,4.3,-3.6,-2.6,2.5,-7,-6.2,1.5,1.5,4.9,(D),(D),(D)
+16980,"Chicago-Naperville-Elgin, IL-IN-WI (Metropolitan Statistical Area)",90,Private services-providing industries,0.6,0.6,2.2,3.5,3.8,1.5,-1.9,-3.3,1.3,1.7,2.8,(D),(D),(D)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",1,All industry total,-0.4,1.8,2.3,4.6,2.8,2.5,2.6,-4.2,-0.4,-0.1,5.6,1.6,4.2,4.1
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",2,  Private industries,-0.8,2,2.5,5.2,3,2.8,3.1,-4.5,-0.4,-0.1,6.2,1.7,4.5,4.3
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",3,"    Agriculture, forestry, fishing, and hunting",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",4,      Farms,3.2,0,-31.7,11.9,14,-34.8,-11.9,22.5,-6,-15.1,13.8,-29.8,30.9,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",5,"      Forestry, fishing, and related activities",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",6,    Mining,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",7,      Oil and gas extraction,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",8,"      Mining, except oil and gas",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",9,      Support activities for mining,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",10,    Utilities,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),10.7,(D),(D)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",11,    Construction,-8.7,1.7,4.7,-1.1,-4.5,-0.2,-8.9,-17.2,-8.2,2.3,10.5,7.5,1,8.7
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",12,    Manufacturing,-9,17.1,7.7,16.7,1.8,6.7,28.4,-7.4,-21.8,-23.3,2.2,9.8,2.3,4.3
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",13,      Durable goods manufacturing,(D),(D),(D),5.6,(D),(D),(D),-10.5,2,-0.5,(D),(D),7.1,9.2
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",14,        Wood products manufacturing,4.2,-8.1,-4.4,12.3,-4.1,1.4,-5.6,1.5,-4.4,(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",15,        Nonmetallic mineral products manufacturing,1,2.9,14.9,-9.2,-4.1,-4.7,-12.9,-26,3,1.5,(D),(D),4,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",16,        Primary metals manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),-10,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",17,        Fabricated metal products,-23.3,-3.2,4.8,2.2,-2.7,7.1,-8.7,-30,18.2,1.7,(D),(D),12.8,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",18,        Machinery manufacturing,-26.6,4.4,26.3,-1.6,19.2,1.9,-6,-31.3,7.2,24.6,(D),(D),1.9,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",19,        Computer and electronic products manufacturing,-0.8,12.9,7.2,13.5,6.5,17.9,16.8,-2.8,1.9,2,(D),(D),6.2,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",20,"        Electrical equipment, appliance, and components manufacturing",-8.5,-20.4,-8.2,(D),(D),(D),1.4,-18,(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",21,"        Motor vehicles, bodies and trailers, and parts manufacturing",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",22,        Other transportation equipment manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",23,        Furniture and related products manufacturing,-7.3,-8.2,9.5,8.4,4,-12.1,-10.5,-33.7,1,-3.9,(D),(D),6.6,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",24,        Miscellaneous manufacturing,12.4,26.1,1.4,-0.7,10.5,11,-19,12.2,-2.1,-10.1,(D),(D),-10,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",25,      Nondurable goods manufacturing,(D),(D),(D),23.1,(D),(D),(D),-6.4,-28.4,-30.5,(D),(D),0.3,2
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",26,        Food and beverage and tobacco products manufacturing,(D),(D),(D),-0.7,(D),(D),-1.5,8.9,-11.9,4.8,2.2,0.4,1.9,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",27,        Textile mills and textile product mills,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),13.9,-2.4,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",28,        Apparel and leather and allied products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",29,        Paper products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",30,        Printing and related support activities,-3.5,-5.6,-3.7,-4.7,-1.6,9.4,-11.9,-13.7,9.1,-2,(D),(D),-0.8,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",31,        Petroleum and coal products manufacturing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),8.9,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",32,        Chemical products manufacturing,-18.3,74.5,28,15.7,-7.2,(D),(D),62.4,-29.2,-13.7,(D),(D),-4.8,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",33,        Plastics and rubber products manufacturing,1.8,1,(D),(D),(D),(D),(D),(D),(D),-11.9,(D),(D),20.9,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",34,    Wholesale trade,(D),1.1,-2.3,3.3,(D),(D),(D),(D),3.5,6.7,1.8,5.1,7.5,11
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",35,    Retail trade,1.5,1.7,0.7,0.7,-0.5,-3.4,-8.5,-6.9,4.2,0.7,3.4,3.4,1.9,4.6
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",36,    Transportation and warehousing,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),3.1,(D),(D)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",37,      Air transportation,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",38,      Rail transportation,-18.9,5.8,(D),(D),(D),(D),(D),(D),(D),(D),14.2,-6.6,7.1,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",39,      Water transportation,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",40,      Truck transportation,2.7,-3.2,6.5,4.5,3.9,-5.6,-11.7,-14,3.8,9.1,(D),(D),-1.6,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",41,      Transit and ground passenger transportation,9.9,0.8,-1.8,-1.4,2.5,-4.4,-8,-10.6,-1.7,8.7,(D),(D),4.9,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",42,      Pipeline transportation,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",43,      Other transportation and support activities,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),0.2,(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",44,      Warehousing and storage,-16.3,(D),(D),5.3,8.8,13,(D),(D),(D),-1.7,(D),(D),-0.4,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",45,    Information,4.9,-1.3,7.1,1.8,1.3,14.3,-5.2,-3,6.5,3.7,13.5,25.2,6.8,3.9
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",46,"      Publishing industries, except Internet (includes software)",(D),(D),(D),(D),(D),(D),-6.4,-5.2,3.2,1.4,(D),(D),17.1,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",47,      Motion picture and sound recording industries,33.1,2.9,-5.9,-25.5,42.6,5,-15,43.3,23.5,-8.9,(D),(D),0.2,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",48,      Broadcasting and telecommunications,(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",49,"      Data processing, internet publishing, and other information services",(D),(D),(D),2.7,10,(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",50,"    Finance, insurance, real estate, rental, and leasing",4,2.2,0,8,4.6,2.1,-3.3,1.8,6,2.9,0.3,-4.2,4.8,0.4
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",51,      Finance and insurance,-1,0.6,-5.8,10,8.8,-7.5,-19.2,25.5,-4.9,-0.5,4.4,-6.4,8.4,1.8
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",52,"        Federal Reserve banks, credit intermediation, and related services",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",53,"        Securities, commodity contracts, and investments",-18,-16.9,0.9,19.7,11.3,-16.7,-42.8,58.2,-5.4,-10.7,(D),(D),6.4,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",54,        Insurance carriers and related activities,-0.3,11.2,4.6,6.6,5.1,-7,-12,9.2,-16.4,-4.9,(D),(D),8.8,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",55,"        Funds, trusts, and other financial vehicles",(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(D),(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",56,      Real estate and rental and leasing,7.1,3.1,3.3,7,2.3,7.5,4.4,-6.7,11.1,4.3,-1.3,-3.2,3.3,-0.3
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",57,        Real estate,9.9,4.2,3.8,6.8,2.4,8.6,4.9,-6.7,11.4,4.3,(D),(D),3.6,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",58,        Rental and leasing services and lessors of intangible assets,-21.5,-12.7,-5.8,10.6,0.9,-12.5,-7.2,-4.5,3.5,3.7,(D),(D),-2.5,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",59,    Professional and business services,-7.7,-2.2,0.3,5.6,3.8,4,7.1,-8.2,2.8,8.2,19.4,-5.9,9.4,8.1
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",60,"      Professional, scientific, and technical services",-1.4,-4.2,3.6,6.1,4.4,4.1,10.5,-7.7,0.9,8.5,26.8,-13.6,9.4,8.7
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",64,      Management of companies and enterprises,-30,-0.2,-15.2,1.2,3.6,1.2,0.5,-10.1,4.6,11.3,1.4,24.8,13,9.4
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",65,      Administrative and waste management services,-5.8,3.8,2.2,7.2,1.4,6.1,-0.6,-9,9.8,4.1,4.4,6.9,5.5,3.7
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",66,        Administrative and support services,-7.2,2.8,2.7,7.5,2.8,5.5,-0.9,-10,8.5,6.8,(D),(D),6.2,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",67,        Waste management and remediation services,8,11.6,-1.3,4.9,-9.6,12.1,1.8,-1.2,19.6,-13.3,(D),(D),-0.5,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",68,"    Educational services, health care, and social assistance",6.2,3.8,3.2,1.4,3.8,0,7.1,1.6,6.6,0.3,3.1,2.3,1.3,4.5
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",69,      Educational services,2.9,6.8,5.9,-0.8,5.6,-0.9,4.6,4.3,-0.8,2,3.3,1,2.6,-2.8
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",70,      Health care and social assistance,6.6,3.4,2.8,1.7,3.5,0.1,7.5,1.2,7.8,0.1,3.1,2.5,1.1,5.7
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",71,        Ambulatory health care services,7.9,-8.9,4.7,2.4,2.5,1.1,6.6,-1.1,33,4.5,(D),(D),3,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",72,        Hospitals and nursing and residential care facilities,6.5,18.6,1.8,1.7,5,-0.9,7.2,2.9,-14.1,-7.6,0.4,-1.3,-2.7,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",73,        Social assistance,1.2,4.4,-1,-0.7,1.3,1,13.4,3.5,5.8,6,(D),(D),3.4,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",74,"    Arts, entertainment, recreation, accommodation, and food services",3,1.2,3.7,0.3,1,-0.1,-1.8,-8.1,4.4,6.7,1.6,4.6,3.7,3.3
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",75,"      Arts, entertainment, and recreation",11.3,2.6,2.1,6.6,-4.5,1.5,-1.5,-3.4,8.3,4,4.5,3.6,2.1,-0.2
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",76,"        Performing arts, spectator sports, museums, and related activities",14.2,3.9,1.4,-0.5,1.7,-1.8,-0.4,-2.2,4.9,3.2,(D),(D),0.9,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",77,"        Amusements, gambling, and recreation industries",6.3,0.1,3.3,21.3,-15,8.4,-3.6,-5.8,15.2,5.3,(D),(D),4.4,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",78,      Accommodation and food services,0.2,0.7,4.3,-2.1,3.3,-0.7,-1.9,-9.9,2.9,7.8,0.4,5,4.3,4.7
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",79,        Accommodation,0.1,1.3,5.2,-2.8,3.3,0,1.3,-13,1.4,11.3,(D),(D),-1,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",80,        Food services and drinking places,0.3,0.4,3.9,-1.8,3.2,-1,-3.4,-8.4,3.5,6.5,(D),(D),6.4,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",81,"    Other services, except government",-0.7,-6.1,-0.8,-5.6,-2,-0.6,-2.8,-6.3,-1.4,1.9,1.1,2.1,2.9,2.2
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",82,  Government,3.4,0.7,0.4,-0.2,0.6,0,-1.5,-1.5,-0.6,0.7,0.1,1.2,1,1.9
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",83,    Federal civilian,-2.4,-4.3,-1,-2.7,-2.2,-3.9,-0.7,-1.1,2,-4.1,-0.1,-2.7,0.9,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",84,    Federal military,11.1,11.1,0.5,3.5,-4.1,-8.1,6.4,11.3,-0.8,-0.6,1.8,2.7,-6.1,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",85,    State and local,4.6,1.6,0.7,0.2,1.3,1,-1.8,-1.9,-1.1,1.7,0.1,1.9,1.2,(NA)
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",86,Addenda:,,,,,,,,,,,,,,
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",86,Natural resources and mining,(D),-15.2,2.5,5,(D),(D),(D),(D),-29.3,11.8,20.9,-17.5,-33.2,4.3
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",87,Trade,(D),1.5,-0.5,1.8,(D),(D),(D),(D),3.9,3.4,2.6,4.2,4.6,7.7
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",88,Transportation and utilities,16.1,-2.3,10.8,-4.8,10.1,(D),(D),-4.8,9.9,-1.6,-2.9,5.7,0,-0.1
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",89,Private goods-producing industries,-10.3,11.4,6.7,11.3,1.1,5.7,17,-6.8,-19.9,-17.1,5.1,7.3,0,5.4
+41860,"San Francisco-Oakland-Hayward, CA (Metropolitan Statistical Area)",90,Private services-providing industries,1.1,0.3,1.7,3.8,3.5,2.1,-0.6,-3.8,5,3.9,6.4,0.6,5.5,4.1
