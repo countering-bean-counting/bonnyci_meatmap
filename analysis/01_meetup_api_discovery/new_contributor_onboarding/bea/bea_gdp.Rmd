@@ -1,0 +1,77 @@
+---
+title: "U.S. Bureau of Economic Analysis"
+author: "Augustina Ragwitz"
+date: "August 3, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(stringr)
+```
+
+Find CSV archives here - https://www.bea.gov/regional/downloadzip.cfm
+
+# Quarterly GDP (all varieties) By State
+I can't find anything that defines what the "Industry Codes" are. The Descriptions are inconsistent with NAICS stuff documented by BLS.
+
+```{r}
+download.file("http://www.bea.gov/regional/zip/gsp/qgsp_all.zip",  
+              "downloads/qgsp_all.zip")
+
+qgsp_all <- read.csv(unz("downloads/qgsp_all.zip", "qgsp_all.csv"),
+                     na.strings = c("", "...", "(NA)", "(NM)"))
+
+qgsp_all_fixed <- qgsp_all %>% filter(str_match(GeoFIPS, "\\d{5}")>0)
+
+write.csv(qgsp_all_fixed, "qgsp.csv")
+
+```
+
+
+```{r}
+download.file("http://www.bea.gov/regional/zip/gsp/gsp_naics_all.zip",
+              "downloads/gsp_naics_all.zip")
+
+gsp_naics_all <- read.csv(unz("downloads/gsp_naics_all.zip", "gsp_naics_all.csv"), 
+                          na.strings = c("", "...", "(NA)", "(NM)"))
+```
+
+# Quarterly GDP (all varieties) By Metro
+
+
+```{r}
+download.file("https://www.bea.gov/regional/zip/GDPMetro.zip", "downloads/GDPMetro.zip")
+
+
+all_gmp <- read.csv(unz("downloads/GDPMetro.zip", "allgmp.csv"), 
+                          na.strings = c("", "...", "(NA)", "(NM)", "(D)", "(L)"))
+
+all_gmp_fixed <- all_gmp %>% filter(str_match(GeoFIPS, "\\d{5}")>0)
+
+all_gmp_fixed_msa <- all_gmp_fixed %>%
+  separate(GeoName, c("area_descr", "area_state"), ", ", 
+           remove=FALSE, extra="merge", fill="right") %>%
+  separate(area_state, c("msa_state"), " \\(", extra="drop") %>%
+  mutate(msa_states = strsplit(msa_state, "-")) %>% 
+  unnest(msa_states) %>%
+  mutate(msa_cities = strsplit(area_descr, "-|--")) %>%
+  unnest(msa_cities) %>%
+  mutate(msa_cities=ifelse(msa_cities==""|msa_cities=="United States (Metropolitan Portion)", 
+                           NA, msa_cities))
+
+write.csv(all_gmp_fixed_msa, "all_gmp_msa.csv")
+```
+
+Look up MSA's from BLS
+
+```{r}
+bls_msa <- read.csv("../bls/qcew/qcew_msa_all.csv")
+
+
+```
+
+
+
