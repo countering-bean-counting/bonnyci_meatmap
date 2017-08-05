@@ -1,0 +1,729 @@
+<!DOCTYPE html>
+<html class='notranslate no-js scheme-lighter_gray_backdrop ml no-ms no-mm size-large responsive' xmlns:fb='http://ogp.me/ns/fb#'>
+<head>
+<title>LifeScribe | AngelList</title>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="kxNuKhF9QhUaN0cGdwwokjDTvxJaMhwYzFewtUg9QFgjvZ1IxidRkbx0iUXwLtHyF76JuDSZetPKAv0Hgkl5xw==" />
+<!--
+IvIOkVpeoc8B2FMM/HLJGYTH1ZS/bkH3nP2SHjB5gHv3TZmQuUX1A43wzVD1urU5NIZht6cjYpd/kIkuQXOIMM3Sw7y+kfBj3stAG4/CdBFODPrW4HHojtWATu5hchxojQeB5GqannljHGCzNNn5rI1OEJtKIRjG5sfjLS6tog2H5fXMyXIZWJNjmYsE1GQtX3vlC6BtQzm1BOTOYKgUz2QTnGhkdAuK5weGbh8nImQzbcSkzG2dP6keRQm2svBwLA36WgYUGy5gzjl7Y8Kws7Bl+LFj3ZShQ5Ini6MD2datJszrW9q171OowtFvBbyp2CSitiowxZtaEeUj3plCmaUUpdK3pTE6ThIUxHDZGWDv88oBW8JDVWx7W98noGFkGrQiEYDTigM6eRG81BTl6C/usUtu9/jIXL+0WtUZ1OswtVbJ+ZELG8aUhBX2WS35ba8Z9WizgGpFJm+0pdZ7my7rOmACSYFYIErK/6wE4iEyobpOstK5AFk6VordWv1zL8zEs3zTOHMVKwDO0dET5xzfyx9NuxZChlgy1kkksStheq0a9hrpZt/ABjH0ct/V4Co2YS45vSwmzYHacATD31pTnKKnJrDXCSgs8oK2m6fSCCxydhtqM+ptw53S2v0ULf1P8fi58OaPxCrQDt0CNURdF6svB4Z5cjbOrFKdwyOv6NhnqmK/KVHynD/LwDHpzDRJjU3dTT3G2oRCaKXdinbMsMo4QtNbGyXlqDX9XqMden0pGc1LNcY/+to41gS1JqlXn3cawuDLQd85tum22R73E0dFJ8NRK8Ho2/cVhbKFKAn8BJy5qyzbAA1chMSCv6rKPMnkvgqpqCS1M7XwRcY9C3bna1TYRX+G7QcNXeNpUspAhXlfl6iUGR3O8d2t56FMO5Uqku3Ofo/VxY6Bm7M1tMmUkO+9mqMb8Ct/5gh1grec9eMikNJ4mj0Z2YDsxwrC4zs+zn7gGf1qzpsWUr3A7vqYGKBS4dofxqMAUyOrW0D5nsoNOvKwXljrExmMp3UR1cIhx9OHhPQUlRKu4IG/hnTZ9VNXWPBEsL7DXddOAwIb9/RLErIZ7oX/cadyXQ9ztw27aATusVnxUdfnA+o+0Q2Ftya8M5RUdHxnHiK2HZPRNg2xb8+EeD0z7CXWM56/QA3wca3AOiIn3dREGaCDNjMLd8kVZKkvSYf5SkS2F31tF8OkEGKo+wWD4ZzDOvCrKQDbvVhB54zEQPWQG/16pjzSOkbLudsu1kUDDWs+HaGQ+fie50wRbwGDijZG3TbtqlfQVrU/Ui0/9RHbQyEOWA2AuYirXXHRaPg8pOgFWUIgen+ynfibLnA2/3QTLNM26wT0lUR+c244XsLA7RLDyikc6lteiBEuaoC7NeoBHVA6VMmWZRmxlJqm7jUPYwQL7MUE+qxGR/jl6YeZ1F3hGy21PDHIbX8cC6m/Kem2N0T/FjsNB7bXYJFcoZXp6t5S5YxgmlGEAVn5iC+P6rNgY5zvCI6nobJ4+TeT4B3gJ1mdG8FkDqc/j5hkKaYNn0kEnpp/9xj125R6FViUH1vGtpDy57Nu8UTOnJKHV8gpeaZODCE9p3/AzPz2Oupj/O33y5s=
+-->
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"44f141415d","applicationID":"3105556","transactionName":"dgpbFhNcVVhRSxpGTFQXQRcRQBZHXFZC","queueTime":0,"applicationTime":807,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQICUFJaGwABVFRXAgc="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,n,e)])}catch(s){try{i("ierr",[s,c.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t){i("err",[t,c.now()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,n,e){u&&(d+=1)}),s.on("fn-err",function(t,n,e){u&&(this.thrown=!0,o(e))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(w,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(w,function(t,n){i(v,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(18)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(18)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(18)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(18)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):w?w(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(18)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,w=l.SI,v="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(v,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!w&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===v||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}finally{c.emit("fn-end",[f.now()],e)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],16:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],17:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],18:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=h(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[y[e]];return d&&d.push([g,e,r,a]),a}}function p(t,n){v[t]=h(t).concat(n)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",y[e]=n,n in u||(u[n]=[])})}var v={},y={},g={on:p,emit:e,get:m,listeners:h,context:n,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(15),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!x++){var t=b.info=NREUM.info,n=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(y,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+b.offset],null,"api");var e=l.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===l.readyState&&i()}function i(){c("mark",["domContent",a()+b.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-b.offset}var s=(new Date).getTime(),c=t("handle"),f=t(15),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,w=m&&m.prototype;NREUM.o={ST:setTimeout,SI:d.setImmediate,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},g=m&&w&&w[p]&&!/CriOS/.test(navigator.userAgent),b=n.exports={offset:s,now:a,origin:v,features:{},xhrWrappable:g};t(12),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),c("mark",["firstbyte",s],null,"api");var x=0,E=t(17)},{}]},{},["loader",2,10,4,3]);</script>
+<meta content='en_US' http-equiv='Content-Language'>
+<meta content='c2y_K2CiLmGeet7GUQc9e3RVGp_gCOxUC4IdJg_RBVo' name='google-site-verification'>
+<meta content='00bd751d25bdb494779b40bedece7089' name='detectify-verification'>
+<meta content='initial-scale=1.0,maximum-scale=2.0,width=device-width' name='viewport'>
+<meta content='notranslate' name='google'>
+<meta content='LifeScribe - Tell meaningful stories together. - View company info, team members, fundraising and more' name='description'>
+<meta content='noarchive' name='robots'>
+<link href='https://angel.co/lifescribe' rel='canonical'>
+<meta content='https://d1qb2nb5cznatu.cloudfront.net/startups/i/29678-df6540fa46860f6d25b49b040d6c7362-thumb_jpg.jpg?buster=1396855051' property='og:image'>
+<meta content='LifeScribe' property='og:title'>
+<meta content='LifeScribe - Tell meaningful stories together. - View company info, team members, fundraising and more' property='og:description'>
+<meta content='https://angel.co/lifescribe' property='og:url'>
+<meta content='angellist' name='twitter:site'>
+<meta content='LifeScribe - Tell meaningful stories together.' name='twitter:title'>
+<meta content='angel.co' name='twitter:domain'>
+<meta content='LifeScribe - Tell meaningful stories together. - View company info, team members, fundraising and more' name='twitter:description'>
+<meta content='https://d1qb2nb5cznatu.cloudfront.net/startups/i/29678-df6540fa46860f6d25b49b040d6c7362-medium_jpg.jpg?buster=1396855051' name='twitter:image:src'>
+<meta content='product' name='twitter:card'>
+<meta content='TEAM' name='twitter:label1'>
+<meta content='Worked at IBM' name='twitter:data1'>
+<meta content='TEAM' name='twitter:label2'>
+<meta content='Went to Indiana University, Bloomington' name='twitter:data2'>
+
+<link href='//assets.angel.co/assets/icons/angellist-e1decb2fb69dc221e2dd4ad5f749797e28b3e9e92957e0f161b8e64d5a8a74c8.ico' rel='shortcut icon'>
+<link href='/images/icons/iOS/Icon.png' rel='apple-touch-icon-precomposed' sizes='57x57'>
+<link href='/images/icons/iOS/Icon-72.png' rel='apple-touch-icon-precomposed' sizes='72x72'>
+<link href='/images/icons/iOS/Icon@2x.png' rel='apple-touch-icon-precomposed' sizes='114x114'>
+<link href='/images/icons/iOS/Icon-72@2x.png' rel='apple-touch-icon-precomposed' sizes='144x144'>
+
+<link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.g.application0-22ed6f69f455e9894027aeb071e5f678.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.g.application1-6234e3ddb9b06c341d820c9fecb426d4.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.admin-216b428508a3b1815691d6d41ec2927c.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.angel_profiles-7d9af9b27287899d820727983d30049a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.closings-439798ac5469bfbfe748e3dae8fd4492.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.companies-f88176545f07def6cd7527db86e16483.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.follows-ea0cd8fa110929cf29575e967272dfed.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fund_campaigns-66d198d400ee816d04418d0999c86af7.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.funding_rounds-75894cbd96b33dd8ebc38a46381bcb4d.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fundraising-38c4ab481b2bc7b8cc422236888bfa51.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fundraising_campaigns-59521b4fdf1787344530788431f2da16.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.home-8a662f0685b39d18f5fd4ff4b7a7f677.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.incubator_administrators-df26943c9d6e72640c7afe5c840cae35.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_listing_showcase-ee242ec721d85dbfdcf39d58fd7e18b1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_listings-34788d616970942fbe122f9ebef36996.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_pairings-1a0e77ccf3378e20fc17b4c807832036.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_profile_signup-cd35c129f5fca74c4d0b79e669a0080a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.layouts-935af14c17de1324fd124322eaacae14.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.messages-b31a83501f010acf74cadce64cbf20a3.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_posts-f3fd4a6d1c8db28df4c13cc928f45fef.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_taggings-329d0d35099da8a5922d5e4eef40f02a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_tags-509f6e8a41b23b6cd37a1174dca6f4d5.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.onboarding-d98f82475ce9b5a651d6a24d91018a78.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.paths-9520b1cda7b731be6d0923b9c57e7c55.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.people-e2632e256c33c05b3cd313f8cfc625fc.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profile_flaggings-ddd19e885192e4560f6f7f35dcbd4b69.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profile_transaction_listings-d7b86ffd3c0c278550868c68ee83be79.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profiles-5fba6d565832e28be5419b6412073ab1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.program_applications-96262d89c322e1b7fe54401f4843e56e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.programs-7458ffa6bad61b3d8ae55d74da52f3d2.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.projects-1d49de599cee97c030d30d210a5eb3e1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.qa-25edb3ccd35cfc2d12b5476e4a3a01e1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.reviews-2da4057e5e52f66eab9f2e6ce2b70bba.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.screenshots-d7349598409c1f85776bdcfaedb8d3ab.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.sessions-5da1bdc7d6768cf45099bb920e066681.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.settings-52b9c88fe27eb65e32005624842c707e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.shared-e411a216cda70bdb8820d096c1dba2a1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.social-5da48eb7577c4628095d5d9c9d2cbd32.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_intros-e1eb2c0feb137b283c6270973e22ba4e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_roles-8fdf53d155560dc58e65d75a2b8d21d0.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_rounds-fe188c9d18bf5ab371d8c67709785a5a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startups-fbb0ab18bcae14012b079baf4cc5cc74.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.syndicates-9c2246b04f09a862c6ac6cbdb7377a40.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.tags-207bbefa797190c0a7d577055225f847.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.transaction_feed-e165d0e88d499b872d6765a7f6901ecd.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.user_graph_edges-3ad2bb21af9bffb99b6d5b10986bed6f.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.user_one_signal_preferences-35553bd46064906bc0e94360e218a2cd.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.valuations-5c78c00ec3ca16792b48e1559ec1dc1c.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.views-11c1d8186d5a791f7ca981b3c4b4c90d.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/application-e196d4ad5152313f4baba3d0932b7052.css" />
+
+<script>
+//<![CDATA[
+window['fs_disable']=true;
+//]]>
+</script><script>
+//<![CDATA[
+window._rollbarPerson={"id":null,"username":null};
+//]]>
+</script><script>
+//<![CDATA[
+!function(r){function e(t){if(n[t])return n[t].exports;var o=n[t]={i:t,l:!1,exports:{}};return r[t].call(o.exports,o,o.exports,e),o.l=!0,o.exports}var n={};return e.m=r,e.c=n,e.i=function(r){return r},e.d=function(r,n,t){e.o(r,n)||Object.defineProperty(r,n,{configurable:!1,enumerable:!0,get:t})},e.n=function(r){var n=r&&r.__esModule?function(){return r["default"]}:function(){return r};return e.d(n,"a",n),n},e.o=function(r,e){return Object.prototype.hasOwnProperty.call(r,e)},e.p="//assets.angel.co/webpack/",e(e.s=314)}({314:function(r,e,n){n(50),n(42),n(49)},324:function(r,e,n){r.exports=n.p+"3fd28f327bccd084051e98a9c3d97fa2.js"},346:function(r,e){!function(r){function e(t){if(n[t])return n[t].exports;var o=n[t]={exports:{},id:t,loaded:!1};return r[t].call(o.exports,o,o.exports,e),o.loaded=!0,o.exports}var n={};return e.m=r,e.c=n,e.p="",e(0)}([function(r,e,n){"use strict";var t=n(1).Rollbar,o=n(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js";var a=t.init(window,_rollbarConfig),i=o(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,e){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(e){try{console.error("[Rollbar]: Internal error",e)}catch(n){}}}}function t(r,e,n){window._rollbarWrappedError&&(n[4]||(n[4]=window._rollbarWrappedError),n[5]||(n[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,n),e&&e.apply(window,n)}function o(r){var e=function(){var e=Array.prototype.slice.call(arguments,0);t(r,r._rollbarOldOnError,e)};return e.belongsToShim=!0,e}function a(r){this.shimId=++c,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var e=a;return n(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var n=this,t="scope"===r;t&&(n=new e(this));var o=Array.prototype.slice.call(arguments,0),a={shim:n,method:r,args:o,ts:new Date};return window._rollbarShimQueue.push(a),t?n:void 0})}function l(r,e){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){var n=e.addEventListener;e.addEventListener=function(e,t,o){n.call(this,e,r.wrap(t),o)};var t=e.removeEventListener;e.removeEventListener=function(r,e,n){t.call(this,r,e&&e._wrapped?e._wrapped:e,n)}}}var c=0;a.init=function(r,e){var t=e.globalAlias||"Rollbar";if("object"==typeof r[t])return r[t];r._rollbarShimQueue=[],r._rollbarWrappedError=null,e=e||{};var i=new a;return n(function(){if(i.configure(e),e.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=o(i);var n,a,c="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<c.length;++n)a=c[n],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return e.captureUnhandledRejections&&(i._unhandledRejectionHandler=function(r){var e=r.reason,n=r.promise,t=r.detail;!e&&t&&(e=t.reason,n=t.promise),i.unhandledRejection(e,n)},r.addEventListener("unhandledrejection",i._unhandledRejectionHandler)),r[t]=i,i})()},a.prototype.loadFull=function(r,e,t,o,a){var i=function(){var e;if(void 0===r._rollbarPayloadQueue){var n,t,o,i;for(e=new Error("rollbar.js did not load");n=r._rollbarShimQueue.shift();)for(o=n.args,i=0;i<o.length;++i)if(t=o[i],"function"==typeof t){t(e);break}}"function"==typeof a&&a(e)},l=!1,c=e.createElement("script"),u=e.getElementsByTagName("script")[0],s=u.parentNode;c.crossOrigin="",c.src=o.rollbarJsUrl,c.async=!t,c.onload=c.onreadystatechange=n(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){c.onload=c.onreadystatechange=null;try{s.removeChild(c)}catch(r){}l=!0,i()}}),s.insertBefore(c,u)},a.prototype.wrap=function(r,e){try{var n;if(n="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(e){throw"string"==typeof e&&(e=new String(e)),e._rollbarContext=n()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e,e}},r._wrapped._isWrap=!0;for(var t in r)r.hasOwnProperty(t)&&(r._wrapped[t]=r[t])}return r._wrapped}catch(o){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError,unhandledRejection".split(","),s=0;s<u.length;++s)a.prototype[u[s]]=i(u[s]);r.exports={Rollbar:a,_rollbarWindowOnError:t}},function(r,e){"use strict";r.exports=function(r,e){return function(n){if(!n&&!window._rollbarInitialized){var t=window.RollbarNotifier,o=e||{},a=o.globalAlias||"Rollbar",i=window.Rollbar.init(o,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,t.processPayloads()}}}}])},42:function(r,e){window.fs_disable||(window._fs_debug=!1,window._fs_host="www.fullstory.com",window._fs_org="1JRNY",window._fs_namespace="FS_al_noconflict",function(r,e,n,t,o,a,i,l){n in r&&r.console&&r.console.log||(i=r[n]=function(r,e){i.q?i.q.push([r,e]):i._api(r,e)},i.q=[],a=e.createElement(t),a.async=1,a.src="https://"+_fs_host+"/s/fs.js",l=e.getElementsByTagName(t)[0],l.parentNode.insertBefore(a,l),i.identify=function(r,e){i(o,{uid:r}),e&&i(o,e)},i.setUserVars=function(r){i(o,r)},i.identifyAccount=function(r,e){a="account",e=e||{},e.acctId=r,i(a,e)},i.clearUserCookie=function(r,n){for(r=e.domain;;){if(e.cookie="fs_uid=;domain="+r+";path=/;expires="+new Date(0),n=r.indexOf("."),n<0)break;r=r.slice(n+1)}})}(window,document,window._fs_namespace,"script","user"),window._fs_callbacks=[],window._fs_ready=function(){setTimeout(function(){for(var r in window._fs_callbacks)window._fs_callbacks[r]();window._fs_callbacks=!1},100)})},49:function(r,e){var n,t;t=[],n=!1,window._eventQueueClear=function(r,e){var o,a,i,l;if(n)throw new Error("_eventQueueClear only be invoked once");for(n=!0,l=[],a=0,i=t.length;a<i;a++)o=t[a],l.push(o(r,e));return l},window._q=function(r){return!!n||(!!this._eventQueueTriggered||(this._eventQueueTriggered=!0,r.preventDefault(),this.className+=" loading",t.push(function(e){return function(n,t){return t["with"](n(e).closest(t.rootSelector()),function(){return n(e).removeClass("loading"),n(e).trigger(n.event.fix(r))})}}(this)),!0))}},50:function(r,e,n){window._rollbarConfig={accessToken:"e36e9edcd88b416780f0ebe64497cb59",captureUncaught:!0,captureUnhandledRejections:!1,globalAlias:"_alRollbar",rollbarJsUrl:n(324),payload:{environment:"production_js",client:{javascript:{code_version:"a3c200bd8365c017e8c030098218df84122614cd",source_map_enabled:!0,guess_uncaught_frames:!0}},person:window._rollbarPerson},checkIgnore:function(r,e,n){var t,o,a,i,l,c,u,s,d,f,p,w,_,h,b,g,v,y,m,E,x,C,k,R,j;try{if("development_js"===n.data.environment)return!0;if(j=null!=n&&null!=(f=n.data)&&null!=(p=f.client)&&null!=(b=p.javascript)?b.browser:void 0,i=null!=n&&null!=(g=n.data)&&null!=(v=g.body)&&null!=(y=v.trace)?y.exception:void 0,c=null!=n&&null!=(m=n.data)&&null!=(E=m.body)&&null!=(x=E.trace)&&null!=(C=x.frames)&&null!=(w=C[0])?w.filename:void 0,r&&i.rollbarIgnore)return!0;if(r&&null!=c&&null!=j&&/Firefox/.test(j)&&/^resource:\/\//.test(c))return!0;for(t=[/Loading chunk [0-9]+ failed/,/atomicFindClose/,/Baiduspider/,/dataKeys/,/gcdemodata/,/bCapGloRef/,/sCapGloRef/],l=0,s=t.length;l<s;l++)if(k=t[l],k.test(null!=i?i.message:void 0))return!0;for(R=[/^http[s]?\:\/\/webcache\.googleusercontent\.com/,/^http[s]?\:\/\/web\.archive\.org/,/^http[s]?\:\/\/tunnelproxy\.nu/],u=0,d=R.length;u<d;u++)if(k=R[u],k.test(null!=n&&null!=(_=n.data)&&null!=(h=_.request)?h.url:void 0))return!0;return!!/NPObject/.test(i.message)||n.data.client.runtime_ms>12e5}catch(a){return o=a,!1}}},n(346)}});
+//]]>
+</script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'jdy1kdx',
+      scriptTimeout: 3000
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+<script>
+//<![CDATA[
+window._mediaBreakpoints = [767,959];
+//]]>
+</script>
+<script src="//assets.angel.co/assets/bundles/head-7a544bb79c892b8597bde3cc17533bc60dbf0829d695c33a3725da4986dee5a2.js"></script>
+<script>
+  window._alConfig = {"lib/environment":{"controller":"startups","action":"show","environment":"production","current_user":null},"initializer":{"root_class":"_a","template_name_data_key":"_tn","javascript_module_exists_class":"_jm"},"lib/partials":{"root_class":"_a"},"segment/analytics":{"logging_enabled":false},"application":{"js_templates":["startups/show/sections/new_product","startup_roles/startup_profile_group","startups/show/sections/founders","startups/show/sections/past_financing","startups/show/sections/team","startups/show","startups/show/structure","startups/show/helpers/share_button","startups/show/sections/connections_v2","startups/show/header","startups/show/header_fixed","startups/show/header_navigation_tabs","job_listings/apply_button","startups/show/sections/jobs","startups/show/sections/similar_profiles","startups/show/sidebar","layouts/profile","layouts/nav","layouts/header","layouts/flashes","layouts/footer","layouts/footer_links"],"image_host":"//assets.angel.co/images"}};
+</script>
+<script src="//assets.angel.co/webpack/application-d25e1b0446969671d990.js" async="async"></script>
+
+
+<script>
+//<![CDATA[
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga("create","UA-17693728-1","auto");
+ga("set","contentGroup1","Startup profile");
+ga("send","pageview");
+
+//]]>
+</script><script async='async' src='https://www.google-analytics.com/analytics.js'></script>
+<meta content='132453076811032' property='fb:app_id'>
+<script>
+//<![CDATA[
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+analytics.load("poTMRBHig2tYBNBP5P6kGfkGBFq19jmB");
+analytics.page(null,null, {"anonymousId":"86c78d88267b46d38d2bf21c6332760f","controller":"startups","action":"show","pageviewId":"86c78d88267b46d38d2bf21c6332760fc3ff892498aa11b2fc0ddaea95430070"}, {"anonymousId":"86c78d88267b46d38d2bf21c6332760f"})
+window._pageviewId = "86c78d88267b46d38d2bf21c6332760fc3ff892498aa11b2fc0ddaea95430070"
+}}();
+
+//]]>
+</script><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '654344241403981'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=654344241403981&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<script>
+//<![CDATA[
+window._stripeKey = 'pk_live_Sgsc9Y8xSonesJppEw1ee0dY'
+
+//]]>
+</script>
+</head>
+<body id='layouts-base-body'>
+<div data-routes="{&quot;show&quot;:&quot;/lifescribe&quot;}" data-page_titles="{&quot;show&quot;:&quot;LifeScribe | AngelList&quot;}" class=" dss98 startups-show fse9 structure _a _jm" data-_tn="startups/show/structure"></div><div id="root" class=" centered dark  dl85 layouts ffr55 footer _a _jm" data-_tn="layouts/footer">
+<div class="u-fontSize16 normal dl85 layouts ffs42 flashes _a _jm" data-flash_class="flash u-textAlignCenter u-colorWhite s-vgPadTop1 s-vgPadBottom1" data-_tn="layouts/flashes"><div class='js-container s-grid0 s-grid0--outer u-hidden u-maxWidthLayout'>
+</div>
+</div>
+<div class="header_nav  flush_bottom  dl85 layouts fhr17 header _a _jm" data-_tn="layouts/header">
+<div class=" dl85 layouts fnv25 nav _a _jm" data-_tn="layouts/nav"><div class='s-grid s-grid--outer u-maxWidthLayout primaryContainer'>
+<div class='s-grid-colSm24'>
+<div class='searchAndLinks u-floatRight u-borderBox'>
+<div class='s-flexgrid0 s-flexgrid0--inline'>
+<div class='s-flexgrid0-colSm'>
+<form class="s-form u-inlineBlock searchForm u-hiddenMdDown" action="/search" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="/LqkMk3iGbzOG4XKNW/YoCl05PoPUDX4o209/Z420H9MFFdQmrgKOGhYS4myTSHADhnSUGH7UzOlOHBPVELp4A==" />
+<div class='s-flexgrid0 s-flexgrid0--inline'>
+<div class='s-flexgrid0-colSm'>
+<label class="fontello-search-1 s-vgPadRight1 s-vgPadLeft1 searchLabel u-inlineBlock u-vAlignTop" for="q"></label>
+</div>
+<div class='s-flexgrid0-colSmW'>
+<div class='s-vgPadRight0_5'><input type="text" name="q" id="q" value="" placeholder="SEARCH" class="searchInput s-form--blended" /></div>
+</div>
+</div>
+</form>
+
+</div><div class='s-flexgrid0-colSm linksContainer respondToNavbarHeight u-floatRight'><div class='u-inlineBlock'>
+<a class="auth u-fontWeight300" href="/join">Join</a>
+&nbsp;
+<a class="auth login u-fontWeight300" href="/login">Log In</a>
+</div><div class='u-inlineBlock u-hiddenLgOnly'>
+<div class='fontello-search-1 icon mobileSearchLink s-vgLeft0_5 u-inlineBlock u-unstyledLink'></div>
+</div></div></div>
+</div>
+<div class='navAndPrefix respondToNavbarHeight u-borderBox s-vgPadRight1 u-vAlignTop u-nowrap'>
+<div class='mainNav respondToNavbarHeight u-inlineBlock u-nowrap'>
+<div class='logoWrapper u-inline u-vAlignTop'>
+<a class="u-unstyledLink u-inlineBlock s-vgRight0_5 logo fontello-angellist" href="/?ref=nav">AngelList</a>
+</div>
+<ul class='c-navbar navigationLinks u-inline u-uppercase u-vAlignTop'><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item  " href="/jobs">Startup Jobs</a>
+</li><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item  " href="/recruiting">Recruit</a>
+</li><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item  " href="/invest/start">Invest</a>
+</li><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item more-dropdown-button" href="javascript:void(0);">More</a>
+<div class='more-dropdown dropdown hide_when_handheld'>
+<div class='more-dropdown-desktop-menu dropdown-menu js-dropdown-menu u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-align--center'>
+<a class="u-fontSize14 dropdown-item" href="/companies">Companies</a>
+<span>
+<a class="u-fontSize14 dropdown-item" href="/freelancers">Freelancers</a>
+</span>
+<a class="u-fontSize14 dropdown-item" href="/accelerators/apply">Incubators</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/track">Track</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/salaries">Salaries</a>
+<a class="u-fontSize14 dropdown-item" href="/valuations">Valuations</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/help">Help</a>
+</div>
+
+</div>
+</div>
+</li></ul>
+</div>
+</div>
+<div class='network-dropdown dropdown'>
+<div class='network-dropdown-handheld-menu dropdown-menu js-dropdown-menu u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-align--center'>
+<a class="u-fontSize14 dropdown-item" href="/alumni-networks/me">Your Alumni Network</a>
+</div>
+
+</div>
+</div>
+<div class='more-dropdown dropdown hide_when_desktop hide_when_tablet'>
+<div class='dropdown-menu js-dropdown-menu logged-out more-dropdown-handheld-menu u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-align--center'>
+<a class="u-fontSize14 dropdown-item" href="/companies">Companies</a>
+<span>
+<a class="u-fontSize14 dropdown-item" href="/freelancers">Freelancers</a>
+</span>
+<a class="u-fontSize14 dropdown-item" href="/accelerators/apply">Incubators</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/track">Track</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/salaries">Salaries</a>
+<a class="u-fontSize14 dropdown-item" href="/valuations">Valuations</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/help">Help</a>
+</div>
+
+</div>
+</div>
+</div>
+<div class='mobileSearchOuterContainer'>
+<div class='u-hidden mobileSearchContainer'>
+<form class="s-form mobileSearchForm" action="/search" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="evoIxwshaqxbM0Z00rhg8zUdiyzGRbrdtcFVjgu2pz/KVPul3Ht5KP1wiDdVmpmTEnC9hqju3BazlBg8wcKeoA==" />
+<input type="text" name="q" id="q" value="" placeholder="Search" class="mobileSearchInput" />
+</form>
+
+</div>
+</div>
+</div>
+</div>
+</div><div class="ghost  flush_bottom  dl85 layouts fhr17 header _a _jm" data-_tn="layouts/header">
+</div><div class="page   flush_bottom  dl85 layouts fhr17 header _a _jm" data-_tn="layouts/header">
+<div itemscope itemtype='http://data-vocabulary.org/Person'>
+<div class="show_sidebar dl85 layouts fpe53 profile _a _jm" data-_tn="layouts/profile"><div class='prefix u-bgWhite'><div class='u-bgGray u-hiddenSmOnly'>
+<div class='s-grid s-grid--outer u-maxWidthLayout'>
+<div class='s-grid-colLg4 s-grid-colMd1'>
+&nbsp;
+</div>
+<div class='s-grid-colLg12 s-grid-colMd12 u-fontSize14 s-vgPadTop1 s-vgPadBottom1 u-textAlignLeft'>
+<div class='u-fontWeight500'>LifeScribe is on AngelList, where the world meets startups.</div>
+<div class='subhead'>
+To connect with LifeScribe,
+<a href="/join?src=user_profile">sign up</a>
+for AngelList today.
+</div>
+</div>
+<div class='s-grid-colLg8 s-grid-colMd7 u-textAlignLeft u-textAlignCenterSmOnly u-fontSize16'>
+<div class='buttons'>
+<div class='s-vgTop1 u-hiddenSmOnly'></div>
+<a class="c-button c-button--blue" href="/join?src=user_profile">Sign up</a>
+<a class="c-button c-button--gray" href="/login?src=user_profile">Log in</a>
+</div>
+<div class='s-vgBottom2 u-hiddenMdUp'></div>
+</div>
+</div>
+</div>
+<div data-id="29678" data-firm="false" data-taggings="[{&quot;id&quot;:1923682,&quot;new_taggable_id&quot;:29678,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_company_type&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Startup&quot;,&quot;slug_url&quot;:&quot;https://angel.co/startup&quot;}},{&quot;id&quot;:3203012,&quot;new_taggable_id&quot;:29678,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_locations&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Austin&quot;,&quot;slug_url&quot;:&quot;https://angel.co/austin&quot;}},{&quot;id&quot;:664779,&quot;new_taggable_id&quot;:29678,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Social Media Platforms&quot;,&quot;slug_url&quot;:&quot;https://angel.co/social-media-platforms&quot;}},{&quot;id&quot;:1923688,&quot;new_taggable_id&quot;:29678,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Publishing&quot;,&quot;slug_url&quot;:&quot;https://angel.co/publishing&quot;}},{&quot;id&quot;:5885878,&quot;new_taggable_id&quot;:29678,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Parenting&quot;,&quot;slug_url&quot;:&quot;https://angel.co/parenting&quot;}},{&quot;id&quot;:5885879,&quot;new_taggable_id&quot;:29678,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Curated Web&quot;,&quot;slug_url&quot;:&quot;https://angel.co/curated-web&quot;}}]" data-invisible_taggings="[]" class="u-bgWhite dss98 startups-show fhr17 header _a _jm" data-_tn="startups/show/header"><div class='summary'>
+<div class='editable_region'>
+<div class='show'>
+<div class='s-grid s-grid--outer u-maxWidthLayout subheader-container'>
+<div class='s-grid-colMd24 subheader-inner-container'>
+<div class='g-lockup-subheader'>
+<div class='photo subheader-avatar'>
+<img alt="LifeScribe logo" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/29678-df6540fa46860f6d25b49b040d6c7362-medium_jpg.jpg?buster=1396855051" />
+</div>
+<div class='text profile-text u-textAlignCenterSmOnly'>
+<div class='s-grid0'>
+<div class='s-grid0-colMd14'>
+<h1 class='u-fontWeight500 s-vgBottom0_5'>
+LifeScribe
+</h1>
+<h2 class='js-startup_high_concept u-fontSize15 u-fontWeight400 u-colorGray3'>
+Tell meaningful stories together.
+</h2>
+</div>
+<div class='s-grid0-colMd10 action-col'>
+<div class='action-links u-textAlignRightMdUp u-textAlignCenterSmOnly'>
+<div class="c-button c-button--blue c-button--md action-button s-vgRight0_5 dssh0 startups-show-helpers fsn94 share_button _a _jm" href="/startups/29678/share_module" style="" tag_name="a" data-_tn="startups/show/helpers/share_button">Share
+</div>
+<div class='dropdown u-hiddenLgOnly u-inlineBlock'>
+<div class='dropdown-button js-dropdown-button'>
+<div class='c-button c-button--transparent-blue fontello-angle-down u-fontSize16 u-inlineBlock s-vgPullTop0_5 action-button'></div>
+</div>
+<div class='js-dropdown-menu dropdown-menu dropdown-align--right u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu'>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='s-grid0-colMd24'>
+<div class='tags-container'>
+<div class=" dssh27 startups-show-header_2 fts73 tags_and_links _a" data-_tn="startups/show/header_2/tags_and_links"><div class='u-colorGray8 u-fontSize12'>
+<span class='js-location_tag_holder'>
+<span class='s-vgRight1'>
+<i class='fontello-location' style='margin-right: 3px;'></i>
+<span class='js-location_tags'>
+<a class="tag" href="https://angel.co/austin">Austin</a>
+</span>
+</span>
+</span>
+<span class='js-market_tag_holder'>
+<span class='s-vgRight1'>
+<i class='fontello-tag-1' style='margin-right: 3px;'></i>
+<span class='js-market_tags'>
+<a class="tag" href="https://angel.co/parenting">Parenting</a> &middot; <a class="tag" href="https://angel.co/publishing">Publishing</a> &middot; <a class="tag" href="https://angel.co/curated-web">Curated Web</a> &middot; <a class="tag" href="https://angel.co/social-media-platforms">Social Media Platforms</a>
+</span>
+</span>
+</span>
+<span class='s-vgRight1'>
+<i class='fontello-group' style='margin-right: 3px;'></i>
+<span class='js-company_size'>
+1-10
+</span>
+employees
+</span>
+<span class='s-vgRight1 links u-hiddenSmOnly'>
+<span class='link'>
+<a class="fontello-twitter u-uncoloredLink twitter_url" rel="nofollow" target="_blank" href="http://twitter.com/GetLifeScribe"></a>
+</span>
+<span class='blank link'>
+<a class="fontello-facebook u-uncoloredLink facebook_url" rel="nofollow" target="_blank" href="/lifescribe"></a>
+</span>
+<span class='blank link'>
+<a class="fontello-linkedin u-uncoloredLink linkedin_url" rel="nofollow" target="_blank" href="/lifescribe"></a>
+</span>
+<span class='blank link'>
+<a class="fontello-product-hunt u-uncoloredLink producthunt_url" rel="external" target="_blank" href="/lifescribe"></a>
+</span>
+<span class='blank link'>
+<a class="fontello-rss u-uncoloredLink blog_url" rel="nofollow" target="_blank" href=""></a>
+</span>
+<span class='link'>
+<a target="_blank" class="u-uncoloredLink company_url" rel=" nofollow noopener noreferrer" href="http://www.GetLifeScribe.com">GetLifeScribe.com</a>
+</span>
+</span>
+</div>
+</div>
+<div data-load="false" data-id="29678" class=" dsss17 startups-show-sections fc250 connections_v2 _a _jm" data-_tn="startups/show/sections/connections_v2"><div class='u-textAlignCenterSmOnly u-colorGray8'>
+<div class='text'>
+<i class='fontello-plus' style='margin-right: 3px;'></i>
+<a href="/join?utm_source=profile-connections">Sign up</a> to see how you are connected to LifeScribe
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=" dss98 startups-show fhd40 header_fixed _a _jm" data-_tn="startups/show/header_fixed"><div class='container fixed-top'>
+<div class='s-grid u-maxWidthLayout s-grid--outer'>
+<div class='s-grid-colMd12 u-textAlignCenterSmOnly'>
+<div class='avatar-container s-vgTop1 s-vgBottom1'>
+<div class='avatar u-floatLeft u-inlineBlock'>
+<div class='g-photo_container'><img alt="LifeScribe logo" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/29678-df6540fa46860f6d25b49b040d6c7362-medium_jpg.jpg?buster=1396855051" /></div>
+</div>
+<div class='name u-fontSize16 u-colorGray3 u-floatLeft u-inlineBlock s-vgLeft1'>
+LifeScribe
+</div>
+<div class='cb'></div>
+</div>
+</div>
+<div class='s-grid-colMd12 s-grid-colSm24 s-vgPadRight1 s-vgTop1 s-vgBottom1'>
+<div class='u-floatRight'>
+<div class='share fixed_header_button u-inlineBlock'>
+<div class="u-vAlignMiddle c-button c-button--gray dssh0 startups-show-helpers fsn94 share_button _a _jm" href="/startups/29678/share_module" style="" tag_name="a" data-_tn="startups/show/helpers/share_button">Share
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="u-bgGray s-vgPadTop1  dss98 startups-show fhs5 header_navigation_tabs _a _jm" data-_tn="startups/show/header_navigation_tabs"><div class='s-grid s-grid--outer u-maxWidthLayout'>
+<div class='actions u-uppercase s-vgPullTop1'>
+<div class='tabs'><span><a class="tab show selected" data-name="show" href="/lifescribe">Company</a></span></div>
+</div>
+<div class='mobile_nav s-vgLeft1 s-vgRight1'>
+<div class='tabs g-form'>
+<div class='icon_container'>
+<div class='icon'><img class="icon_image" alt="" src="//assets.angel.co/assets/icons/arrow_list_down-6474e12ee7bee2c57dd106d18751b916bfd44aaa4b4c3fe4f9ac0ad46ce7a291.png" /></div>
+</div>
+<div class='value' data-names='{"show":"Overview"}'>
+Overview
+</div>
+</div>
+<select name="tab_select" id="" class="tab_select"><option data-name='show' selected='selected' value='/lifescribe'>
+Overview
+</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+<div class='content s-grid s-grid--outer u-maxWidthLayout s-vgBottom2'>
+<div class='panes_container no_error s-grid-colSm24'>
+<div class='error u-textAlignCenter u-colorGray6 s-vgTop2'>There was a problem loading your content.</div>
+<div class='s-flexgrid0 s-flexgrid0--fixed panes_grid'>
+<div class='main pane s-flexgrid0--footer s-flexgrid0-colMdW s-vgPadRight1'><div data-show-wvyp-modal="null" class=" ds2 startups fsw49 show _a _jm" data-_tn="startups/show"><a name='new_product'></a>
+<h3 class='header new_product'>
+Product
+</h3>
+<div class='new_product section'><div class="section with_filler with_editable_regions itemized dsss17 startups-show-sections fnt94 new_product _a _jm" data-startup="{&quot;id&quot;:29678,&quot;product_desc&quot;:&quot;Every life matters. LifeScribe helps friends and families gather and share meaningful memories of a life well lived.\n\nYou Share-- Invite friends and family. Give stories depth through their perspective.\n\nWe Guide-- Let LifeScribe lead you through sharing the stories, photos, and videos that matter most.\n\nYou Publish- Keep your LifeScribe&#39;s online or create printed storybooks you&#39;ll cherish.\n&quot;}" data-_tn="startups/show/sections/new_product"><div class='product_desc editable_region'>
+<div class='show'>
+<div class='content'>
+Every life matters. LifeScribe helps friends and families gather and share meaningful memories of a life well lived.<br/><br/>You Share-- Invite friends and family. Give stories depth through their perspective.<br/><br/>We Guide-- Let LifeScribe lead you through sharing the stories, photos, and videos that matter most.<br/><br/>You Publish- Keep your LifeScribe&#39;s online or create printed storybooks you&#39;ll<span class="elipses">&hellip; &middot; </span><a class="hidden_more" href="javascript:void(0);">More</a><span class="hidden"> cherish.<br/></span>
+</div>
+</div>
+</div>
+
+</div></div>
+<a name='founders'></a>
+<h3 class='founders header'>
+Founders
+</h3>
+<div class='founders section'><div class="section with_filler with_editable_regions dsss17 startups-show-sections ffs70 founders _a _jm" data-id="29678" data-_tn="startups/show/sections/founders"><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="larger" data-startup_id="29678" data-role="founder" data-_tn="startup_roles/startup_profile_group"><ul class='larger roles'><li class='role' data-token='rAU'><div data-startup_role="{&quot;id&quot;:81124,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:71317,&quot;startup_id&quot;:29678,&quot;role&quot;:&quot;founder&quot;,&quot;token&quot;:&quot;rAU&quot;,&quot;past?&quot;:false}" data-size="larger" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup larger top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="71317" href="https://angel.co/jeff-dyck"><img class="angel_image" alt="Jeff Dyck" src="https://d1qb2nb5cznatu.cloudfront.net/users/71317-medium_jpg?1493852674" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="71317" href="https://angel.co/jeff-dyck">Jeff Dyck</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Senior implementation consultant for emerging/ first of their kind cognitive technologies (Machine learning, NLP, etc).</p></div>
+</div>
+</div>
+</div></li></ul>
+</div>
+
+</div></div>
+<a name='past_financing'></a>
+<h3 class='header past_financing'>
+Funding
+</h3>
+<div class='past_financing section'><div class="section dsss17 startups-show-sections fpg76 past_financing _a _jm" data-id="29678" data-_tn="startups/show/sections/past_financing"><h4 class='subtitle' data-tips_selector='past_investors_section'>
+Investors
+<span class='detail'>from previous rounds</span>
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="29678" data-role="past_investor" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='TMa'><div data-startup_role="{&quot;id&quot;:169183,&quot;tagged_type&quot;:&quot;Startup&quot;,&quot;tagged_id&quot;:75901,&quot;startup_id&quot;:29678,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;TMa&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="startup-link" title="10-Xelerator" data-type="Startup" data-id="75901" href="https://angel.co/10xelerator"><img class="angel_image" alt="10-Xelerator" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/75901-f1e929818fcef08a48b5b94758fa292a-medium_jpg.jpg?buster=1345338482" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="75901" href="https://angel.co/10xelerator">10-Xelerator</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>10x is a new venture accelerator. 10x runs twice each year in the winter and summer.</p></div>
+</div>
+</div>
+</div></li></ul>
+</div></div>
+<h4 class='subtitle'>Incubator</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="29678" data-role="incubator" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='TMb'><div data-startup_role="{&quot;id&quot;:169184,&quot;tagged_type&quot;:&quot;Startup&quot;,&quot;tagged_id&quot;:75901,&quot;startup_id&quot;:29678,&quot;role&quot;:&quot;incubator&quot;,&quot;token&quot;:&quot;TMb&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="startup-link" title="10-Xelerator" data-type="Startup" data-id="75901" href="https://angel.co/10xelerator"><img class="angel_image" alt="10-Xelerator" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/75901-f1e929818fcef08a48b5b94758fa292a-medium_jpg.jpg?buster=1345338482" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="75901" href="https://angel.co/10xelerator">10-Xelerator</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>10x is a new venture accelerator. 10x runs twice each year in the winter and summer.</p></div>
+</div>
+</div>
+</div></li></ul>
+</div></div>
+</div></div>
+<a name='team'></a>
+<h3 class='header team'>
+Team
+</h3>
+<div class='section team'><div class="section dsss17 startups-show-sections ftm23 team _a _jm" data-_tn="startups/show/sections/team"><a name='employees_section'></a>
+<h4 class='subtitle' data-tips_selector='employees_section'>
+Employees
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="29678" data-role="employee" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='45JN'><div data-startup_role="{&quot;id&quot;:596274,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:279967,&quot;startup_id&quot;:29678,&quot;role&quot;:&quot;employee&quot;,&quot;token&quot;:&quot;45JN&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="279967" href="https://angel.co/brianmaierjr"><img class="angel_image" alt="Brian Maier Jr." src="https://d1qb2nb5cznatu.cloudfront.net/users/279967-medium_jpg?1405588474" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="279967" href="https://angel.co/brianmaierjr">Brian Maier Jr.</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>designer / dad / musican / cyclist</p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='4n9A'><div data-startup_role="{&quot;id&quot;:651478,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:80467,&quot;startup_id&quot;:29678,&quot;role&quot;:&quot;employee&quot;,&quot;token&quot;:&quot;4n9A&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="80467" href="https://angel.co/mehmet-emre-aydinli"><img class="angel_image" alt="Mehmet Emre Aydinli" src="https://d1qb2nb5cznatu.cloudfront.net/users/80467-medium_jpg?1405484602" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="80467" href="https://angel.co/mehmet-emre-aydinli">Mehmet Emre Aydinli</a>
+</div>
+<div class='role_title'>Android Developer</div>
+<div class='bio'><p>Working at <a href="https://angel.co/content-direct-csg-international" class="at_mention_link" target="_blank" title="Content Direct, CSG International" data-mention="true" data-type="Startup" data-id="92731" data-slug_id="347917" data-name="content-direct-csg-international"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Content Direct, CSG International</span></a></p></div>
+</div>
+</div>
+</div></li></ul>
+</div></div>
+<a name='advisors_section'></a>
+<h4 class='subtitle' data-tips_selector='advisors_section'>
+Advisors
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="29678" data-role="advisor" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='Pe4'><div data-startup_role="{&quot;id&quot;:153865,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:70840,&quot;startup_id&quot;:29678,&quot;role&quot;:&quot;advisor&quot;,&quot;token&quot;:&quot;Pe4&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="70840" href="https://angel.co/tmetzner"><img class="angel_image" alt="Tim Metzner" src="https://d1qb2nb5cznatu.cloudfront.net/users/70840-medium_jpg?1420835780" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="70840" href="https://angel.co/tmetzner">Tim Metzner</a>
+</div>
+<div class='role_title'></div>
+<div class='comment'>Great team working on interesting solutions for niche markets with potential to scale to lots of other markets. </div>
+</div>
+</div>
+</div></li><li class='role' data-token='Pe5'><div data-startup_role="{&quot;id&quot;:153866,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:91108,&quot;startup_id&quot;:29678,&quot;role&quot;:&quot;advisor&quot;,&quot;token&quot;:&quot;Pe5&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="91108" href="https://angel.co/franzd"><img class="angel_image" alt="Franz Dill" src="https://d1qb2nb5cznatu.cloudfront.net/users/91108-medium_jpg?1405521734" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="91108" href="https://angel.co/franzd">Franz Dill</a>
+</div>
+<div class='role_title'></div>
+<div class='comment'>Strong interest in storytelling technologies and their application.</div>
+</div>
+</div>
+</div></li><li class='role' data-token='24Xc'><div data-startup_role="{&quot;id&quot;:203405,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:115062,&quot;startup_id&quot;:29678,&quot;role&quot;:&quot;advisor&quot;,&quot;token&quot;:&quot;24Xc&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="115062" href="https://angel.co/barb-didrichsen-formerly-nieman"><img class="angel_image" alt="Barb Didrichsen (formerly Nieman)" src="https://d1qb2nb5cznatu.cloudfront.net/users/115062-medium_jpg?1463029310" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="115062" href="https://angel.co/barb-didrichsen-formerly-nieman">Barb Didrichsen (formerly Nieman)</a>
+</div>
+<div class='role_title'></div>
+<div class='comment'>Assisting with the story building process.</div>
+</div>
+</div>
+</div></li></ul>
+<a class="view_all" href="/startup_roles?role=advisor&amp;startup_id=29678">View all 7 Advisors</a>
+</div></div>
+</div></div>
+</div>
+</div>
+<div class='sidebar pane s-flexgrid0-colMd s-flexgrid0--width7 s-flexgrid0--header s-vgPadLeft1'><div class="show customized_sections dss98 startups-show fsr30 sidebar _a _jm" data-id="29678" data-current_action="show" data-actions="[&quot;show&quot;]" data-default_sections="[&quot;startups/show/sections/jobs&quot;,&quot;startups/show/sections/in_search_of&quot;,&quot;startups/show/sections/similar_profiles&quot;]" data-per_action_sections="{&quot;show&quot;:[&quot;startups/show/sections/jobs&quot;,&quot;startups/show/sections/in_search_of&quot;,&quot;startups/show/sections/similar_profiles&quot;],&quot;syndicate&quot;:false,&quot;embed&quot;:false,&quot;activity&quot;:[&quot;startups/show/sections/jobs&quot;,&quot;startups/show/sections/in_search_of&quot;],&quot;post_close_hub&quot;:[&quot;startups/show/sections/post_close_hub_examples&quot;,&quot;startups/show/sections/investments&quot;,&quot;startups/show/sections/post_close_hub_tools&quot;],&quot;views&quot;:false}" data-titles="{&quot;startups/show/sections/jobs&quot;:&quot;Jobs&quot;,&quot;startups/show/sections/in_search_of&quot;:&quot;Freelance Opportunities&quot;,&quot;startups/show/sections/similar_profiles&quot;:&quot;People also viewed&quot;,&quot;startups/show/sections/post_close_hub_examples&quot;:&quot;Examples&quot;,&quot;startups/show/sections/investments&quot;:&quot;You Invested &lt;i class=\&quot;fontello-ok\&quot;&gt;&lt;/i&gt;&quot;,&quot;startups/show/sections/post_close_hub_tools&quot;:&quot;Tools&quot;}" data-_tn="startups/show/sidebar"><div class='section_container' data-section='startups/show/sections/jobs'><div class='header jobs'>Jobs</div><div class='jobs section'><div class="section dsss17 startups-show-sections fjs30 jobs _a _jm" data-startup_id="29678" data-non_recruiting="true" data-_tn="startups/show/sections/jobs"><div class='section_content'>
+<div class='no_jobs'>
+LifeScribe
+hasn't added any jobs yet.
+</div>
+<div class='actions'>
+<div class='details-button job-section-button'>
+<div class=" djl87 job_listings fan13 apply_button _a _jm" data-startup_id="29678" data-startup_name="LifeScribe" data-startup-hiring="false" data-logged-in="false" data-startup="lifescribe" data-source="startup_jobs_module" data-_tn="job_listings/apply_button"><div class='js-success u-hidden'>
+<div class='buttons'>
+<a class='alternate c-button c-button--full-width c-button--gray u-fontWeight600' href='javascript:void(0);'>
+<span class='fontello-ok' style='font-size: 0.9em'></span>
+Notification Set
+</a>
+</div>
+</div>
+<div class='js-qualifications-dropdown u-hidden qualifications-dropdown'></div>
+<div class='buttons js-apply applicant-flow-dropdown'>
+<a class="c-button c-button--blue c-button--full-width   js-interested-button" href="javascript:void(0);">Get Notified</a>
+<div class='dropdown-align--left dropdown-menu job-dropdown-menu js-dropdown u-hidden' data-force-note='' data-source='startup_jobs_module' data-startup-id='29678'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-width--lg'>
+<div class='u-textAlignLeft'>
+<div class='job-listings js-job-listings js-step'>
+<div class='dropdown-item dropdown-title u-fontSize14 u-fontWeight500'>
+Which position are you applying for?
+</div>
+<ul>
+</ul>
+</div>
+<div class='hide js-step js-user-note s-form'>
+<div class='dropdown-item dropdown-title u-fontSize14 u-fontWeight500'>
+Add a message to LifeScribe
+</div>
+<textarea class='autogrow user-note-textarea u-fontSize14 u-colorGray6 u-block' max_length='1000' placeholder='(optional) Write a note to Jeff Dyck at LifeScribe. What excites you about LifeScribe? Why would you be a good fit?'></textarea>
+<button class='apply-button c-button c-button--blue s-vgTop0_5 s-vgRight1 u-floatRight js-apply-button'>
+Apply
+</button>
+<div class='cb'></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='js-notify-me-modal u-hidden mfp-hide'>
+<div class='lightbox-content popover'>
+<div class='title s-vgBottom1'>
+<h3 class='s-h3'>Notify Me When Life Scribe Lists Jobs</h3>
+</div>
+<div class='s-form'>
+<div class='input'>
+<input type="text" name="email" id="email" value="" placeholder="example@you.com" class="js-email" />
+</div>
+<div class='js-errors hidden'></div>
+<div class='buttons'>
+<button class='c-button c-button--blue s-vgTop1 u-block js-set-notification-button'>
+Create Notification
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='details-button job-section-button'>
+<a class='g-button js-similar-jobs-button' href='/austin/publishing/jobs'>
+See Similar Jobs
+</a>
+</div>
+</div>
+<div class='footer-actions'><a class="details" href="https://angel.co/lifescribe/jobs">View jobs page</a></div>
+<div class='cb'></div>
+</div>
+</div></div>
+</div>
+<div class='section_container u-hiddenSmOnly' data-section='startups/show/sections/similar_profiles'><div class='header similar_profiles'>People also viewed</div><div class='section similar_profiles'><div class="u-hiddenSmOnly dsss17 startups-show-sections fss16 similar_profiles _a _jm" data-_tn="startups/show/sections/similar_profiles"><div class='c-inset u-bgWhite s-vgBottom1_5'>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Velocity Broadcast Group, Inc. - Jambaar" data-type="Startup" data-id="536306" href="https://angel.co/velocity-broadcast-group?src=rec"><img class="angel_image" alt="Velocity Broadcast Group, Inc. - Jambaar" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/536306-43e5136d5f34fd7847b32efc6f0eab70-medium_jpg.jpg?buster=1488635200" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="536306" href="https://angel.co/velocity-broadcast-group?src=rec">Velocity Broadcast Group, Inc. - Jambaar</a></div>
+<div class='u-fontWeight200 u-colorGray8'>The Video-as-a-Service Platform for...</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="LISNR" data-type="Startup" data-id="144696" href="https://angel.co/lisnr?src=rec"><img class="angel_image" alt="LISNR" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/144696-aef8d255fd273ac8865a15fb5cfdba3c-medium_jpg.jpg?buster=1415809366" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="144696" href="https://angel.co/lisnr?src=rec">LISNR</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Send Data Over Audio</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Tubular Labs" data-type="Startup" data-id="105740" href="https://angel.co/tubular-labs?src=rec"><img class="angel_image" alt="Tubular Labs" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/105740-167251561003ab89735491426b5476d3-medium_jpg.jpg?buster=1355864117" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="105740" href="https://angel.co/tubular-labs?src=rec">Tubular Labs</a></div>
+<div class='u-fontWeight200 u-colorGray8'>The Standard for Video Intelligence</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Amazon" data-type="Startup" data-id="37683" href="https://angel.co/amazon?src=rec"><img class="angel_image" alt="Amazon" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/37683-b109108b8062148bcf51903a54d5eb92-medium_jpg.jpg?buster=1336514528" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="37683" href="https://angel.co/amazon?src=rec">Amazon</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Earth's most customer-centric company</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Apple" data-type="Startup" data-id="37595" href="https://angel.co/apple?src=rec"><img class="angel_image" alt="Apple" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/37595-5e63ea53e61d388ddfc445e744fcecdf-medium_jpg.jpg?buster=1326846816" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="37595" href="https://angel.co/apple?src=rec">Apple</a></div>
+<div class='u-fontWeight200 u-colorGray8'></div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Twitter" data-type="Startup" data-id="32510" href="https://angel.co/twitter?src=rec"><img class="angel_image" alt="Twitter" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/32510-9098ee9c875ae9698c86d2bc6d6cb75b-medium_jpg.jpg?buster=1431034474" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="32510" href="https://angel.co/twitter?src=rec">Twitter</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Instant updates from your friends and...</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="LaunchableMedia" data-type="Startup" data-id="612771" href="https://angel.co/launchable-media?src=rec"><img class="angel_image" alt="LaunchableMedia" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/612771-57c7908a9a76db9a768de71e57e40a2e-medium_jpg.jpg?buster=1436286004" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="612771" href="https://angel.co/launchable-media?src=rec">LaunchableMedia</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Independent media group for the...</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Crux" data-type="Startup" data-id="358358" href="https://angel.co/crux?src=rec"><img class="angel_image" alt="Crux" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/358358-dfe1d1f09ae2b771b91c5cbd546fb3b1-medium_jpg.jpg?buster=1456785377" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="358358" href="https://angel.co/crux?src=rec">Crux</a></div>
+<div class='u-fontWeight200 u-colorGray8'>A fundamentally new way  to connect...</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+
+</div>
+<div id='root_footer'></div>
+</div><div id="footer" class=" centered dark  dl85 layouts ffr55 footer _a _jm" data-_tn="layouts/footer"><div class="u-colorGray9 s-fontWeight300 u-fontSize12 u-textAlignCenter u-textShadowWhite s-grid0 s-grid0--outer u-maxWidthLayout dl85 layouts ffs95 footer_links _a _jm" data-_tn="layouts/footer_links"><div class='links'>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/help">Help</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/companies/a">Companies</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/jobs/locations">Jobs by Location</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/jobs/markets">Jobs by Market</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a rel="" class="s-vgRight0_5 u-uncoloredLink" href="https://blog.angel.co">Blog</a>
+<a class="s-vgRight0_5 u-uncoloredLink" rel="nofollow" href="http://twitter.com/angellist">Twitter</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/terms">Terms &amp; Risks</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/unsubscribe">Unsubscribe</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<span class='tiptip' title='AngelList is not responsible for the contents of this profile. Do your own diligence.'>
+Profile not verified
+</span>
+</div>
+
+</div>
+</div>
+
+<div id='fb-root'></div>
+</body>
+</html>
+
+
+

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html class='notranslate no-js scheme- ml no-ms no-mm size-fixed_width not_responsive' xmlns:fb='http://ogp.me/ns/fb#'>
+<head>
+<title>AngelList</title>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="HcnaosxVbUNdC2RMebJjyleg8kSNOjbfWHcWJj/qT8mOSfd5p2eyi2rQyII2cjr2Y5oxVIjGi9gpep7CNuDaPw==" />
+<!--
+wOfiACvQVdLAFKwafKMLYtGZDo0IuMnFWh46ZohQHeXqNAH8Y14NUwaI8WwXeG4O9JJs9cKdq2LxghNVVKXJVo87rcV2+TNtuYjOIMUY9wiwNzQZzBH0ERdcF/E8kILNMXEjquWtN5am8mnNu3oELFDvQI21wt5/tLMHY6OghGiCX++FYQkInGNnxXeJ3/4C5Z3pS7aUeURTMfOEuo9XeOkLoj71x5dS+joIWgInkgDgGyro9pzqK8yRsvN71At2nNnoSLTl4LJZI9U1L4BPaiuDd0suEt3/ePsDV1EniFsBTkxxwTidp1LI6rCCjBqJiffdFEKfRDnKypSaRaKjdopUKi47RBsZvyW+yW58oXqffxi1BNjFZzX8boDEz+C7b8pLryGWvAJbatHBDyDIJcFoUvV7TY2OX0pAPYGu5sSl6pRN4d7reBQe9CiVUKG0pk98b9VRXGWoj6TvjnBrvdwQcsuqLiO+iPmWRDwq/8By+fsz9yDYJwUt7QamRrFHCmf/TNb3JHtaXTBrAXegy+GenqtFlrvZs19P/2S+0YSRP+7tPL9XuOy33kMgNS6uPWyPaBZxpJ5TsVX75SYeYdclx8mIVYVRV4Vf3w1X8T91ra3bEIi5E3HbqaGlsqrZWhdTZabYKWQlDoAMwRos2scGuhWRtehi05F5nPFS+afgCI4bRAULOhQokUYmEDYb3at/jNlQ/pvnOJz7UeXUk2GHc6SPGVpIrwClQp4BKF0mj42YSZXVaHabDs3r0p0YfTYhTG2iXtvS+jO8F62VEJZZk+Pw4Fwvi7QQLQh8/h5zKzrTPRAG83L0YdHYVgtGE+R3OHYQFmk972sLb748rljmN//9tBRHX3tMe2KsLY5ArE7W8dYvMlXBXAq8D5+my6zokHer6Z5r31/GZuERNkjxaBLX3e0gE9pWlwPFN43LP0H6ie4K8FTZdTbP8BHuH2YHEQBvitkciHgV9/P52R1JECtDtn6XPxG+i9whC4GOcBMeq6DIdPFDvOtPsBMmEj8gfbYKifIPUJG1Ncqy1FgiD6e6Oy2dGYgCphSBd0Acc8o5t6dRjpV2mDIaniSTA9IY60mM4MTGITuunzrEta+pbN+U8xjaAEeNs4HqUR0wqFLWH5QqqDqdGwuGYrtCcYR3tZ1ffl1Mcu64gngM7Ggu63HkoFzfWPz4TFf/2LLDZfySGXsN1p1xF8bGpn3CD2EBj2F/aeUo20a/qxJwbWnf87SU9si4af3IJkATW+ls1fF+CHHvra5gdm2Y48HsupxxEThSZGHlr2d3WSfB0W/yTqYyXdie0PAjBVddZYGyJl4Trr1W0/w2uE65ubwwRZ+1TlwwSYaROKR0zRxDjPishm5d0Zbl6WsqjNH8Si7ERDOQcxglUUkMMb75Oc5OD90KMIuskxt7li38z+Qo3X+vcCWZ4I9wK+pmoSqkk7InIt8V8SEX6g5NY1aLOk4St7YtGpk5iieuei2aY5pEcEgF2b7O2VU=
+-->
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta content='en_US' http-equiv='Content-Language'>
+<meta content='c2y_K2CiLmGeet7GUQc9e3RVGp_gCOxUC4IdJg_RBVo' name='google-site-verification'>
+<meta content='00bd751d25bdb494779b40bedece7089' name='detectify-verification'>
+<meta content='initial-scale=1.0,maximum-scale=1.0,width=device-width' name='viewport'>
+<meta content='notranslate' name='google'>
+<meta content='AngelList is a platform for startups' name='description'>
+<meta content='noindex' property='robots'>
+
+<link href='//assets.angel.co/assets/icons/angellist-e1decb2fb69dc221e2dd4ad5f749797e28b3e9e92957e0f161b8e64d5a8a74c8.ico' rel='shortcut icon'>
+<link href='/images/icons/iOS/Icon.png' rel='apple-touch-icon-precomposed' sizes='57x57'>
+<link href='/images/icons/iOS/Icon-72.png' rel='apple-touch-icon-precomposed' sizes='72x72'>
+<link href='/images/icons/iOS/Icon@2x.png' rel='apple-touch-icon-precomposed' sizes='114x114'>
+<link href='/images/icons/iOS/Icon-72@2x.png' rel='apple-touch-icon-precomposed' sizes='144x144'>
+
+<link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.g.application0-22ed6f69f455e9894027aeb071e5f678.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.g.application1-6234e3ddb9b06c341d820c9fecb426d4.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.admin-216b428508a3b1815691d6d41ec2927c.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.angel_profiles-7d9af9b27287899d820727983d30049a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.companies-f88176545f07def6cd7527db86e16483.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.follows-ea0cd8fa110929cf29575e967272dfed.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fund_campaigns-66d198d400ee816d04418d0999c86af7.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.funding_rounds-75894cbd96b33dd8ebc38a46381bcb4d.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fundraising-38c4ab481b2bc7b8cc422236888bfa51.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fundraising_campaigns-59521b4fdf1787344530788431f2da16.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.home-8a662f0685b39d18f5fd4ff4b7a7f677.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.incubator_administrators-df26943c9d6e72640c7afe5c840cae35.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_listing_showcase-ee242ec721d85dbfdcf39d58fd7e18b1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_listings-34788d616970942fbe122f9ebef36996.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_pairings-1a0e77ccf3378e20fc17b4c807832036.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_profile_signup-cd35c129f5fca74c4d0b79e669a0080a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.layouts-43efccdeae24c93e267fa574ccad1363.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.messages-b31a83501f010acf74cadce64cbf20a3.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_posts-f3fd4a6d1c8db28df4c13cc928f45fef.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_taggings-329d0d35099da8a5922d5e4eef40f02a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_tags-509f6e8a41b23b6cd37a1174dca6f4d5.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.paths-9520b1cda7b731be6d0923b9c57e7c55.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.people-e2632e256c33c05b3cd313f8cfc625fc.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profile_flaggings-ddd19e885192e4560f6f7f35dcbd4b69.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profile_transaction_listings-d7b86ffd3c0c278550868c68ee83be79.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profiles-5fba6d565832e28be5419b6412073ab1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.program_applications-96262d89c322e1b7fe54401f4843e56e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.programs-7458ffa6bad61b3d8ae55d74da52f3d2.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.projects-1d49de599cee97c030d30d210a5eb3e1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.qa-25edb3ccd35cfc2d12b5476e4a3a01e1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.reviews-2da4057e5e52f66eab9f2e6ce2b70bba.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.screenshots-d7349598409c1f85776bdcfaedb8d3ab.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.sessions-5da1bdc7d6768cf45099bb920e066681.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.settings-52b9c88fe27eb65e32005624842c707e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.shared-e411a216cda70bdb8820d096c1dba2a1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.social-5da48eb7577c4628095d5d9c9d2cbd32.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_intros-e1eb2c0feb137b283c6270973e22ba4e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_roles-8fdf53d155560dc58e65d75a2b8d21d0.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_rounds-fe188c9d18bf5ab371d8c67709785a5a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startups-fbb0ab18bcae14012b079baf4cc5cc74.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.syndicates-9c2246b04f09a862c6ac6cbdb7377a40.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.tags-207bbefa797190c0a7d577055225f847.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.transaction_feed-e165d0e88d499b872d6765a7f6901ecd.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.user_graph_edges-3ad2bb21af9bffb99b6d5b10986bed6f.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.user_one_signal_preferences-35553bd46064906bc0e94360e218a2cd.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.valuations-5c78c00ec3ca16792b48e1559ec1dc1c.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.views-11c1d8186d5a791f7ca981b3c4b4c90d.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/application-e196d4ad5152313f4baba3d0932b7052.css" />
+
+<script>
+//<![CDATA[
+window['fs_disable']=true;
+//]]>
+</script><script>
+//<![CDATA[
+window._rollbarPerson={"id":null,"username":null};
+//]]>
+</script><script>
+//<![CDATA[
+!function(r){function e(t){if(n[t])return n[t].exports;var o=n[t]={i:t,l:!1,exports:{}};return r[t].call(o.exports,o,o.exports,e),o.l=!0,o.exports}var n={};return e.m=r,e.c=n,e.i=function(r){return r},e.d=function(r,n,t){e.o(r,n)||Object.defineProperty(r,n,{configurable:!1,enumerable:!0,get:t})},e.n=function(r){var n=r&&r.__esModule?function(){return r["default"]}:function(){return r};return e.d(n,"a",n),n},e.o=function(r,e){return Object.prototype.hasOwnProperty.call(r,e)},e.p="//assets.angel.co/webpack/",e(e.s=314)}({314:function(r,e,n){n(50),n(42),n(49)},324:function(r,e,n){r.exports=n.p+"3fd28f327bccd084051e98a9c3d97fa2.js"},346:function(r,e){!function(r){function e(t){if(n[t])return n[t].exports;var o=n[t]={exports:{},id:t,loaded:!1};return r[t].call(o.exports,o,o.exports,e),o.loaded=!0,o.exports}var n={};return e.m=r,e.c=n,e.p="",e(0)}([function(r,e,n){"use strict";var t=n(1).Rollbar,o=n(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js";var a=t.init(window,_rollbarConfig),i=o(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,e){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(e){try{console.error("[Rollbar]: Internal error",e)}catch(n){}}}}function t(r,e,n){window._rollbarWrappedError&&(n[4]||(n[4]=window._rollbarWrappedError),n[5]||(n[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,n),e&&e.apply(window,n)}function o(r){var e=function(){var e=Array.prototype.slice.call(arguments,0);t(r,r._rollbarOldOnError,e)};return e.belongsToShim=!0,e}function a(r){this.shimId=++c,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var e=a;return n(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var n=this,t="scope"===r;t&&(n=new e(this));var o=Array.prototype.slice.call(arguments,0),a={shim:n,method:r,args:o,ts:new Date};return window._rollbarShimQueue.push(a),t?n:void 0})}function l(r,e){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){var n=e.addEventListener;e.addEventListener=function(e,t,o){n.call(this,e,r.wrap(t),o)};var t=e.removeEventListener;e.removeEventListener=function(r,e,n){t.call(this,r,e&&e._wrapped?e._wrapped:e,n)}}}var c=0;a.init=function(r,e){var t=e.globalAlias||"Rollbar";if("object"==typeof r[t])return r[t];r._rollbarShimQueue=[],r._rollbarWrappedError=null,e=e||{};var i=new a;return n(function(){if(i.configure(e),e.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=o(i);var n,a,c="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<c.length;++n)a=c[n],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return e.captureUnhandledRejections&&(i._unhandledRejectionHandler=function(r){var e=r.reason,n=r.promise,t=r.detail;!e&&t&&(e=t.reason,n=t.promise),i.unhandledRejection(e,n)},r.addEventListener("unhandledrejection",i._unhandledRejectionHandler)),r[t]=i,i})()},a.prototype.loadFull=function(r,e,t,o,a){var i=function(){var e;if(void 0===r._rollbarPayloadQueue){var n,t,o,i;for(e=new Error("rollbar.js did not load");n=r._rollbarShimQueue.shift();)for(o=n.args,i=0;i<o.length;++i)if(t=o[i],"function"==typeof t){t(e);break}}"function"==typeof a&&a(e)},l=!1,c=e.createElement("script"),u=e.getElementsByTagName("script")[0],s=u.parentNode;c.crossOrigin="",c.src=o.rollbarJsUrl,c.async=!t,c.onload=c.onreadystatechange=n(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){c.onload=c.onreadystatechange=null;try{s.removeChild(c)}catch(r){}l=!0,i()}}),s.insertBefore(c,u)},a.prototype.wrap=function(r,e){try{var n;if(n="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(e){throw"string"==typeof e&&(e=new String(e)),e._rollbarContext=n()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e,e}},r._wrapped._isWrap=!0;for(var t in r)r.hasOwnProperty(t)&&(r._wrapped[t]=r[t])}return r._wrapped}catch(o){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError,unhandledRejection".split(","),s=0;s<u.length;++s)a.prototype[u[s]]=i(u[s]);r.exports={Rollbar:a,_rollbarWindowOnError:t}},function(r,e){"use strict";r.exports=function(r,e){return function(n){if(!n&&!window._rollbarInitialized){var t=window.RollbarNotifier,o=e||{},a=o.globalAlias||"Rollbar",i=window.Rollbar.init(o,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,t.processPayloads()}}}}])},42:function(r,e){window.fs_disable||(window._fs_debug=!1,window._fs_host="www.fullstory.com",window._fs_org="1JRNY",window._fs_namespace="FS_al_noconflict",function(r,e,n,t,o,a,i,l){n in r&&r.console&&r.console.log||(i=r[n]=function(r,e){i.q?i.q.push([r,e]):i._api(r,e)},i.q=[],a=e.createElement(t),a.async=1,a.src="https://"+_fs_host+"/s/fs.js",l=e.getElementsByTagName(t)[0],l.parentNode.insertBefore(a,l),i.identify=function(r,e){i(o,{uid:r}),e&&i(o,e)},i.setUserVars=function(r){i(o,r)},i.identifyAccount=function(r,e){a="account",e=e||{},e.acctId=r,i(a,e)},i.clearUserCookie=function(r,n){for(r=e.domain;;){if(e.cookie="fs_uid=;domain="+r+";path=/;expires="+new Date(0),n=r.indexOf("."),n<0)break;r=r.slice(n+1)}})}(window,document,window._fs_namespace,"script","user"),window._fs_callbacks=[],window._fs_ready=function(){setTimeout(function(){for(var r in window._fs_callbacks)window._fs_callbacks[r]();window._fs_callbacks=!1},100)})},49:function(r,e){var n,t;t=[],n=!1,window._eventQueueClear=function(r,e){var o,a,i,l;if(n)throw new Error("_eventQueueClear only be invoked once");for(n=!0,l=[],a=0,i=t.length;a<i;a++)o=t[a],l.push(o(r,e));return l},window._q=function(r){return!!n||(!!this._eventQueueTriggered||(this._eventQueueTriggered=!0,r.preventDefault(),this.className+=" loading",t.push(function(e){return function(n,t){return t["with"](n(e).closest(t.rootSelector()),function(){return n(e).removeClass("loading"),n(e).trigger(n.event.fix(r))})}}(this)),!0))}},50:function(r,e,n){window._rollbarConfig={accessToken:"e36e9edcd88b416780f0ebe64497cb59",captureUncaught:!0,captureUnhandledRejections:!1,globalAlias:"_alRollbar",rollbarJsUrl:n(324),payload:{environment:"production_js",client:{javascript:{code_version:"e09ad9c6ec1067bc1eb6678ecfca471c9fae1bc4",source_map_enabled:!0,guess_uncaught_frames:!0}},person:window._rollbarPerson},checkIgnore:function(r,e,n){var t,o,a,i,l,c,u,s,d,f,p,w,_,h,b,g,v,y,m,E,x,C,k,R,j;try{if("development_js"===n.data.environment)return!0;if(j=null!=n&&null!=(f=n.data)&&null!=(p=f.client)&&null!=(b=p.javascript)?b.browser:void 0,i=null!=n&&null!=(g=n.data)&&null!=(v=g.body)&&null!=(y=v.trace)?y.exception:void 0,c=null!=n&&null!=(m=n.data)&&null!=(E=m.body)&&null!=(x=E.trace)&&null!=(C=x.frames)&&null!=(w=C[0])?w.filename:void 0,r&&i.rollbarIgnore)return!0;if(r&&null!=c&&null!=j&&/Firefox/.test(j)&&/^resource:\/\//.test(c))return!0;for(t=[/Loading chunk [0-9]+ failed/,/atomicFindClose/,/Baiduspider/,/dataKeys/,/gcdemodata/,/bCapGloRef/,/sCapGloRef/],l=0,s=t.length;l<s;l++)if(k=t[l],k.test(null!=i?i.message:void 0))return!0;for(R=[/^http[s]?\:\/\/webcache\.googleusercontent\.com/,/^http[s]?\:\/\/web\.archive\.org/,/^http[s]?\:\/\/tunnelproxy\.nu/],u=0,d=R.length;u<d;u++)if(k=R[u],k.test(null!=n&&null!=(_=n.data)&&null!=(h=_.request)?h.url:void 0))return!0;return!!/NPObject/.test(i.message)||n.data.client.runtime_ms>12e5}catch(a){return o=a,!1}}},n(346)}});
+//]]>
+</script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'jdy1kdx',
+      scriptTimeout: 3000
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+<script>
+//<![CDATA[
+window._mediaBreakpoints = [767,959];
+//]]>
+</script>
+<script src="//assets.angel.co/assets/bundles/head-7a544bb79c892b8597bde3cc17533bc60dbf0829d695c33a3725da4986dee5a2.js"></script>
+<script>
+  window._alConfig = {"lib/environment":{"controller":"captcha","action":"blocked","environment":"production","current_user":null},"initializer":{"root_class":"_a","template_name_data_key":"_tn","javascript_module_exists_class":"_jm"},"lib/partials":{"root_class":"_a"},"segment/analytics":{"logging_enabled":false},"application":{"js_templates":["layouts/nav_lite","layouts/header_lite","layouts/flashes","layouts/footer","layouts/footer_links"],"image_host":"//assets.angel.co/images"}};
+</script>
+<script src="//assets.angel.co/webpack/application-d25e1b0446969671d990.js" async="async"></script>
+
+
+<script>
+//<![CDATA[
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga("create","UA-17693728-1","auto");
+ga("set","contentGroup1","CAPTCHA");
+ga("send","pageview");
+
+//]]>
+</script><script async='async' src='https://www.google-analytics.com/analytics.js'></script>
+<meta content='132453076811032' property='fb:app_id'>
+<script>
+//<![CDATA[
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+analytics.load("poTMRBHig2tYBNBP5P6kGfkGBFq19jmB");
+analytics.page(null,null, {"anonymousId":"b27ccfc14ca689c11ff5a9d80f680ec5","controller":"captcha","action":"blocked","pageviewId":"b27ccfc14ca689c11ff5a9d80f680ec58f1f34e2e82f0ff8620fa73f853d5af2"}, {"anonymousId":"b27ccfc14ca689c11ff5a9d80f680ec5"})
+window._pageviewId = "b27ccfc14ca689c11ff5a9d80f680ec58f1f34e2e82f0ff8620fa73f853d5af2"
+}}();
+
+//]]>
+</script><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '654344241403981'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=654344241403981&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<script>
+//<![CDATA[
+window._stripeKey = 'pk_live_Sgsc9Y8xSonesJppEw1ee0dY'
+
+//]]>
+</script>
+</head>
+<body id='layouts-base-body'>
+<div id="root" class=" dl85 layouts ffr55 footer _a _jm" data-_tn="layouts/footer">
+<div class="u-fontSize16 normal dl85 layouts ffs42 flashes _a _jm" data-flash_class="flash u-textAlignCenter u-colorWhite s-vgPadTop1 s-vgPadBottom1" data-_tn="layouts/flashes"><div class='js-container s-grid0 s-grid0--outer u-hidden u-maxWidthLayout'>
+</div>
+</div>
+<div class="header_nav unmodified dl85 layouts fhe42 header_lite _a _jm" data-_tn="layouts/header_lite"><div class=" dl85 layouts fne50 nav_lite _a _jm" data-_tn="layouts/nav_lite"><div class='s-grid s-grid--outer u-maxWidthLayout primaryContainer'>
+<div class='s-grid-colSm24'>
+<div class='navAndPrefix respondToNavbarHeight u-borderBox s-vgPadRight0_5 u-vAlignTop'>
+<div class='mainNav respondToNavbarHeight u-inlineBlock u-nowrap'>
+<h1 class='logoWrapper u-inline u-vAlignTop'><a class="u-unstyledLink u-inlineBlock s-vgRight0_5 logo fontello-angellist" href="/?ref=nav">AngelList</a></h1>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div class="ghost unmodified dl85 layouts fhe42 header_lite _a _jm" data-_tn="layouts/header_lite">
+</div><div class="page unmodified dl85 layouts fhe42 header_lite _a _jm" data-_tn="layouts/header_lite"><div class="s-grid s-grid--outer s-gridMaxSm12 s-vgTop2 dc24 fbd24 _a" data-_tn="captcha/blocked"><div class='c-inset u-bgWhite'>
+<h3 class='s-h3'>Your IP address has been temporarily blocked for security reasons.</h3>
+<p>
+Sorry for the trouble.
+</p>
+<p>
+If you have an AngelList account, try <a href="/login">logging in</a>.
+If you're on a VPN or other proxy, try disconnecting.
+</p>
+<p>
+If you're having persistent issues connecting to AngelList, please
+email team@angel.co with your name, your AngelList profile URL, and (optionally) your company name and telephone number.
+</p>
+<p>
+Error code: TBLKIP
+</p>
+</div>
+</div>
+</div>
+<div id='root_footer'></div>
+</div><div id="footer" class=" dl85 layouts ffr55 footer _a _jm" data-_tn="layouts/footer"><div class="u-colorGray9 s-fontWeight300 u-fontSize12 u-textAlignCenter u-textShadowWhite s-grid0 s-grid0--outer u-maxWidthLayout dl85 layouts ffs95 footer_links _a _jm" data-_tn="layouts/footer_links"><div class='links'>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/help">Help</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/companies/a">Companies</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/jobs/locations">Jobs by Location</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/jobs/markets">Jobs by Market</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a rel="" class="s-vgRight0_5 u-uncoloredLink" href="https://blog.angel.co">Blog</a>
+<a class="s-vgRight0_5 u-uncoloredLink" rel="nofollow" href="http://twitter.com/angellist">Twitter</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/terms">Terms &amp; Risks</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/unsubscribe">Unsubscribe</a>
+</div>
+
+</div>
+</div>
+
+<div id='fb-root'></div>
+</body>
+</html>
+
+

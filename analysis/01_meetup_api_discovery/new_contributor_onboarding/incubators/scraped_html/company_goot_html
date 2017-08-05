@@ -1,0 +1,878 @@
+<!DOCTYPE html>
+<html class='notranslate no-js scheme-lighter_gray_backdrop ml no-ms no-mm size-large responsive' xmlns:fb='http://ogp.me/ns/fb#'>
+<head>
+<title>GOOT | AngelList</title>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="zVIZiIxBfXrz7224bRSrbaYAGeVuRRloYilwiom7sIpmVTiQMq8ZXe5Gj3cf06UjLBayNUgr6H/B3eX7TK1Rxg==" />
+<!--
+o2UUG8pWY/EDrlDau7s7Cv4KbSWkFZ0jXENoWKhLY0jcrXbxQTzZ3uRxTNHt74Gkspvc9YT7kilI/jZ7AbWjaajaml1AXRuyumyNYeyuxNZf5KEuoVFiWpDpH5jeKcvHbO+G1/3wkOqbpsiu1uWqw8T5OYjjWwrklqzRSHRo9uUMoL+W5LdEvZrd/LdxSs2Kj8zBzUcuWihFG8FX747HOnHZFuSshAeRJUCOxCn+oV3RntkIYWyZdbNyOudjOnD/LtGdZo9EPK9Q5K7A1XmsVognKaRA0msQ+5NnTG/PfPPwGwQ1x/tJo/iXb2sX0rDnj5WCDir4HB+CSPRbG44uLxHePfvP4oCTn7FjxD/lfTtYse8O9peV3cSBOhu6pCCx6z9dEbGIIW2tBjyJkrkXEq0Awm/DU7iEiBxg7k4clDQDBCFD59FJ5IGlodsQBeUkHUgNHJclgSCe3T2QaJVVhIuKtKmit5DMAlAdD2MnEmarQdOhhNemfoL2/6UMDZtw3cuqsPm2cvkfXG23dZts8DxuJ8qQxaz9WI5CC/bFVtHQVfRa5Nj8WEo8H6kJV2fbvmWLMa1iiRcrTR+jtwSbGeu5s/bHBYEwzrpkGVpLA/s+muAMBhmXwDkNFPn1CzbbmsDozCDRMC4HNFcxXDHfnW6Wy/XKm+5xrsHcooU0CvZ8J46PELEZ0Tjpqkmnn9JIv5hO/7nrB1lfe8BgtJf+Uyweh8Ab01/yCY1UnqJba5Hi7Iq+erefnDpzz7zIAS9PQnprpigK7d9+UGNZDSoiIMHcvHLqum6w3F4z2AadphPLeISiyFeZJIrfTlpjxBLBsLs/vOHW8jgEZJSYI4t6lKSWWIhPA9CF5TONqO/bWc3QuodbqJcNqXbFKSr8VECqsRjsIJ9a3M80iiX+EdghpOKiq2vHt6r4yJYn47li721S0FsetRHOGAkEWfO4yXjN6hGHKqRy/2O4pnlLfkK3xBMcCD/FOuvUL7c/DiULP0T85ChPD3SIx+GKVaZdFUTXVsOPubadJsjEu/7PioBCvp2c0LlJI+Wdpss=
+-->
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta content='en_US' http-equiv='Content-Language'>
+<meta content='c2y_K2CiLmGeet7GUQc9e3RVGp_gCOxUC4IdJg_RBVo' name='google-site-verification'>
+<meta content='00bd751d25bdb494779b40bedece7089' name='detectify-verification'>
+<meta content='initial-scale=1.0,maximum-scale=2.0,width=device-width' name='viewport'>
+<meta content='notranslate' name='google'>
+<meta content='GOOT - Foursquare for wine - View company info, team members, fundraising and more' name='description'>
+<meta content='noarchive' name='robots'>
+<link href='https://angel.co/goot-2' rel='canonical'>
+<meta content='https://d1qb2nb5cznatu.cloudfront.net/startups/i/306993-d33c9d019d46831ec62ea901b7049478-thumb_jpg.jpg?buster=1386627087' property='og:image'>
+<meta content='GOOT' property='og:title'>
+<meta content='GOOT - Foursquare for wine - View company info, team members, fundraising and more' property='og:description'>
+<meta content='https://angel.co/goot-2' property='og:url'>
+<meta content='angellist' name='twitter:site'>
+<meta content='GOOT - Foursquare for wine' name='twitter:title'>
+<meta content='angel.co' name='twitter:domain'>
+<meta content='GOOT - Foursquare for wine - View company info, team members, fundraising and more' name='twitter:description'>
+<meta content='https://d1qb2nb5cznatu.cloudfront.net/startups/i/306993-d33c9d019d46831ec62ea901b7049478-medium_jpg.jpg?buster=1386627087' name='twitter:image:src'>
+<meta content='summary' name='twitter:card'>
+
+<link href='//assets.angel.co/assets/icons/angellist-e1decb2fb69dc221e2dd4ad5f749797e28b3e9e92957e0f161b8e64d5a8a74c8.ico' rel='shortcut icon'>
+<link href='/images/icons/iOS/Icon.png' rel='apple-touch-icon-precomposed' sizes='57x57'>
+<link href='/images/icons/iOS/Icon-72.png' rel='apple-touch-icon-precomposed' sizes='72x72'>
+<link href='/images/icons/iOS/Icon@2x.png' rel='apple-touch-icon-precomposed' sizes='114x114'>
+<link href='/images/icons/iOS/Icon-72@2x.png' rel='apple-touch-icon-precomposed' sizes='144x144'>
+
+<link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.g.application0-22ed6f69f455e9894027aeb071e5f678.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.g.application1-6234e3ddb9b06c341d820c9fecb426d4.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.admin-216b428508a3b1815691d6d41ec2927c.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.angel_profiles-7d9af9b27287899d820727983d30049a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.closings-439798ac5469bfbfe748e3dae8fd4492.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.companies-f88176545f07def6cd7527db86e16483.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.follows-ea0cd8fa110929cf29575e967272dfed.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fund_campaigns-66d198d400ee816d04418d0999c86af7.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.funding_rounds-75894cbd96b33dd8ebc38a46381bcb4d.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fundraising-38c4ab481b2bc7b8cc422236888bfa51.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fundraising_campaigns-59521b4fdf1787344530788431f2da16.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.home-8a662f0685b39d18f5fd4ff4b7a7f677.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.incubator_administrators-df26943c9d6e72640c7afe5c840cae35.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_listing_showcase-ee242ec721d85dbfdcf39d58fd7e18b1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_listings-34788d616970942fbe122f9ebef36996.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_pairings-1a0e77ccf3378e20fc17b4c807832036.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_profile_signup-cd35c129f5fca74c4d0b79e669a0080a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.layouts-935af14c17de1324fd124322eaacae14.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.messages-b31a83501f010acf74cadce64cbf20a3.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_posts-f3fd4a6d1c8db28df4c13cc928f45fef.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_taggings-329d0d35099da8a5922d5e4eef40f02a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_tags-509f6e8a41b23b6cd37a1174dca6f4d5.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.onboarding-d98f82475ce9b5a651d6a24d91018a78.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.paths-9520b1cda7b731be6d0923b9c57e7c55.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.people-e2632e256c33c05b3cd313f8cfc625fc.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profile_flaggings-ddd19e885192e4560f6f7f35dcbd4b69.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profile_transaction_listings-d7b86ffd3c0c278550868c68ee83be79.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profiles-5fba6d565832e28be5419b6412073ab1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.program_applications-96262d89c322e1b7fe54401f4843e56e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.programs-7458ffa6bad61b3d8ae55d74da52f3d2.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.projects-1d49de599cee97c030d30d210a5eb3e1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.qa-25edb3ccd35cfc2d12b5476e4a3a01e1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.reviews-2da4057e5e52f66eab9f2e6ce2b70bba.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.screenshots-d7349598409c1f85776bdcfaedb8d3ab.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.sessions-5da1bdc7d6768cf45099bb920e066681.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.settings-52b9c88fe27eb65e32005624842c707e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.shared-e411a216cda70bdb8820d096c1dba2a1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.social-5da48eb7577c4628095d5d9c9d2cbd32.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_intros-e1eb2c0feb137b283c6270973e22ba4e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_roles-8fdf53d155560dc58e65d75a2b8d21d0.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_rounds-fe188c9d18bf5ab371d8c67709785a5a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startups-fbb0ab18bcae14012b079baf4cc5cc74.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.syndicates-9c2246b04f09a862c6ac6cbdb7377a40.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.tags-207bbefa797190c0a7d577055225f847.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.transaction_feed-e165d0e88d499b872d6765a7f6901ecd.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.user_graph_edges-3ad2bb21af9bffb99b6d5b10986bed6f.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.user_one_signal_preferences-35553bd46064906bc0e94360e218a2cd.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.valuations-5c78c00ec3ca16792b48e1559ec1dc1c.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.views-11c1d8186d5a791f7ca981b3c4b4c90d.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/application-e196d4ad5152313f4baba3d0932b7052.css" />
+
+<script>
+//<![CDATA[
+window['fs_disable']=true;
+//]]>
+</script><script>
+//<![CDATA[
+window._rollbarPerson={"id":null,"username":null};
+//]]>
+</script><script>
+//<![CDATA[
+!function(r){function e(t){if(n[t])return n[t].exports;var o=n[t]={i:t,l:!1,exports:{}};return r[t].call(o.exports,o,o.exports,e),o.l=!0,o.exports}var n={};return e.m=r,e.c=n,e.i=function(r){return r},e.d=function(r,n,t){e.o(r,n)||Object.defineProperty(r,n,{configurable:!1,enumerable:!0,get:t})},e.n=function(r){var n=r&&r.__esModule?function(){return r["default"]}:function(){return r};return e.d(n,"a",n),n},e.o=function(r,e){return Object.prototype.hasOwnProperty.call(r,e)},e.p="//assets.angel.co/webpack/",e(e.s=314)}({314:function(r,e,n){n(50),n(42),n(49)},324:function(r,e,n){r.exports=n.p+"3fd28f327bccd084051e98a9c3d97fa2.js"},346:function(r,e){!function(r){function e(t){if(n[t])return n[t].exports;var o=n[t]={exports:{},id:t,loaded:!1};return r[t].call(o.exports,o,o.exports,e),o.loaded=!0,o.exports}var n={};return e.m=r,e.c=n,e.p="",e(0)}([function(r,e,n){"use strict";var t=n(1).Rollbar,o=n(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js";var a=t.init(window,_rollbarConfig),i=o(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,e){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(e){try{console.error("[Rollbar]: Internal error",e)}catch(n){}}}}function t(r,e,n){window._rollbarWrappedError&&(n[4]||(n[4]=window._rollbarWrappedError),n[5]||(n[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,n),e&&e.apply(window,n)}function o(r){var e=function(){var e=Array.prototype.slice.call(arguments,0);t(r,r._rollbarOldOnError,e)};return e.belongsToShim=!0,e}function a(r){this.shimId=++c,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var e=a;return n(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var n=this,t="scope"===r;t&&(n=new e(this));var o=Array.prototype.slice.call(arguments,0),a={shim:n,method:r,args:o,ts:new Date};return window._rollbarShimQueue.push(a),t?n:void 0})}function l(r,e){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){var n=e.addEventListener;e.addEventListener=function(e,t,o){n.call(this,e,r.wrap(t),o)};var t=e.removeEventListener;e.removeEventListener=function(r,e,n){t.call(this,r,e&&e._wrapped?e._wrapped:e,n)}}}var c=0;a.init=function(r,e){var t=e.globalAlias||"Rollbar";if("object"==typeof r[t])return r[t];r._rollbarShimQueue=[],r._rollbarWrappedError=null,e=e||{};var i=new a;return n(function(){if(i.configure(e),e.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=o(i);var n,a,c="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<c.length;++n)a=c[n],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return e.captureUnhandledRejections&&(i._unhandledRejectionHandler=function(r){var e=r.reason,n=r.promise,t=r.detail;!e&&t&&(e=t.reason,n=t.promise),i.unhandledRejection(e,n)},r.addEventListener("unhandledrejection",i._unhandledRejectionHandler)),r[t]=i,i})()},a.prototype.loadFull=function(r,e,t,o,a){var i=function(){var e;if(void 0===r._rollbarPayloadQueue){var n,t,o,i;for(e=new Error("rollbar.js did not load");n=r._rollbarShimQueue.shift();)for(o=n.args,i=0;i<o.length;++i)if(t=o[i],"function"==typeof t){t(e);break}}"function"==typeof a&&a(e)},l=!1,c=e.createElement("script"),u=e.getElementsByTagName("script")[0],s=u.parentNode;c.crossOrigin="",c.src=o.rollbarJsUrl,c.async=!t,c.onload=c.onreadystatechange=n(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){c.onload=c.onreadystatechange=null;try{s.removeChild(c)}catch(r){}l=!0,i()}}),s.insertBefore(c,u)},a.prototype.wrap=function(r,e){try{var n;if(n="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(e){throw"string"==typeof e&&(e=new String(e)),e._rollbarContext=n()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e,e}},r._wrapped._isWrap=!0;for(var t in r)r.hasOwnProperty(t)&&(r._wrapped[t]=r[t])}return r._wrapped}catch(o){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError,unhandledRejection".split(","),s=0;s<u.length;++s)a.prototype[u[s]]=i(u[s]);r.exports={Rollbar:a,_rollbarWindowOnError:t}},function(r,e){"use strict";r.exports=function(r,e){return function(n){if(!n&&!window._rollbarInitialized){var t=window.RollbarNotifier,o=e||{},a=o.globalAlias||"Rollbar",i=window.Rollbar.init(o,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,t.processPayloads()}}}}])},42:function(r,e){window.fs_disable||(window._fs_debug=!1,window._fs_host="www.fullstory.com",window._fs_org="1JRNY",window._fs_namespace="FS_al_noconflict",function(r,e,n,t,o,a,i,l){n in r&&r.console&&r.console.log||(i=r[n]=function(r,e){i.q?i.q.push([r,e]):i._api(r,e)},i.q=[],a=e.createElement(t),a.async=1,a.src="https://"+_fs_host+"/s/fs.js",l=e.getElementsByTagName(t)[0],l.parentNode.insertBefore(a,l),i.identify=function(r,e){i(o,{uid:r}),e&&i(o,e)},i.setUserVars=function(r){i(o,r)},i.identifyAccount=function(r,e){a="account",e=e||{},e.acctId=r,i(a,e)},i.clearUserCookie=function(r,n){for(r=e.domain;;){if(e.cookie="fs_uid=;domain="+r+";path=/;expires="+new Date(0),n=r.indexOf("."),n<0)break;r=r.slice(n+1)}})}(window,document,window._fs_namespace,"script","user"),window._fs_callbacks=[],window._fs_ready=function(){setTimeout(function(){for(var r in window._fs_callbacks)window._fs_callbacks[r]();window._fs_callbacks=!1},100)})},49:function(r,e){var n,t;t=[],n=!1,window._eventQueueClear=function(r,e){var o,a,i,l;if(n)throw new Error("_eventQueueClear only be invoked once");for(n=!0,l=[],a=0,i=t.length;a<i;a++)o=t[a],l.push(o(r,e));return l},window._q=function(r){return!!n||(!!this._eventQueueTriggered||(this._eventQueueTriggered=!0,r.preventDefault(),this.className+=" loading",t.push(function(e){return function(n,t){return t["with"](n(e).closest(t.rootSelector()),function(){return n(e).removeClass("loading"),n(e).trigger(n.event.fix(r))})}}(this)),!0))}},50:function(r,e,n){window._rollbarConfig={accessToken:"e36e9edcd88b416780f0ebe64497cb59",captureUncaught:!0,captureUnhandledRejections:!1,globalAlias:"_alRollbar",rollbarJsUrl:n(324),payload:{environment:"production_js",client:{javascript:{code_version:"a3c200bd8365c017e8c030098218df84122614cd",source_map_enabled:!0,guess_uncaught_frames:!0}},person:window._rollbarPerson},checkIgnore:function(r,e,n){var t,o,a,i,l,c,u,s,d,f,p,w,_,h,b,g,v,y,m,E,x,C,k,R,j;try{if("development_js"===n.data.environment)return!0;if(j=null!=n&&null!=(f=n.data)&&null!=(p=f.client)&&null!=(b=p.javascript)?b.browser:void 0,i=null!=n&&null!=(g=n.data)&&null!=(v=g.body)&&null!=(y=v.trace)?y.exception:void 0,c=null!=n&&null!=(m=n.data)&&null!=(E=m.body)&&null!=(x=E.trace)&&null!=(C=x.frames)&&null!=(w=C[0])?w.filename:void 0,r&&i.rollbarIgnore)return!0;if(r&&null!=c&&null!=j&&/Firefox/.test(j)&&/^resource:\/\//.test(c))return!0;for(t=[/Loading chunk [0-9]+ failed/,/atomicFindClose/,/Baiduspider/,/dataKeys/,/gcdemodata/,/bCapGloRef/,/sCapGloRef/],l=0,s=t.length;l<s;l++)if(k=t[l],k.test(null!=i?i.message:void 0))return!0;for(R=[/^http[s]?\:\/\/webcache\.googleusercontent\.com/,/^http[s]?\:\/\/web\.archive\.org/,/^http[s]?\:\/\/tunnelproxy\.nu/],u=0,d=R.length;u<d;u++)if(k=R[u],k.test(null!=n&&null!=(_=n.data)&&null!=(h=_.request)?h.url:void 0))return!0;return!!/NPObject/.test(i.message)||n.data.client.runtime_ms>12e5}catch(a){return o=a,!1}}},n(346)}});
+//]]>
+</script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'jdy1kdx',
+      scriptTimeout: 3000
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+<script>
+//<![CDATA[
+window._mediaBreakpoints = [767,959];
+//]]>
+</script>
+<script src="//assets.angel.co/assets/bundles/head-7a544bb79c892b8597bde3cc17533bc60dbf0829d695c33a3725da4986dee5a2.js"></script>
+<script>
+  window._alConfig = {"lib/environment":{"controller":"startups","action":"show","environment":"production","current_user":null},"initializer":{"root_class":"_a","template_name_data_key":"_tn","javascript_module_exists_class":"_jm"},"lib/partials":{"root_class":"_a"},"segment/analytics":{"logging_enabled":false},"application":{"js_templates":["startups/show/sections/screenshots_and_video","projects/launch_row","projects/launches","startups/show/sections/new_product","startup_roles/startup_profile_group","startups/show/sections/founders","startup_rounds/profile","startups/show/sections/startup_rounds","startups/show/sections/past_financing","startups/show/sections/team","startups/show","startups/show/structure","startups/show/helpers/share_button","startups/show/sections/connections_v2","startups/show/header","startups/show/header_fixed","startups/show/header_navigation_tabs","job_listings/apply_button","startups/show/sections/jobs","startups/show/sections/similar_profiles","startups/show/sidebar","layouts/profile","layouts/nav","layouts/header","layouts/flashes","layouts/footer","layouts/footer_links"],"image_host":"//assets.angel.co/images"}};
+</script>
+<script src="//assets.angel.co/webpack/application-d25e1b0446969671d990.js" async="async"></script>
+
+
+<script>
+//<![CDATA[
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga("create","UA-17693728-1","auto");
+ga("set","contentGroup1","Startup profile");
+ga("send","pageview");
+
+//]]>
+</script><script async='async' src='https://www.google-analytics.com/analytics.js'></script>
+<meta content='132453076811032' property='fb:app_id'>
+<script>
+//<![CDATA[
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+analytics.load("poTMRBHig2tYBNBP5P6kGfkGBFq19jmB");
+analytics.page(null,null, {"anonymousId":"3ec059aa05d964ccbfdd56a2cd6b5b85","controller":"startups","action":"show","pageviewId":"3ec059aa05d964ccbfdd56a2cd6b5b85fe362821e7469cda7f7e18c18acf1f1f"}, {"anonymousId":"3ec059aa05d964ccbfdd56a2cd6b5b85"})
+window._pageviewId = "3ec059aa05d964ccbfdd56a2cd6b5b85fe362821e7469cda7f7e18c18acf1f1f"
+}}();
+
+//]]>
+</script><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '654344241403981'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=654344241403981&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<script>
+//<![CDATA[
+window._stripeKey = 'pk_live_Sgsc9Y8xSonesJppEw1ee0dY'
+
+//]]>
+</script>
+</head>
+<body id='layouts-base-body'>
+<div data-routes="{&quot;show&quot;:&quot;/goot-2&quot;}" data-page_titles="{&quot;show&quot;:&quot;GOOT | AngelList&quot;}" class=" dss98 startups-show fse9 structure _a _jm" data-_tn="startups/show/structure"></div><div id="root" class=" centered dark  dl85 layouts ffr55 footer _a _jm" data-_tn="layouts/footer">
+<div class="u-fontSize16 normal dl85 layouts ffs42 flashes _a _jm" data-flash_class="flash u-textAlignCenter u-colorWhite s-vgPadTop1 s-vgPadBottom1" data-_tn="layouts/flashes"><div class='js-container s-grid0 s-grid0--outer u-hidden u-maxWidthLayout'>
+</div>
+</div>
+<div class="header_nav  flush_bottom  dl85 layouts fhr17 header _a _jm" data-_tn="layouts/header">
+<div class=" dl85 layouts fnv25 nav _a _jm" data-_tn="layouts/nav"><div class='s-grid s-grid--outer u-maxWidthLayout primaryContainer'>
+<div class='s-grid-colSm24'>
+<div class='searchAndLinks u-floatRight u-borderBox'>
+<div class='s-flexgrid0 s-flexgrid0--inline'>
+<div class='s-flexgrid0-colSm'>
+<form class="s-form u-inlineBlock searchForm u-hiddenMdDown" action="/search" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="RHo80fHSx5nbUbYjysjUISOrS7SnRr7oNw3/QN0SyZLvfR3JTzyjvsb4VOy4D9pvqb3gZIEoT/+U+WoxGAQo3g==" />
+<div class='s-flexgrid0 s-flexgrid0--inline'>
+<div class='s-flexgrid0-colSm'>
+<label class="fontello-search-1 s-vgPadRight1 s-vgPadLeft1 searchLabel u-inlineBlock u-vAlignTop" for="q"></label>
+</div>
+<div class='s-flexgrid0-colSmW'>
+<div class='s-vgPadRight0_5'><input type="text" name="q" id="q" value="" placeholder="SEARCH" class="searchInput s-form--blended" /></div>
+</div>
+</div>
+</form>
+
+</div><div class='s-flexgrid0-colSm linksContainer respondToNavbarHeight u-floatRight'><div class='u-inlineBlock'>
+<a class="auth u-fontWeight300" href="/join">Join</a>
+&nbsp;
+<a class="auth login u-fontWeight300" href="/login">Log In</a>
+</div><div class='u-inlineBlock u-hiddenLgOnly'>
+<div class='fontello-search-1 icon mobileSearchLink s-vgLeft0_5 u-inlineBlock u-unstyledLink'></div>
+</div></div></div>
+</div>
+<div class='navAndPrefix respondToNavbarHeight u-borderBox s-vgPadRight1 u-vAlignTop u-nowrap'>
+<div class='mainNav respondToNavbarHeight u-inlineBlock u-nowrap'>
+<div class='logoWrapper u-inline u-vAlignTop'>
+<a class="u-unstyledLink u-inlineBlock s-vgRight0_5 logo fontello-angellist" href="/?ref=nav">AngelList</a>
+</div>
+<ul class='c-navbar navigationLinks u-inline u-uppercase u-vAlignTop'><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item  " href="/jobs">Startup Jobs</a>
+</li><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item  " href="/recruiting">Recruit</a>
+</li><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item  " href="/invest/start">Invest</a>
+</li><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item more-dropdown-button" href="javascript:void(0);">More</a>
+<div class='more-dropdown dropdown hide_when_handheld'>
+<div class='more-dropdown-desktop-menu dropdown-menu js-dropdown-menu u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-align--center'>
+<a class="u-fontSize14 dropdown-item" href="/companies">Companies</a>
+<span>
+<a class="u-fontSize14 dropdown-item" href="/freelancers">Freelancers</a>
+</span>
+<a class="u-fontSize14 dropdown-item" href="/accelerators/apply">Incubators</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/track">Track</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/salaries">Salaries</a>
+<a class="u-fontSize14 dropdown-item" href="/valuations">Valuations</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/help">Help</a>
+</div>
+
+</div>
+</div>
+</li></ul>
+</div>
+</div>
+<div class='network-dropdown dropdown'>
+<div class='network-dropdown-handheld-menu dropdown-menu js-dropdown-menu u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-align--center'>
+<a class="u-fontSize14 dropdown-item" href="/alumni-networks/me">Your Alumni Network</a>
+</div>
+
+</div>
+</div>
+<div class='more-dropdown dropdown hide_when_desktop hide_when_tablet'>
+<div class='dropdown-menu js-dropdown-menu logged-out more-dropdown-handheld-menu u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-align--center'>
+<a class="u-fontSize14 dropdown-item" href="/companies">Companies</a>
+<span>
+<a class="u-fontSize14 dropdown-item" href="/freelancers">Freelancers</a>
+</span>
+<a class="u-fontSize14 dropdown-item" href="/accelerators/apply">Incubators</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/track">Track</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/salaries">Salaries</a>
+<a class="u-fontSize14 dropdown-item" href="/valuations">Valuations</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/help">Help</a>
+</div>
+
+</div>
+</div>
+</div>
+<div class='mobileSearchOuterContainer'>
+<div class='u-hidden mobileSearchContainer'>
+<form class="s-form mobileSearchForm" action="/search" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="HesW1NKExNWEVTTdR1XRUUxbYA0Aj5Bjc/QiU0I6uPa27DfMbGqg8pn81hI1kt8fxk3L3SbhYXTQALcihyxZug==" />
+<input type="text" name="q" id="q" value="" placeholder="Search" class="mobileSearchInput" />
+</form>
+
+</div>
+</div>
+</div>
+</div>
+</div><div class="ghost  flush_bottom  dl85 layouts fhr17 header _a _jm" data-_tn="layouts/header">
+</div><div class="page   flush_bottom  dl85 layouts fhr17 header _a _jm" data-_tn="layouts/header">
+<div itemscope itemtype='http://data-vocabulary.org/Person'>
+<div class="show_sidebar dl85 layouts fpe53 profile _a _jm" data-_tn="layouts/profile"><div class='prefix u-bgWhite'><div class='u-bgGray u-hiddenSmOnly'>
+<div class='s-grid s-grid--outer u-maxWidthLayout'>
+<div class='s-grid-colLg4 s-grid-colMd1'>
+&nbsp;
+</div>
+<div class='s-grid-colLg12 s-grid-colMd12 u-fontSize14 s-vgPadTop1 s-vgPadBottom1 u-textAlignLeft'>
+<div class='u-fontWeight500'>GOOT is on AngelList, where the world meets startups.</div>
+<div class='subhead'>
+To connect with GOOT,
+<a href="/join?src=user_profile">sign up</a>
+for AngelList today.
+</div>
+</div>
+<div class='s-grid-colLg8 s-grid-colMd7 u-textAlignLeft u-textAlignCenterSmOnly u-fontSize16'>
+<div class='buttons'>
+<div class='s-vgTop1 u-hiddenSmOnly'></div>
+<a class="c-button c-button--blue" href="/join?src=user_profile">Sign up</a>
+<a class="c-button c-button--gray" href="/login?src=user_profile">Log in</a>
+</div>
+<div class='s-vgBottom2 u-hiddenMdUp'></div>
+</div>
+</div>
+</div>
+<div data-id="306993" data-firm="false" data-taggings="[{&quot;id&quot;:20295362,&quot;new_taggable_id&quot;:306993,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_company_type&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Startup&quot;,&quot;slug_url&quot;:&quot;https://angel.co/startup&quot;}},{&quot;id&quot;:3429765,&quot;new_taggable_id&quot;:306993,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_locations&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Paris&quot;,&quot;slug_url&quot;:&quot;https://angel.co/paris&quot;}},{&quot;id&quot;:3429772,&quot;new_taggable_id&quot;:306993,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Social Media&quot;,&quot;slug_url&quot;:&quot;https://angel.co/social-media&quot;}},{&quot;id&quot;:3429769,&quot;new_taggable_id&quot;:306993,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Wine And Spirits&quot;,&quot;slug_url&quot;:&quot;https://angel.co/wine-and-spirits&quot;}},{&quot;id&quot;:3429774,&quot;new_taggable_id&quot;:306993,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Local Businesses&quot;,&quot;slug_url&quot;:&quot;https://angel.co/local-businesses&quot;}},{&quot;id&quot;:20295364,&quot;new_taggable_id&quot;:306993,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Content Delivery&quot;,&quot;slug_url&quot;:&quot;https://angel.co/content-delivery&quot;}}]" data-invisible_taggings="[]" class="u-bgWhite dss98 startups-show fhr17 header _a _jm" data-_tn="startups/show/header"><div class='summary'>
+<div class='editable_region'>
+<div class='show'>
+<div class='s-grid s-grid--outer u-maxWidthLayout subheader-container'>
+<div class='s-grid-colMd24 subheader-inner-container'>
+<div class='g-lockup-subheader'>
+<div class='photo subheader-avatar'>
+<img alt="GOOT logo" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/306993-d33c9d019d46831ec62ea901b7049478-medium_jpg.jpg?buster=1386627087" />
+</div>
+<div class='text profile-text u-textAlignCenterSmOnly'>
+<div class='s-grid0'>
+<div class='s-grid0-colMd14'>
+<h1 class='u-fontWeight500 s-vgBottom0_5'>
+GOOT
+</h1>
+<h2 class='js-startup_high_concept u-fontSize15 u-fontWeight400 u-colorGray3'>
+Foursquare for wine
+</h2>
+</div>
+<div class='s-grid0-colMd10 action-col'>
+<div class='action-links u-textAlignRightMdUp u-textAlignCenterSmOnly'>
+<div class="c-button c-button--blue c-button--md action-button s-vgRight0_5 dssh0 startups-show-helpers fsn94 share_button _a _jm" href="/startups/306993/share_module" style="" tag_name="a" data-_tn="startups/show/helpers/share_button">Share
+</div>
+<div class='dropdown u-hiddenLgOnly u-inlineBlock'>
+<div class='dropdown-button js-dropdown-button'>
+<div class='c-button c-button--transparent-blue fontello-angle-down u-fontSize16 u-inlineBlock s-vgPullTop0_5 action-button'></div>
+</div>
+<div class='js-dropdown-menu dropdown-menu dropdown-align--right u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu'>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='s-grid0-colMd24'>
+<div class='tags-container'>
+<div class=" dssh27 startups-show-header_2 fts73 tags_and_links _a" data-_tn="startups/show/header_2/tags_and_links"><div class='u-colorGray8 u-fontSize12'>
+<span class='js-location_tag_holder'>
+<span class='s-vgRight1'>
+<i class='fontello-location' style='margin-right: 3px;'></i>
+<span class='js-location_tags'>
+<a class="tag" href="https://angel.co/paris">Paris</a>
+</span>
+</span>
+</span>
+<span class='js-market_tag_holder'>
+<span class='s-vgRight1'>
+<i class='fontello-tag-1' style='margin-right: 3px;'></i>
+<span class='js-market_tags'>
+<a class="tag" href="https://angel.co/social-media">Social Media</a> &middot; <a class="tag" href="https://angel.co/wine-and-spirits">Wine And Spirits</a> &middot; <a class="tag" href="https://angel.co/local-businesses">Local Businesses</a> &middot; <a class="tag" href="https://angel.co/content-delivery">Content Delivery</a>
+</span>
+</span>
+</span>
+<span class='s-vgRight1'>
+<i class='fontello-group' style='margin-right: 3px;'></i>
+<span class='js-company_size'>
+1-10
+</span>
+employees
+</span>
+<span class='s-vgRight1 links u-hiddenSmOnly'>
+<span class='link'>
+<a class="fontello-twitter u-uncoloredLink twitter_url" rel="nofollow" target="_blank" href="https://twitter.com/@gootfr"></a>
+</span>
+<span class='link'>
+<a class="fontello-facebook u-uncoloredLink facebook_url" rel="nofollow" target="_blank" href="https://www.facebook.com/gootfr"></a>
+</span>
+<span class='link'>
+<a class="fontello-linkedin u-uncoloredLink linkedin_url" rel="nofollow" target="_blank" href="https://www.linkedin.com/company/goot"></a>
+</span>
+<span class='blank link'>
+<a class="fontello-product-hunt u-uncoloredLink producthunt_url" rel="external" target="_blank" href="/goot-2"></a>
+</span>
+<span class='link'>
+<a class="fontello-rss u-uncoloredLink blog_url" rel="nofollow" target="_blank" href="https://www.blog.goot.fr"></a>
+</span>
+<span class='link'>
+<a target="_blank" class="u-uncoloredLink company_url" rel=" nofollow noopener noreferrer" href="https://www.goot.fr">goot.fr</a>
+</span>
+</span>
+</div>
+</div>
+<div data-load="false" data-id="306993" class=" dsss17 startups-show-sections fc250 connections_v2 _a _jm" data-_tn="startups/show/sections/connections_v2"><div class='u-textAlignCenterSmOnly u-colorGray8'>
+<div class='text'>
+<i class='fontello-plus' style='margin-right: 3px;'></i>
+<a href="/join?utm_source=profile-connections">Sign up</a> to see how you are connected to GOOT
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=" dss98 startups-show fhd40 header_fixed _a _jm" data-_tn="startups/show/header_fixed"><div class='container fixed-top'>
+<div class='s-grid u-maxWidthLayout s-grid--outer'>
+<div class='s-grid-colMd12 u-textAlignCenterSmOnly'>
+<div class='avatar-container s-vgTop1 s-vgBottom1'>
+<div class='avatar u-floatLeft u-inlineBlock'>
+<div class='g-photo_container'><img alt="GOOT logo" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/306993-d33c9d019d46831ec62ea901b7049478-medium_jpg.jpg?buster=1386627087" /></div>
+</div>
+<div class='name u-fontSize16 u-colorGray3 u-floatLeft u-inlineBlock s-vgLeft1'>
+GOOT
+</div>
+<div class='cb'></div>
+</div>
+</div>
+<div class='s-grid-colMd12 s-grid-colSm24 s-vgPadRight1 s-vgTop1 s-vgBottom1'>
+<div class='u-floatRight'>
+<div class='share fixed_header_button u-inlineBlock'>
+<div class="u-vAlignMiddle c-button c-button--gray dssh0 startups-show-helpers fsn94 share_button _a _jm" href="/startups/306993/share_module" style="" tag_name="a" data-_tn="startups/show/helpers/share_button">Share
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="u-bgGray s-vgPadTop1  dss98 startups-show fhs5 header_navigation_tabs _a _jm" data-_tn="startups/show/header_navigation_tabs"><div class='s-grid s-grid--outer u-maxWidthLayout'>
+<div class='actions u-uppercase s-vgPullTop1'>
+<div class='tabs'><span><a class="tab show selected" data-name="show" href="/goot-2">Company</a></span></div>
+</div>
+<div class='mobile_nav s-vgLeft1 s-vgRight1'>
+<div class='tabs g-form'>
+<div class='icon_container'>
+<div class='icon'><img class="icon_image" alt="" src="//assets.angel.co/assets/icons/arrow_list_down-6474e12ee7bee2c57dd106d18751b916bfd44aaa4b4c3fe4f9ac0ad46ce7a291.png" /></div>
+</div>
+<div class='value' data-names='{"show":"Overview"}'>
+Overview
+</div>
+</div>
+<select name="tab_select" id="" class="tab_select"><option data-name='show' selected='selected' value='/goot-2'>
+Overview
+</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+<div class='content s-grid s-grid--outer u-maxWidthLayout s-vgBottom2'>
+<div class='panes_container no_error s-grid-colSm24'>
+<div class='error u-textAlignCenter u-colorGray6 s-vgTop2'>There was a problem loading your content.</div>
+<div class='s-flexgrid0 s-flexgrid0--fixed panes_grid'>
+<div class='main pane s-flexgrid0--footer s-flexgrid0-colMdW s-vgPadRight1'><div data-show-wvyp-modal="null" class=" ds2 startups fsw49 show _a _jm" data-_tn="startups/show"><a name='new_product'></a>
+<h3 class='header new_product'>
+Product
+</h3>
+<div class='new_product section'><div class="section with_filler with_editable_regions itemized dsss17 startups-show-sections fnt94 new_product _a _jm" data-startup="{&quot;id&quot;:306993,&quot;product_desc&quot;:&quot;GOOT is a B2B App for brick and mortars alcohol merchants. The App offers a one-stop-shop solution to the local store, embracing the whole value chain from managing the inventory to the delivery to the end user. It makes it easy to digitalize the references by taking pictures of bottles and generates an online visibility through it&#39;s excellent App and API. The end customer can either choose to be delivered within 1 hour or collect it&#39;s order at the nearby shop. While the App and API are available for free, the wine merchants pay a fix fee only when a bottle is sold or a monthly subscription to get access to the CRM and POS solutions. The startup has pivoted during the program to focus on its B2B offer.&quot;}" data-_tn="startups/show/sections/new_product"><div class='screenshots_and_video editable_region'>
+<div class='show'><div id="media" class="g-module no_shadow itemized dsss17 startups-show-sections fso33 screenshots_and_video _a _jm" data-id="306993" data-_tn="startups/show/sections/screenshots_and_video"><div class='content'>
+<div class='big-mobile'>
+<div class='big-mobile-container'>
+<a target="_blank" rel="nofollow noopener noreferrer" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/684/537/684537-0a520c3edf579e89f0bedf44d4ff88b982482a39.jpg?1460710636"><img class="mobile_ss" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/684/537/684537-c99af48eb3b7f3a39facf3bc171850c00a7ccaea.jpg?1460710636" /></a>
+<a target="_blank" rel="nofollow noopener noreferrer" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/684/538/684538-b6d410eb6ecbdc217f7ca70a90126925e1413924.jpg?1460710666"><img class="mobile_ss" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/684/538/684538-e79f4c21a81b47ae1e07f61271444c15b42fdca4.jpg?1460710666" /></a>
+</div>
+</div>
+<div class='big'>
+<div class='popup'>
+<a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/684/537/684537-0a520c3edf579e89f0bedf44d4ff88b982482a39.jpg?1460710636'><img alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/684/537/684537-c99af48eb3b7f3a39facf3bc171850c00a7ccaea.jpg?1460710636" /></a>
+</div>
+</div>
+<div class='thumbs'>
+<div class='video_thumbnail'>
+</div>
+<ul class='screenshots'>
+<li class='screenshot popup' data-preview505='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/684/537/684537-c99af48eb3b7f3a39facf3bc171850c00a7ccaea.jpg?1460710636' data-src='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/684/537/684537-0a520c3edf579e89f0bedf44d4ff88b982482a39.jpg?1460710636'>
+<a rel="nofollow" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/684/537/684537-0a520c3edf579e89f0bedf44d4ff88b982482a39.jpg?1460710636"><img class="small" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/tiny/000/684/537/684537-775c711f130e7bc4a9835455ec6255f869f2fd3c.jpg?1460710636" /></a>
+</li>
+<li class='screenshot popup' data-preview505='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/684/538/684538-e79f4c21a81b47ae1e07f61271444c15b42fdca4.jpg?1460710666' data-src='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/684/538/684538-b6d410eb6ecbdc217f7ca70a90126925e1413924.jpg?1460710666'>
+<a rel="nofollow" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/684/538/684538-b6d410eb6ecbdc217f7ca70a90126925e1413924.jpg?1460710666"><img class="small" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/tiny/000/684/538/684538-c02d5192599b47b3cf76a788396513f4156998a9.jpg?1460710666" /></a>
+</li>
+</ul>
+</div>
+<div class='mobile-video'>
+</div>
+<div class='video_no_embed'>
+</div>
+</div>
+</div></div>
+</div>
+<div class='s-vgTop2'></div>
+<div class='product_desc editable_region'>
+<div class='show'>
+<div class='content'>
+GOOT is a B2B App for brick and mortars alcohol merchants. The App offers a one-stop-shop solution to the local store, embracing the whole value chain from managing the inventory to the delivery to the end user. It makes it easy to digitalize the references by taking pictures of bottles and generates an online visibility through it&#39;s excellent App and API. The end customer can either choose to<span class="elipses">&hellip; &middot; </span><a class="hidden_more" href="javascript:void(0);">More</a><span class="hidden"> be delivered within 1 hour or collect it&#39;s order at the nearby shop. While the App and API are available for free, the wine merchants pay a fix fee only when a bottle is sold or a monthly subscription to get access to the CRM and POS solutions. The startup has pivoted during the program to focus on its B2B offer.</span>
+</div>
+</div>
+</div>
+<div class='s-vgBorderTop2 s-vgTop2'></div>
+<div class='s-vgBottom2 u-fontWeight500 u-fontSize16 u-colorGray8 u-uppercase'>
+Launches
+</div>
+<div data-reload-url="/projects/launches/306993" data-highlighted-launch-id="null" class=" dp74 fls51 _a _jm" data-_tn="projects/launches"><div class='s-vgPullBottom2'>
+<div class='js-launch-row s-vgBottom2' data-id='260186'>
+<div data-id="260186" class=" dp74 flw74 _a _jm" data-_tn="projects/launch_row"><div class='s-grid s-grid'>
+<div class='s-grid-colMd2 u-hiddenSmOnly'>
+<div class='like-container js-like' data-liked='' data-url='/likes/create_or_destroy'>
+<div class='like u-fontSize16 u-colorGray8'>
+<span class='fontello-heart js-heart'></span>
+<span class='js-like-count'>0</span>
+</div>
+</div>
+</div>
+<div class='s-grid-colMd6 s-vgBottom1 u-hiddenMdUp'>
+<div class='screenshot-container u-textAlignCenter'>
+<a href="https://angel.co/projects/260186-goot-livraison-de-vins-spiritueux-biere-et-apero-a-domicile?src=startup_profile"><img class="screenshot" alt="" src="https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/516283-thumb.png" /></a>
+</div>
+
+</div>
+<div class='s-grid-colMd16'>
+<div class='s-vgBottom0_5 u-fontSize16 u-fontWeight500'>
+<a class="u-uncoloredLink" href="https://angel.co/projects/260186-goot-livraison-de-vins-spiritueux-biere-et-apero-a-domicile?src=startup_profile">GOOT - Livraison de vins, spiritueux, bière et apéro à domicile</a>
+</div>
+<div class='s-vgBottom0_5 u-fontSize13 u-colorGray6 u-fontWeight500'>
+April 2016&mdash;Delivery of wines, spirits, beers and soft drinks at home 
+</div>
+<div class='s-vgBottom0_5 u-colorGray6 u-fontWeight300'>
+Trouvez, achetez et faites vous livrer votre vin, champagne ou apéro (bière, vodka, whisky, rhum, gin, tequila etc...) pour votre prochain dîner ou soirée.<span class="elipses">&hellip; &middot; </span><a class="hidden_more" href="javascript:void(0);">More</a><span class="hidden"> Livraison à domicile pour 3,50€ à Paris, Bordeaux et Lyon !<br/><br/>Ne choisissez plus vos bouteilles au hasard et faites-vous conseiller par les meilleurs cavistes de votre ville.  <br/>Indiquez votre adresse, GOOT vous proposera alors le vin, le champagne ou le spiritueux qui répond à vos besoins.<br/>Le tout livré en 30 min ou à retirer en boutique en journée en 2 minutes ! <br/>Pendant la nuit, jusqu&#39;à 8 h du matin, faites vous livrer les meilleurs bouteilles pour vos apéros/soirées.<br/><br/>GOOT a été sélectionnée par les médias tels que :<br/>- L&#39;Express : &quot;Notre sélection de dix applications autour du vin&quot;<br/>- GQ Magazine : &quot;Le service cartonne à la capitale et opère déjà à Bordeaux en attendant une ouverture à Lyon. Champagne !&quot;<br/>- Le Journal du Net : &quot;GOOT, le Uber des cavistes&quot;<br/>- Le Parisien : &quot;Cette appli simplifie le monde du vin&quot;<br/><br/>Avis d&#39;utilisateurs :<br/>5/5 appli originale avec une très belle base de donnée et des suggestions pertinentes<br/>5/5 De belles suggestions de vin<br/>5/5 Excellente appli !<br/><br/>GOOT est disponible à Paris, Lyon et Bordeaux, et bientôt dans d’autres grandes villes françaises.<br/><br/>Grâce à GOOT vous avez accès aux fonctionnalités suivantes :<br/><br/>- Trouver l&#39;accord met/vin idéal <br/><br/>- Faites vos achats de vin ou livraison d&#39;alcool pour vos soirées et apéritifs directement grâce à l&#39;application<br/><br/>- Vous faire livrer vos achats chez vous en moins d&#39;une heure ou les retirer en boutique immédiatement (click and collect)<br/><br/>- Découvrir les cavistes autour de votre position et consulter leurs références de vins, champagnes et spiritueux.<br/><br/>- Apporter des notes et commentaires à vos nouvelles découvertes oenologiques et les partager avec la communauté<br/><br/>Prêt à déguster ? <br/><br/>Retrouvez-nous aussi sur <a href="http://www.goot.fr" target="_blank" rel="nofollow">www.goot.fr</a> et restez informé(e) de notre actualité en cliquant sur la mention J&#39;aime sur Facebook <a href="https://www.facebook.com/gootfr" target="_blank" rel="nofollow">https://www.facebook.com/gootfr</a></span>
+</div>
+<div class='top-padding u-colorGrayA u-fontWeight300'>
+<div class='collaborator-images u-floatLeft'>
+<div class='collaborator-image'>
+<img class="angel_image" alt="Olivier Thibert" src="https://d1qb2nb5cznatu.cloudfront.net/users/461421-medium_jpg?1460722702" />
+</div>
+</div>
+By
+<a class="u-unstyledLink" href="https://angel.co/gootfr">Olivier Thibert</a>
+<div class='cb'></div>
+</div>
+</div>
+<div class='s-grid-colMd6 u-hiddenSmOnly'>
+<div class='screenshot-container u-textAlignCenter'>
+<a href="https://angel.co/projects/260186-goot-livraison-de-vins-spiritueux-biere-et-apero-a-domicile?src=startup_profile"><img class="screenshot" alt="" src="https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/516283-thumb.png" /></a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+<div class='js-launch-row s-vgBottom2' data-id='260320'>
+<div data-id="260320" class=" dp74 flw74 _a _jm" data-_tn="projects/launch_row"><div class='s-grid s-grid'>
+<div class='s-grid-colMd2 u-hiddenSmOnly'>
+<div class='like-container js-like' data-liked='' data-url='/likes/create_or_destroy'>
+<div class='like u-fontSize16 u-colorGray8'>
+<span class='fontello-heart js-heart'></span>
+<span class='js-like-count'>0</span>
+</div>
+</div>
+</div>
+<div class='s-grid-colMd6 s-vgBottom1 u-hiddenMdUp'>
+<div class='screenshot-container u-textAlignCenter'>
+<a href="https://angel.co/projects/260320-goot-les-meilleures-bouteilles-livrees-chez-vous?src=startup_profile"><img class="screenshot" alt="" src="https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/516707-thumb.jpg" /></a>
+</div>
+
+</div>
+<div class='s-grid-colMd16'>
+<div class='s-vgBottom0_5 u-fontSize16 u-fontWeight500'>
+<a class="u-uncoloredLink" href="https://angel.co/projects/260320-goot-les-meilleures-bouteilles-livrees-chez-vous?src=startup_profile">Goot: Les meilleures bouteilles livrées chez vous</a>
+</div>
+<div class='s-vgBottom0_5 u-fontSize13 u-colorGray6 u-fontWeight500'>
+April 2016&mdash;Delivery of wines, spirits, beers and soft drinks at home 
+</div>
+<div class='s-vgBottom0_5 u-colorGray6 u-fontWeight300'>
+Commandez sur Goot et faites-vous livrer en moins d&#39;1 heure les meilleurs vins des cavistes les plus appréciés de Paris, Lyon et Bordeaux.
+</div>
+<div class='top-padding u-colorGrayA u-fontWeight300'>
+<div class='collaborator-images u-floatLeft'>
+<div class='collaborator-image'>
+<img class="angel_image" alt="Olivier Thibert" src="https://d1qb2nb5cznatu.cloudfront.net/users/461421-medium_jpg?1460722702" />
+</div>
+</div>
+By
+<a class="u-unstyledLink" href="https://angel.co/gootfr">Olivier Thibert</a>
+<div class='cb'></div>
+</div>
+</div>
+<div class='s-grid-colMd6 u-hiddenSmOnly'>
+<div class='screenshot-container u-textAlignCenter'>
+<a href="https://angel.co/projects/260320-goot-les-meilleures-bouteilles-livrees-chez-vous?src=startup_profile"><img class="screenshot" alt="" src="https://s3.amazonaws.com/poly-screenshots.angel.co/enhanced_screenshots/516707-thumb.jpg" /></a>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+</div></div>
+<a name='founders'></a>
+<h3 class='founders header'>
+Founders
+</h3>
+<div class='founders section'><div class="section with_filler with_editable_regions dsss17 startups-show-sections ffs70 founders _a _jm" data-id="306993" data-_tn="startups/show/sections/founders"><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="larger" data-startup_id="306993" data-role="founder" data-_tn="startup_roles/startup_profile_group"><ul class='larger roles'><li class='role' data-token='69UR'><div data-startup_role="{&quot;id&quot;:1000537,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:461421,&quot;startup_id&quot;:306993,&quot;role&quot;:&quot;founder&quot;,&quot;token&quot;:&quot;69UR&quot;,&quot;past?&quot;:false}" data-size="larger" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup larger top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="461421" href="https://angel.co/gootfr"><img class="angel_image" alt="Olivier Thibert" src="https://d1qb2nb5cznatu.cloudfront.net/users/461421-medium_jpg?1460722702" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="461421" href="https://angel.co/gootfr">Olivier Thibert</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>GOOT, place de marché digitale mettant en relation cavistes/marchands et particuliers souhaitant se faire livrer bouteilles de vins, bières, spiritueux.</p></div>
+</div>
+</div>
+</div></li></ul>
+</div>
+
+</div></div>
+<a name='past_financing'></a>
+<h3 class='header past_financing'>
+Funding
+</h3>
+<div class='past_financing section'><div class="section dsss17 startups-show-sections fpg76 past_financing _a _jm" data-id="306993" data-_tn="startups/show/sections/past_financing"><div data-id="306993" class=" dsss17 startups-show-sections fss49 startup_rounds _a _jm" data-_tn="startups/show/sections/startup_rounds"><ul class='startup_rounds with_rounds'><li class='not_editing startup_round'>
+<div data-id="37094" class=" dsr49 fpe53 _a _jm" data-_tn="startup_rounds/profile"><div class='show section'>
+<div class='details inner_section'>
+<div class='header'>
+<div class='type'>
+Seed
+</div>
+<div class='date_display'>Jul 18, 2013</div>
+</div>
+<div class='raised'>
+$80,000
+</div>
+</div>
+</div>
+</div>
+</li></ul></div>
+<h4 class='subtitle' data-tips_selector='past_investors_section'>
+Investors
+<span class='detail'>from previous rounds</span>
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="306993" data-role="past_investor" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='6zge'><div data-startup_role="{&quot;id&quot;:1082455,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:null,&quot;startup_id&quot;:306993,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;6zge&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<img class="angel_image" alt="" src="https://angel.co/images/shared/nopic.png" />
+</div>
+<div class='text'>
+<div class='name'>
+maxime vasseur
+</div>
+<div class='role_title'></div>
+</div>
+</div>
+</div></li><li class='role' data-token='6zgg'><div data-startup_role="{&quot;id&quot;:1082457,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:496847,&quot;startup_id&quot;:306993,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;6zgg&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="496847" href="https://angel.co/olivier-thibert"><img class="angel_image" alt="Olivier Thibert" src="https://angel.co/images/shared/nopic.png" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="496847" href="https://angel.co/olivier-thibert">Olivier Thibert</a>
+</div>
+<div class='role_title'></div>
+</div>
+</div>
+</div></li><li class='role' data-token='6zgh'><div data-startup_role="{&quot;id&quot;:1082458,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:496869,&quot;startup_id&quot;:306993,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;6zgh&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="496869" href="https://angel.co/adridentiste"><img class="angel_image" alt="Adrien Sicard" src="https://graph.facebook.com/692165561/picture?type=large" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="496869" href="https://angel.co/adridentiste">Adrien Sicard</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Dr</p></div>
+</div>
+</div>
+</div></li></ul>
+</div></div>
+</div></div>
+<a name='team'></a>
+<h3 class='header team'>
+Team
+</h3>
+<div class='section team'><div class="section dsss17 startups-show-sections ftm23 team _a _jm" data-_tn="startups/show/sections/team"><a name='employees_section'></a>
+<h4 class='subtitle' data-tips_selector='employees_section'>
+Employees
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="306993" data-role="employee" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='6zdx'><div data-startup_role="{&quot;id&quot;:1082299,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:496964,&quot;startup_id&quot;:306993,&quot;role&quot;:&quot;employee&quot;,&quot;token&quot;:&quot;6zdx&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="496964" href="https://angel.co/basile-begrand"><img class="angel_image" alt="Basile Bégrand" src="https://d1qb2nb5cznatu.cloudfront.net/users/496964-medium_jpg?1405664516" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="496964" href="https://angel.co/basile-begrand">Basile Bégrand</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Worked at <a href="https://angel.co/goot-2" class="at_mention_link" target="_blank" title="GOOT" data-mention="true" data-type="Startup" data-id="306993" data-slug_id="952460" data-name="goot-2"><span class="at_mention_symbol">@</span><span class="at_mention_slug">GOOT</span></a></p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='6zdy'><div data-startup_role="{&quot;id&quot;:1082300,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:null,&quot;startup_id&quot;:306993,&quot;role&quot;:&quot;employee&quot;,&quot;token&quot;:&quot;6zdy&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<img class="angel_image" alt="" src="https://angel.co/images/shared/nopic.png" />
+</div>
+<div class='text'>
+<div class='name'>
+Camille Simien
+</div>
+<div class='role_title'></div>
+</div>
+</div>
+</div></li></ul>
+</div></div>
+<a name='advisors_section'></a>
+<h4 class='subtitle' data-tips_selector='advisors_section'>
+Advisors
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="306993" data-role="advisor" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='6zdz'><div data-startup_role="{&quot;id&quot;:1082301,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:498708,&quot;startup_id&quot;:306993,&quot;role&quot;:&quot;advisor&quot;,&quot;token&quot;:&quot;6zdz&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="498708" href="https://angel.co/nathalie-tollot"><img class="angel_image" alt="Nathalie Tollot" src="https://angel.co/images/shared/nopic.png" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="498708" href="https://angel.co/nathalie-tollot">Nathalie Tollot</a>
+</div>
+<div class='role_title'></div>
+</div>
+</div>
+</div></li><li class='role' data-token='6zdB'><div data-startup_role="{&quot;id&quot;:1082303,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:null,&quot;startup_id&quot;:306993,&quot;role&quot;:&quot;advisor&quot;,&quot;token&quot;:&quot;6zdB&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<img class="angel_image" alt="" src="https://angel.co/images/shared/nopic.png" />
+</div>
+<div class='text'>
+<div class='name'>
+Virgine Taupenot
+</div>
+<div class='role_title'></div>
+</div>
+</div>
+</div></li></ul>
+</div></div>
+<a name='attorneys_section'></a>
+<h4 class='subtitle' data-tips_selector='attorneys_section'>
+Attorneys
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="306993" data-role="attorney" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='6zdC'><div data-startup_role="{&quot;id&quot;:1082304,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:null,&quot;startup_id&quot;:306993,&quot;role&quot;:&quot;attorney&quot;,&quot;token&quot;:&quot;6zdC&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<img class="angel_image" alt="" src="https://angel.co/images/shared/nopic.png" />
+</div>
+<div class='text'>
+<div class='name'>
+Antoinette Poulain
+</div>
+<div class='role_title'></div>
+</div>
+</div>
+</div></li></ul>
+</div></div>
+</div></div>
+</div>
+</div>
+<div class='sidebar pane s-flexgrid0-colMd s-flexgrid0--width7 s-flexgrid0--header s-vgPadLeft1'><div class="show customized_sections dss98 startups-show fsr30 sidebar _a _jm" data-id="306993" data-current_action="show" data-actions="[&quot;show&quot;]" data-default_sections="[&quot;startups/show/sections/jobs&quot;,&quot;startups/show/sections/in_search_of&quot;,&quot;startups/show/sections/similar_profiles&quot;]" data-per_action_sections="{&quot;show&quot;:[&quot;startups/show/sections/jobs&quot;,&quot;startups/show/sections/in_search_of&quot;,&quot;startups/show/sections/similar_profiles&quot;],&quot;syndicate&quot;:false,&quot;embed&quot;:false,&quot;activity&quot;:[&quot;startups/show/sections/jobs&quot;,&quot;startups/show/sections/in_search_of&quot;],&quot;post_close_hub&quot;:[&quot;startups/show/sections/post_close_hub_examples&quot;,&quot;startups/show/sections/investments&quot;,&quot;startups/show/sections/post_close_hub_tools&quot;],&quot;views&quot;:false}" data-titles="{&quot;startups/show/sections/jobs&quot;:&quot;Jobs&quot;,&quot;startups/show/sections/in_search_of&quot;:&quot;Freelance Opportunities&quot;,&quot;startups/show/sections/similar_profiles&quot;:&quot;People also viewed&quot;,&quot;startups/show/sections/post_close_hub_examples&quot;:&quot;Examples&quot;,&quot;startups/show/sections/investments&quot;:&quot;You Invested &lt;i class=\&quot;fontello-ok\&quot;&gt;&lt;/i&gt;&quot;,&quot;startups/show/sections/post_close_hub_tools&quot;:&quot;Tools&quot;}" data-_tn="startups/show/sidebar"><div class='section_container' data-section='startups/show/sections/jobs'><div class='header jobs'>Jobs</div><div class='jobs section'><div class="section dsss17 startups-show-sections fjs30 jobs _a _jm" data-startup_id="306993" data-non_recruiting="true" data-_tn="startups/show/sections/jobs"><div class='section_content'>
+<div class='no_jobs'>
+GOOT
+hasn't added any jobs yet.
+</div>
+<div class='actions'>
+<div class='details-button job-section-button'>
+<div class=" djl87 job_listings fan13 apply_button _a _jm" data-startup_id="306993" data-startup_name="GOOT" data-startup-hiring="false" data-logged-in="false" data-startup="goot-2" data-source="startup_jobs_module" data-_tn="job_listings/apply_button"><div class='js-success u-hidden'>
+<div class='buttons'>
+<a class='alternate c-button c-button--full-width c-button--gray u-fontWeight600' href='javascript:void(0);'>
+<span class='fontello-ok' style='font-size: 0.9em'></span>
+Notification Set
+</a>
+</div>
+</div>
+<div class='js-qualifications-dropdown u-hidden qualifications-dropdown'></div>
+<div class='buttons js-apply applicant-flow-dropdown'>
+<a class="c-button c-button--blue c-button--full-width   js-interested-button" href="javascript:void(0);">Get Notified</a>
+<div class='dropdown-align--left dropdown-menu job-dropdown-menu js-dropdown u-hidden' data-force-note='' data-source='startup_jobs_module' data-startup-id='306993'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-width--lg'>
+<div class='u-textAlignLeft'>
+<div class='job-listings js-job-listings js-step'>
+<div class='dropdown-item dropdown-title u-fontSize14 u-fontWeight500'>
+Which position are you applying for?
+</div>
+<ul>
+</ul>
+</div>
+<div class='hide js-step js-user-note s-form'>
+<div class='dropdown-item dropdown-title u-fontSize14 u-fontWeight500'>
+Add a message to GOOT
+</div>
+<textarea class='autogrow user-note-textarea u-fontSize14 u-colorGray6 u-block' max_length='1000' placeholder='(optional) Write a note to Olivier Thibert at GOOT. What excites you about GOOT? Why would you be a good fit?'></textarea>
+<button class='apply-button c-button c-button--blue s-vgTop0_5 s-vgRight1 u-floatRight js-apply-button'>
+Apply
+</button>
+<div class='cb'></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='js-notify-me-modal u-hidden mfp-hide'>
+<div class='lightbox-content popover'>
+<div class='title s-vgBottom1'>
+<h3 class='s-h3'>Notify Me When Goot Lists Jobs</h3>
+</div>
+<div class='s-form'>
+<div class='input'>
+<input type="text" name="email" id="email" value="" placeholder="example@you.com" class="js-email" />
+</div>
+<div class='js-errors hidden'></div>
+<div class='buttons'>
+<button class='c-button c-button--blue s-vgTop1 u-block js-set-notification-button'>
+Create Notification
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='details-button job-section-button'>
+<a class='g-button js-similar-jobs-button' href='/paris/social-media/jobs'>
+See Similar Jobs
+</a>
+</div>
+</div>
+<div class='footer-actions'><a class="details" href="https://angel.co/goot-2/jobs">View jobs page</a></div>
+<div class='cb'></div>
+</div>
+</div></div>
+</div>
+<div class='section_container u-hiddenSmOnly' data-section='startups/show/sections/similar_profiles'><div class='header similar_profiles'>People also viewed</div><div class='section similar_profiles'><div class="u-hiddenSmOnly dsss17 startups-show-sections fss16 similar_profiles _a _jm" data-_tn="startups/show/sections/similar_profiles"><div class='c-inset u-bgWhite s-vgBottom1_5'>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Augment" data-type="Startup" data-id="98499" href="https://angel.co/augment?src=rec"><img class="angel_image" alt="Augment" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/98499-7e45417d37e5b92de9b063889811ae8e-medium_jpg.jpg?buster=1433202761" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="98499" href="https://angel.co/augment?src=rec">Augment</a></div>
+<div class='u-fontWeight200 u-colorGray8'>The augmented reality platform that...</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Vivino" data-type="Startup" data-id="168510" href="https://angel.co/vivino?src=rec"><img class="angel_image" alt="Vivino" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/168510-4e0a3931362a16ecdf11eab588681e55-medium_jpg.jpg?buster=1481734514" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="168510" href="https://angel.co/vivino?src=rec">Vivino</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Find the best wine.</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Drizly" data-type="Startup" data-id="287637" href="https://angel.co/drizly?src=rec"><img class="angel_image" alt="Drizly" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/287637-594c1a011d6a36638f16e4b533c6497d-medium_jpg.jpg?buster=1426616335" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="287637" href="https://angel.co/drizly?src=rec">Drizly</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Alcohol e-commerce and delivery</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Winegrid" data-type="Startup" data-id="830397" href="https://angel.co/winegrid?src=rec"><img class="angel_image" alt="Winegrid" src="https://angel.co/images/shared/nopic_startup.png" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="830397" href="https://angel.co/winegrid?src=rec">Winegrid</a></div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Agricool" data-type="Startup" data-id="971314" href="https://angel.co/agricool?src=rec"><img class="angel_image" alt="Agricool" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/971314-c4004b54671aa3e9e7a3470ae82b27c5-medium_jpg.jpg?buster=1497346114" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="971314" href="https://angel.co/agricool?src=rec">Agricool</a></div>
+<div class='u-fontWeight200 u-colorGray8'>We grow food where you live.</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="epicery" data-type="Startup" data-id="2195361" href="https://angel.co/epicery?src=rec"><img class="angel_image" alt="epicery" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/2195361-034e08fe51cb508bcb129e68b022e917-medium_jpg.jpg?buster=1479856381" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="2195361" href="https://angel.co/epicery?src=rec">epicery</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Fresh food on demand</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Tiller Systems" data-type="Startup" data-id="348283" href="https://angel.co/tiller-systems?src=rec"><img class="angel_image" alt="Tiller Systems" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/348283-8002c165e7ae9c5668710e54b3802a8e-medium_jpg.jpg?buster=1418898527" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="348283" href="https://angel.co/tiller-systems?src=rec">Tiller Systems</a></div>
+<div class='u-fontWeight200 u-colorGray8'>More than just a Point of Sale</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Frichti" data-type="Startup" data-id="929420" href="https://angel.co/frichti?src=rec"><img class="angel_image" alt="Frichti" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/929420-8e1202ddd389d4f8cd7131ba1b985e92-medium_jpg.jpg?buster=1448885134" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="929420" href="https://angel.co/frichti?src=rec">Frichti</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Frichti is a home-made food...</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+
+</div>
+<div id='root_footer'></div>
+</div><div id="footer" class=" centered dark  dl85 layouts ffr55 footer _a _jm" data-_tn="layouts/footer"><div class="u-colorGray9 s-fontWeight300 u-fontSize12 u-textAlignCenter u-textShadowWhite s-grid0 s-grid0--outer u-maxWidthLayout dl85 layouts ffs95 footer_links _a _jm" data-_tn="layouts/footer_links"><div class='links'>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/help">Help</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/companies/a">Companies</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/jobs/locations">Jobs by Location</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/jobs/markets">Jobs by Market</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a rel="" class="s-vgRight0_5 u-uncoloredLink" href="https://blog.angel.co">Blog</a>
+<a class="s-vgRight0_5 u-uncoloredLink" rel="nofollow" href="http://twitter.com/angellist">Twitter</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/terms">Terms &amp; Risks</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/unsubscribe">Unsubscribe</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<span class='tiptip' title='AngelList is not responsible for the contents of this profile. Do your own diligence.'>
+Profile not verified
+</span>
+</div>
+
+</div>
+</div>
+
+<div id='fb-root'></div>
+</body>
+</html>
+
+
+

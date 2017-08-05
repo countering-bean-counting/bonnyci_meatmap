@@ -1,0 +1,1213 @@
+<!DOCTYPE html>
+<html class='notranslate no-js scheme-lighter_gray_backdrop ml no-ms no-mm size-large responsive' xmlns:fb='http://ogp.me/ns/fb#'>
+<head>
+<title>Looksharp | AngelList</title>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="JYWG+4zCxu3oq7ye05eRziyh+5aer7KyMsaIm8fZZYVypY4q64nEXyK0p69cYsDz4MN+stR5gdvzRZrX7jHTvw==" />
+<!--
+h0hE/D4tS4hZvfsmQU4xPne77PtL5X9DDP1g8h/dEZSC4pVKlJGkeTuZg4ydEjMLmqAll0eH/ACqiVd1pboNgpfzHHvtMTvun8Q3phEL3IvfOSO4r2mc/cswLqvAHhEoJft4ggKE0r7nytVsnaKrcxjYW+SA/Ar6AP3auhuAOpbTV5m5yRjEYjjK8GL8q94CTgNFH2n8H2UWtULifAXc3QwkmNM67I5k2esVR3EishZP1sXMA/6wfO1SwTF29s3A433M4TwtHHYfY0gtEoTOi43j4npHpbQes31kYQU2UbLaEReT2aG4sVVKsSmPqfCQHRiKbBKMC6g0IlmSG7LL1Ofgq7tGQpqLdbOy3Yk2JPuPBOVzXMWzv1OQU0IfbJZ6WtcwVBDSdFfDOxd7oiyyxmfH9tNi0IA7z7MvsLlemi9z0OHT7n14oeImQELo1sHx69jRvXYkj9czrK8BppdrwvBUQpnA2Txszw==
+-->
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta content='en_US' http-equiv='Content-Language'>
+<meta content='c2y_K2CiLmGeet7GUQc9e3RVGp_gCOxUC4IdJg_RBVo' name='google-site-verification'>
+<meta content='00bd751d25bdb494779b40bedece7089' name='detectify-verification'>
+<meta content='initial-scale=1.0,maximum-scale=2.0,width=device-width' name='viewport'>
+<meta content='notranslate' name='google'>
+<meta content='Looksharp - Looksharp helps employers connect with the best college talent - View company info, team members, fundraising and more' name='description'>
+<meta content='noarchive' name='robots'>
+<link href='https://angel.co/looksharp' rel='canonical'>
+<meta content='https://d1qb2nb5cznatu.cloudfront.net/startups/i/917-0bf28f9b11c239a77926353a545c4502-thumb_jpg.jpg?buster=1446843826' property='og:image'>
+<meta content='Looksharp' property='og:title'>
+<meta content='Looksharp - Looksharp helps employers connect with the best college talent - View company info, team members, fundraising and more' property='og:description'>
+<meta content='https://angel.co/looksharp' property='og:url'>
+<meta content='angellist' name='twitter:site'>
+<meta content='Looksharp - Looksharp helps employers connect with the best college talent' name='twitter:title'>
+<meta content='angel.co' name='twitter:domain'>
+<meta content='Looksharp - Looksharp helps employers connect with the best college talent - View company info, team members, fundraising and more' name='twitter:description'>
+<meta content='https://d1qb2nb5cznatu.cloudfront.net/startups/i/917-0bf28f9b11c239a77926353a545c4502-medium_jpg.jpg?buster=1446843826' name='twitter:image:src'>
+<meta content='product' name='twitter:card'>
+<meta content='FOUNDER' name='twitter:label1'>
+<meta content='Andrew Maguire' name='twitter:data1'>
+<meta content='TEAM' name='twitter:label2'>
+<meta content='Founded Looksharp' name='twitter:data2'>
+
+<link href='//assets.angel.co/assets/icons/angellist-e1decb2fb69dc221e2dd4ad5f749797e28b3e9e92957e0f161b8e64d5a8a74c8.ico' rel='shortcut icon'>
+<link href='/images/icons/iOS/Icon.png' rel='apple-touch-icon-precomposed' sizes='57x57'>
+<link href='/images/icons/iOS/Icon-72.png' rel='apple-touch-icon-precomposed' sizes='72x72'>
+<link href='/images/icons/iOS/Icon@2x.png' rel='apple-touch-icon-precomposed' sizes='114x114'>
+<link href='/images/icons/iOS/Icon-72@2x.png' rel='apple-touch-icon-precomposed' sizes='144x144'>
+
+<link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.g.application0-22ed6f69f455e9894027aeb071e5f678.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.g.application1-6234e3ddb9b06c341d820c9fecb426d4.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.admin-216b428508a3b1815691d6d41ec2927c.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.angel_profiles-7d9af9b27287899d820727983d30049a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.closings-439798ac5469bfbfe748e3dae8fd4492.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.companies-f88176545f07def6cd7527db86e16483.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.follows-ea0cd8fa110929cf29575e967272dfed.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fund_campaigns-66d198d400ee816d04418d0999c86af7.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.funding_rounds-75894cbd96b33dd8ebc38a46381bcb4d.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fundraising-38c4ab481b2bc7b8cc422236888bfa51.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fundraising_campaigns-59521b4fdf1787344530788431f2da16.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.home-8a662f0685b39d18f5fd4ff4b7a7f677.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.incubator_administrators-df26943c9d6e72640c7afe5c840cae35.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_listing_showcase-ee242ec721d85dbfdcf39d58fd7e18b1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_listings-34788d616970942fbe122f9ebef36996.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_pairings-1a0e77ccf3378e20fc17b4c807832036.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_profile_signup-cd35c129f5fca74c4d0b79e669a0080a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.layouts-935af14c17de1324fd124322eaacae14.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.messages-b31a83501f010acf74cadce64cbf20a3.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_posts-f3fd4a6d1c8db28df4c13cc928f45fef.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_taggings-329d0d35099da8a5922d5e4eef40f02a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_tags-509f6e8a41b23b6cd37a1174dca6f4d5.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.onboarding-d98f82475ce9b5a651d6a24d91018a78.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.paths-9520b1cda7b731be6d0923b9c57e7c55.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.people-e2632e256c33c05b3cd313f8cfc625fc.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profile_flaggings-ddd19e885192e4560f6f7f35dcbd4b69.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profile_transaction_listings-d7b86ffd3c0c278550868c68ee83be79.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profiles-5fba6d565832e28be5419b6412073ab1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.program_applications-96262d89c322e1b7fe54401f4843e56e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.programs-7458ffa6bad61b3d8ae55d74da52f3d2.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.projects-1d49de599cee97c030d30d210a5eb3e1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.qa-25edb3ccd35cfc2d12b5476e4a3a01e1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.reviews-2da4057e5e52f66eab9f2e6ce2b70bba.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.screenshots-d7349598409c1f85776bdcfaedb8d3ab.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.sessions-5da1bdc7d6768cf45099bb920e066681.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.settings-52b9c88fe27eb65e32005624842c707e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.shared-e411a216cda70bdb8820d096c1dba2a1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.social-5da48eb7577c4628095d5d9c9d2cbd32.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_intros-e1eb2c0feb137b283c6270973e22ba4e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_roles-8fdf53d155560dc58e65d75a2b8d21d0.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_rounds-fe188c9d18bf5ab371d8c67709785a5a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startups-fbb0ab18bcae14012b079baf4cc5cc74.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.syndicates-9c2246b04f09a862c6ac6cbdb7377a40.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.tags-207bbefa797190c0a7d577055225f847.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.transaction_feed-e165d0e88d499b872d6765a7f6901ecd.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.user_graph_edges-3ad2bb21af9bffb99b6d5b10986bed6f.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.user_one_signal_preferences-35553bd46064906bc0e94360e218a2cd.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.valuations-5c78c00ec3ca16792b48e1559ec1dc1c.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.views-11c1d8186d5a791f7ca981b3c4b4c90d.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/application-e196d4ad5152313f4baba3d0932b7052.css" />
+
+<script>
+//<![CDATA[
+window['fs_disable']=true;
+//]]>
+</script><script>
+//<![CDATA[
+window._rollbarPerson={"id":null,"username":null};
+//]]>
+</script><script>
+//<![CDATA[
+!function(r){function e(t){if(n[t])return n[t].exports;var o=n[t]={i:t,l:!1,exports:{}};return r[t].call(o.exports,o,o.exports,e),o.l=!0,o.exports}var n={};return e.m=r,e.c=n,e.i=function(r){return r},e.d=function(r,n,t){e.o(r,n)||Object.defineProperty(r,n,{configurable:!1,enumerable:!0,get:t})},e.n=function(r){var n=r&&r.__esModule?function(){return r["default"]}:function(){return r};return e.d(n,"a",n),n},e.o=function(r,e){return Object.prototype.hasOwnProperty.call(r,e)},e.p="//assets.angel.co/webpack/",e(e.s=314)}({314:function(r,e,n){n(50),n(42),n(49)},324:function(r,e,n){r.exports=n.p+"3fd28f327bccd084051e98a9c3d97fa2.js"},346:function(r,e){!function(r){function e(t){if(n[t])return n[t].exports;var o=n[t]={exports:{},id:t,loaded:!1};return r[t].call(o.exports,o,o.exports,e),o.loaded=!0,o.exports}var n={};return e.m=r,e.c=n,e.p="",e(0)}([function(r,e,n){"use strict";var t=n(1).Rollbar,o=n(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js";var a=t.init(window,_rollbarConfig),i=o(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,e){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(e){try{console.error("[Rollbar]: Internal error",e)}catch(n){}}}}function t(r,e,n){window._rollbarWrappedError&&(n[4]||(n[4]=window._rollbarWrappedError),n[5]||(n[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,n),e&&e.apply(window,n)}function o(r){var e=function(){var e=Array.prototype.slice.call(arguments,0);t(r,r._rollbarOldOnError,e)};return e.belongsToShim=!0,e}function a(r){this.shimId=++c,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var e=a;return n(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var n=this,t="scope"===r;t&&(n=new e(this));var o=Array.prototype.slice.call(arguments,0),a={shim:n,method:r,args:o,ts:new Date};return window._rollbarShimQueue.push(a),t?n:void 0})}function l(r,e){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){var n=e.addEventListener;e.addEventListener=function(e,t,o){n.call(this,e,r.wrap(t),o)};var t=e.removeEventListener;e.removeEventListener=function(r,e,n){t.call(this,r,e&&e._wrapped?e._wrapped:e,n)}}}var c=0;a.init=function(r,e){var t=e.globalAlias||"Rollbar";if("object"==typeof r[t])return r[t];r._rollbarShimQueue=[],r._rollbarWrappedError=null,e=e||{};var i=new a;return n(function(){if(i.configure(e),e.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=o(i);var n,a,c="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<c.length;++n)a=c[n],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return e.captureUnhandledRejections&&(i._unhandledRejectionHandler=function(r){var e=r.reason,n=r.promise,t=r.detail;!e&&t&&(e=t.reason,n=t.promise),i.unhandledRejection(e,n)},r.addEventListener("unhandledrejection",i._unhandledRejectionHandler)),r[t]=i,i})()},a.prototype.loadFull=function(r,e,t,o,a){var i=function(){var e;if(void 0===r._rollbarPayloadQueue){var n,t,o,i;for(e=new Error("rollbar.js did not load");n=r._rollbarShimQueue.shift();)for(o=n.args,i=0;i<o.length;++i)if(t=o[i],"function"==typeof t){t(e);break}}"function"==typeof a&&a(e)},l=!1,c=e.createElement("script"),u=e.getElementsByTagName("script")[0],s=u.parentNode;c.crossOrigin="",c.src=o.rollbarJsUrl,c.async=!t,c.onload=c.onreadystatechange=n(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){c.onload=c.onreadystatechange=null;try{s.removeChild(c)}catch(r){}l=!0,i()}}),s.insertBefore(c,u)},a.prototype.wrap=function(r,e){try{var n;if(n="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(e){throw"string"==typeof e&&(e=new String(e)),e._rollbarContext=n()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e,e}},r._wrapped._isWrap=!0;for(var t in r)r.hasOwnProperty(t)&&(r._wrapped[t]=r[t])}return r._wrapped}catch(o){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError,unhandledRejection".split(","),s=0;s<u.length;++s)a.prototype[u[s]]=i(u[s]);r.exports={Rollbar:a,_rollbarWindowOnError:t}},function(r,e){"use strict";r.exports=function(r,e){return function(n){if(!n&&!window._rollbarInitialized){var t=window.RollbarNotifier,o=e||{},a=o.globalAlias||"Rollbar",i=window.Rollbar.init(o,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,t.processPayloads()}}}}])},42:function(r,e){window.fs_disable||(window._fs_debug=!1,window._fs_host="www.fullstory.com",window._fs_org="1JRNY",window._fs_namespace="FS_al_noconflict",function(r,e,n,t,o,a,i,l){n in r&&r.console&&r.console.log||(i=r[n]=function(r,e){i.q?i.q.push([r,e]):i._api(r,e)},i.q=[],a=e.createElement(t),a.async=1,a.src="https://"+_fs_host+"/s/fs.js",l=e.getElementsByTagName(t)[0],l.parentNode.insertBefore(a,l),i.identify=function(r,e){i(o,{uid:r}),e&&i(o,e)},i.setUserVars=function(r){i(o,r)},i.identifyAccount=function(r,e){a="account",e=e||{},e.acctId=r,i(a,e)},i.clearUserCookie=function(r,n){for(r=e.domain;;){if(e.cookie="fs_uid=;domain="+r+";path=/;expires="+new Date(0),n=r.indexOf("."),n<0)break;r=r.slice(n+1)}})}(window,document,window._fs_namespace,"script","user"),window._fs_callbacks=[],window._fs_ready=function(){setTimeout(function(){for(var r in window._fs_callbacks)window._fs_callbacks[r]();window._fs_callbacks=!1},100)})},49:function(r,e){var n,t;t=[],n=!1,window._eventQueueClear=function(r,e){var o,a,i,l;if(n)throw new Error("_eventQueueClear only be invoked once");for(n=!0,l=[],a=0,i=t.length;a<i;a++)o=t[a],l.push(o(r,e));return l},window._q=function(r){return!!n||(!!this._eventQueueTriggered||(this._eventQueueTriggered=!0,r.preventDefault(),this.className+=" loading",t.push(function(e){return function(n,t){return t["with"](n(e).closest(t.rootSelector()),function(){return n(e).removeClass("loading"),n(e).trigger(n.event.fix(r))})}}(this)),!0))}},50:function(r,e,n){window._rollbarConfig={accessToken:"e36e9edcd88b416780f0ebe64497cb59",captureUncaught:!0,captureUnhandledRejections:!1,globalAlias:"_alRollbar",rollbarJsUrl:n(324),payload:{environment:"production_js",client:{javascript:{code_version:"a3c200bd8365c017e8c030098218df84122614cd",source_map_enabled:!0,guess_uncaught_frames:!0}},person:window._rollbarPerson},checkIgnore:function(r,e,n){var t,o,a,i,l,c,u,s,d,f,p,w,_,h,b,g,v,y,m,E,x,C,k,R,j;try{if("development_js"===n.data.environment)return!0;if(j=null!=n&&null!=(f=n.data)&&null!=(p=f.client)&&null!=(b=p.javascript)?b.browser:void 0,i=null!=n&&null!=(g=n.data)&&null!=(v=g.body)&&null!=(y=v.trace)?y.exception:void 0,c=null!=n&&null!=(m=n.data)&&null!=(E=m.body)&&null!=(x=E.trace)&&null!=(C=x.frames)&&null!=(w=C[0])?w.filename:void 0,r&&i.rollbarIgnore)return!0;if(r&&null!=c&&null!=j&&/Firefox/.test(j)&&/^resource:\/\//.test(c))return!0;for(t=[/Loading chunk [0-9]+ failed/,/atomicFindClose/,/Baiduspider/,/dataKeys/,/gcdemodata/,/bCapGloRef/,/sCapGloRef/],l=0,s=t.length;l<s;l++)if(k=t[l],k.test(null!=i?i.message:void 0))return!0;for(R=[/^http[s]?\:\/\/webcache\.googleusercontent\.com/,/^http[s]?\:\/\/web\.archive\.org/,/^http[s]?\:\/\/tunnelproxy\.nu/],u=0,d=R.length;u<d;u++)if(k=R[u],k.test(null!=n&&null!=(_=n.data)&&null!=(h=_.request)?h.url:void 0))return!0;return!!/NPObject/.test(i.message)||n.data.client.runtime_ms>12e5}catch(a){return o=a,!1}}},n(346)}});
+//]]>
+</script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'jdy1kdx',
+      scriptTimeout: 3000
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+<script>
+//<![CDATA[
+window._mediaBreakpoints = [767,959];
+//]]>
+</script>
+<script src="//assets.angel.co/assets/bundles/head-7a544bb79c892b8597bde3cc17533bc60dbf0829d695c33a3725da4986dee5a2.js"></script>
+<script>
+  window._alConfig = {"lib/environment":{"controller":"startups","action":"show","environment":"production","current_user":null},"initializer":{"root_class":"_a","template_name_data_key":"_tn","javascript_module_exists_class":"_jm"},"lib/partials":{"root_class":"_a"},"segment/analytics":{"logging_enabled":false},"application":{"js_templates":["startups/show/sections/screenshots_and_video","startups/show/sections/new_product","startup_roles/startup_profile_group","startups/show/sections/founders","startup_rounds/profile","startups/show/sections/startup_rounds","startups/show/sections/past_financing","startups/show/sections/team","startups/show","startups/show/structure","startups/show/helpers/share_button","startups/show/sections/connections_v2","startups/show/header","startups/show/header_fixed","startups/show/header_navigation_tabs","job_listings/apply_button","startups/show/sections/jobs","startups/show/sections/similar_profiles","startups/show/sidebar","layouts/profile","layouts/nav","layouts/header","layouts/flashes","layouts/footer","layouts/footer_links"],"image_host":"//assets.angel.co/images"}};
+</script>
+<script src="//assets.angel.co/webpack/application-d25e1b0446969671d990.js" async="async"></script>
+
+
+<script>
+//<![CDATA[
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga("create","UA-17693728-1","auto");
+ga("set","contentGroup1","Startup profile");
+ga("send","pageview");
+
+//]]>
+</script><script async='async' src='https://www.google-analytics.com/analytics.js'></script>
+<meta content='132453076811032' property='fb:app_id'>
+<script>
+//<![CDATA[
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+analytics.load("poTMRBHig2tYBNBP5P6kGfkGBFq19jmB");
+analytics.page(null,null, {"anonymousId":"5afc497d9ec914a5564603c5cbe61a6e","controller":"startups","action":"show","pageviewId":"5afc497d9ec914a5564603c5cbe61a6e58cee3ad8945428ce57a922c959eb119"}, {"anonymousId":"5afc497d9ec914a5564603c5cbe61a6e"})
+window._pageviewId = "5afc497d9ec914a5564603c5cbe61a6e58cee3ad8945428ce57a922c959eb119"
+}}();
+
+//]]>
+</script><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '654344241403981'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=654344241403981&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<script>
+//<![CDATA[
+window._stripeKey = 'pk_live_Sgsc9Y8xSonesJppEw1ee0dY'
+
+//]]>
+</script>
+</head>
+<body id='layouts-base-body'>
+<div data-routes="{&quot;show&quot;:&quot;/looksharp&quot;}" data-page_titles="{&quot;show&quot;:&quot;Looksharp | AngelList&quot;}" class=" dss98 startups-show fse9 structure _a _jm" data-_tn="startups/show/structure"></div><div id="root" class=" centered dark  dl85 layouts ffr55 footer _a _jm" data-_tn="layouts/footer">
+<div class="u-fontSize16 normal dl85 layouts ffs42 flashes _a _jm" data-flash_class="flash u-textAlignCenter u-colorWhite s-vgPadTop1 s-vgPadBottom1" data-_tn="layouts/flashes"><div class='js-container s-grid0 s-grid0--outer u-hidden u-maxWidthLayout'>
+</div>
+</div>
+<div class="header_nav  flush_bottom  dl85 layouts fhr17 header _a _jm" data-_tn="layouts/header">
+<div class=" dl85 layouts fnv25 nav _a _jm" data-_tn="layouts/nav"><div class='s-grid s-grid--outer u-maxWidthLayout primaryContainer'>
+<div class='s-grid-colSm24'>
+<div class='searchAndLinks u-floatRight u-borderBox'>
+<div class='s-flexgrid0 s-flexgrid0--inline'>
+<div class='s-flexgrid0-colSm'>
+<form class="s-form u-inlineBlock searchForm u-hiddenMdDown" action="/search" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DqUQtnZNc6IxI9RmJYSEW4XVz1kEH6G+FDuYnVXQYk5ZhRhnEQZxEPs8z1eqcdVmSbdKfU7JktfVuIrRfDjUdA==" />
+<div class='s-flexgrid0 s-flexgrid0--inline'>
+<div class='s-flexgrid0-colSm'>
+<label class="fontello-search-1 s-vgPadRight1 s-vgPadLeft1 searchLabel u-inlineBlock u-vAlignTop" for="q"></label>
+</div>
+<div class='s-flexgrid0-colSmW'>
+<div class='s-vgPadRight0_5'><input type="text" name="q" id="q" value="" placeholder="SEARCH" class="searchInput s-form--blended" /></div>
+</div>
+</div>
+</form>
+
+</div><div class='s-flexgrid0-colSm linksContainer respondToNavbarHeight u-floatRight'><div class='u-inlineBlock'>
+<a class="auth u-fontWeight300" href="/join">Join</a>
+&nbsp;
+<a class="auth login u-fontWeight300" href="/login">Log In</a>
+</div><div class='u-inlineBlock u-hiddenLgOnly'>
+<div class='fontello-search-1 icon mobileSearchLink s-vgLeft0_5 u-inlineBlock u-unstyledLink'></div>
+</div></div></div>
+</div>
+<div class='navAndPrefix respondToNavbarHeight u-borderBox s-vgPadRight1 u-vAlignTop u-nowrap'>
+<div class='mainNav respondToNavbarHeight u-inlineBlock u-nowrap'>
+<div class='logoWrapper u-inline u-vAlignTop'>
+<a class="u-unstyledLink u-inlineBlock s-vgRight0_5 logo fontello-angellist" href="/?ref=nav">AngelList</a>
+</div>
+<ul class='c-navbar navigationLinks u-inline u-uppercase u-vAlignTop'><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item  " href="/jobs">Startup Jobs</a>
+</li><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item  " href="/recruiting">Recruit</a>
+</li><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item  " href="/invest/start">Invest</a>
+</li><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item more-dropdown-button" href="javascript:void(0);">More</a>
+<div class='more-dropdown dropdown hide_when_handheld'>
+<div class='more-dropdown-desktop-menu dropdown-menu js-dropdown-menu u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-align--center'>
+<a class="u-fontSize14 dropdown-item" href="/companies">Companies</a>
+<span>
+<a class="u-fontSize14 dropdown-item" href="/freelancers">Freelancers</a>
+</span>
+<a class="u-fontSize14 dropdown-item" href="/accelerators/apply">Incubators</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/track">Track</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/salaries">Salaries</a>
+<a class="u-fontSize14 dropdown-item" href="/valuations">Valuations</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/help">Help</a>
+</div>
+
+</div>
+</div>
+</li></ul>
+</div>
+</div>
+<div class='network-dropdown dropdown'>
+<div class='network-dropdown-handheld-menu dropdown-menu js-dropdown-menu u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-align--center'>
+<a class="u-fontSize14 dropdown-item" href="/alumni-networks/me">Your Alumni Network</a>
+</div>
+
+</div>
+</div>
+<div class='more-dropdown dropdown hide_when_desktop hide_when_tablet'>
+<div class='dropdown-menu js-dropdown-menu logged-out more-dropdown-handheld-menu u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-align--center'>
+<a class="u-fontSize14 dropdown-item" href="/companies">Companies</a>
+<span>
+<a class="u-fontSize14 dropdown-item" href="/freelancers">Freelancers</a>
+</span>
+<a class="u-fontSize14 dropdown-item" href="/accelerators/apply">Incubators</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/track">Track</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/salaries">Salaries</a>
+<a class="u-fontSize14 dropdown-item" href="/valuations">Valuations</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/help">Help</a>
+</div>
+
+</div>
+</div>
+</div>
+<div class='mobileSearchOuterContainer'>
+<div class='u-hidden mobileSearchContainer'>
+<form class="s-form mobileSearchForm" action="/search" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="SghHa9FaKl6+u/QNrW4dZaAklzzes3/QOpxfknnz4pQdKE+6thEo7HSk7zwim0xYbEYSGJRlTLn7H03eUBtUrg==" />
+<input type="text" name="q" id="q" value="" placeholder="Search" class="mobileSearchInput" />
+</form>
+
+</div>
+</div>
+</div>
+</div>
+</div><div class="ghost  flush_bottom  dl85 layouts fhr17 header _a _jm" data-_tn="layouts/header">
+</div><div class="page   flush_bottom  dl85 layouts fhr17 header _a _jm" data-_tn="layouts/header">
+<div itemscope itemtype='http://data-vocabulary.org/Person'>
+<div class="show_sidebar dl85 layouts fpe53 profile _a _jm" data-_tn="layouts/profile"><div class='prefix u-bgWhite'><div class='u-bgGray u-hiddenSmOnly'>
+<div class='s-grid s-grid--outer u-maxWidthLayout'>
+<div class='s-grid-colLg4 s-grid-colMd1'>
+&nbsp;
+</div>
+<div class='s-grid-colLg12 s-grid-colMd12 u-fontSize14 s-vgPadTop1 s-vgPadBottom1 u-textAlignLeft'>
+<div class='u-fontWeight500'>Looksharp is on AngelList, where the world meets startups.</div>
+<div class='subhead'>
+To connect with Looksharp,
+<a href="/join?src=user_profile">sign up</a>
+for AngelList today.
+</div>
+</div>
+<div class='s-grid-colLg8 s-grid-colMd7 u-textAlignLeft u-textAlignCenterSmOnly u-fontSize16'>
+<div class='buttons'>
+<div class='s-vgTop1 u-hiddenSmOnly'></div>
+<a class="c-button c-button--blue" href="/join?src=user_profile">Sign up</a>
+<a class="c-button c-button--gray" href="/login?src=user_profile">Log in</a>
+</div>
+<div class='s-vgBottom2 u-hiddenMdUp'></div>
+</div>
+</div>
+</div>
+<div data-id="917" data-firm="false" data-taggings="[{&quot;id&quot;:1653786,&quot;new_taggable_id&quot;:917,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_company_type&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Startup&quot;,&quot;slug_url&quot;:&quot;https://angel.co/startup&quot;}},{&quot;id&quot;:2174519,&quot;new_taggable_id&quot;:917,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_locations&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;San Francisco&quot;,&quot;slug_url&quot;:&quot;https://angel.co/san-francisco&quot;}},{&quot;id&quot;:15088462,&quot;new_taggable_id&quot;:917,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Education&quot;,&quot;slug_url&quot;:&quot;https://angel.co/education&quot;}},{&quot;id&quot;:1653837,&quot;new_taggable_id&quot;:917,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Recruiting&quot;,&quot;slug_url&quot;:&quot;https://angel.co/recruiting-1&quot;}},{&quot;id&quot;:15088461,&quot;new_taggable_id&quot;:917,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Social Recruiting&quot;,&quot;slug_url&quot;:&quot;https://angel.co/social-recruiting&quot;}},{&quot;id&quot;:87190,&quot;new_taggable_id&quot;:917,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;College Recruiting&quot;,&quot;slug_url&quot;:&quot;https://angel.co/college-recruiting&quot;}}]" data-invisible_taggings="[]" class="u-bgWhite dss98 startups-show fhr17 header _a _jm" data-_tn="startups/show/header"><div class='summary'>
+<div class='editable_region'>
+<div class='show'>
+<div class='s-grid s-grid--outer u-maxWidthLayout subheader-container'>
+<div class='s-grid-colMd24 subheader-inner-container'>
+<div class='g-lockup-subheader'>
+<div class='photo subheader-avatar'>
+<img alt="Looksharp logo" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/917-0bf28f9b11c239a77926353a545c4502-medium_jpg.jpg?buster=1446843826" />
+</div>
+<div class='text profile-text u-textAlignCenterSmOnly'>
+<div class='s-grid0'>
+<div class='s-grid0-colMd14'>
+<h1 class='u-fontWeight500 s-vgBottom0_5'>
+Looksharp
+</h1>
+<h2 class='js-startup_high_concept u-fontSize15 u-fontWeight400 u-colorGray3'>
+Looksharp helps employers connect with the best college talent
+</h2>
+</div>
+<div class='s-grid0-colMd10 action-col'>
+<div class='action-links u-textAlignRightMdUp u-textAlignCenterSmOnly'>
+<div class="c-button c-button--blue c-button--md action-button s-vgRight0_5 dssh0 startups-show-helpers fsn94 share_button _a _jm" href="/startups/917/share_module" style="" tag_name="a" data-_tn="startups/show/helpers/share_button">Share
+</div>
+<div class='dropdown u-hiddenLgOnly u-inlineBlock'>
+<div class='dropdown-button js-dropdown-button'>
+<div class='c-button c-button--transparent-blue fontello-angle-down u-fontSize16 u-inlineBlock s-vgPullTop0_5 action-button'></div>
+</div>
+<div class='js-dropdown-menu dropdown-menu dropdown-align--right u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu'>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='s-grid0-colMd24'>
+<div class='tags-container'>
+<div class=" dssh27 startups-show-header_2 fts73 tags_and_links _a" data-_tn="startups/show/header_2/tags_and_links"><div class='u-colorGray8 u-fontSize12'>
+<span class='js-location_tag_holder'>
+<span class='s-vgRight1'>
+<i class='fontello-location' style='margin-right: 3px;'></i>
+<span class='js-location_tags'>
+<a class="tag" href="https://angel.co/san-francisco">San Francisco</a>
+</span>
+</span>
+</span>
+<span class='js-market_tag_holder'>
+<span class='s-vgRight1'>
+<i class='fontello-tag-1' style='margin-right: 3px;'></i>
+<span class='js-market_tags'>
+<a class="tag" href="https://angel.co/education">Education</a> &middot; <a class="tag" href="https://angel.co/recruiting-1">Recruiting</a> &middot; <a class="tag" href="https://angel.co/social-recruiting">Social Recruiting</a> &middot; <a class="tag" href="https://angel.co/college-recruiting">College Recruiting</a>
+</span>
+</span>
+</span>
+<span class='s-vgRight1'>
+<i class='fontello-group' style='margin-right: 3px;'></i>
+<span class='js-company_size'>
+1-10
+</span>
+employees
+</span>
+<span class='s-vgRight1 links u-hiddenSmOnly'>
+<span class='link'>
+<a class="fontello-twitter u-uncoloredLink twitter_url" rel="nofollow" target="_blank" href="https://twitter.com/looksharp"></a>
+</span>
+<span class='link'>
+<a class="fontello-facebook u-uncoloredLink facebook_url" rel="nofollow" target="_blank" href="https://www.facebook.com/internmatch"></a>
+</span>
+<span class='link'>
+<a class="fontello-linkedin u-uncoloredLink linkedin_url" rel="nofollow" target="_blank" href="https://www.linkedin.com/company/looksharp"></a>
+</span>
+<span class='blank link'>
+<a class="fontello-product-hunt u-uncoloredLink producthunt_url" rel="external" target="_blank" href="/looksharp"></a>
+</span>
+<span class='link'>
+<a class="fontello-rss u-uncoloredLink blog_url" rel="nofollow" target="_blank" href="http://employerblog.looksharp.com"></a>
+</span>
+<span class='link'>
+<a target="_blank" class="u-uncoloredLink company_url" rel=" nofollow noopener noreferrer" href="http://www.looksharp.com">looksharp.com</a>
+</span>
+</span>
+</div>
+</div>
+<div data-load="false" data-id="917" class=" dsss17 startups-show-sections fc250 connections_v2 _a _jm" data-_tn="startups/show/sections/connections_v2"><div class='u-textAlignCenterSmOnly u-colorGray8'>
+<div class='text'>
+<i class='fontello-plus' style='margin-right: 3px;'></i>
+<a href="/join?utm_source=profile-connections">Sign up</a> to see how you are connected to Looksharp
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=" dss98 startups-show fhd40 header_fixed _a _jm" data-_tn="startups/show/header_fixed"><div class='container fixed-top'>
+<div class='s-grid u-maxWidthLayout s-grid--outer'>
+<div class='s-grid-colMd12 u-textAlignCenterSmOnly'>
+<div class='avatar-container s-vgTop1 s-vgBottom1'>
+<div class='avatar u-floatLeft u-inlineBlock'>
+<div class='g-photo_container'><img alt="Looksharp logo" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/917-0bf28f9b11c239a77926353a545c4502-medium_jpg.jpg?buster=1446843826" /></div>
+</div>
+<div class='name u-fontSize16 u-colorGray3 u-floatLeft u-inlineBlock s-vgLeft1'>
+Looksharp
+</div>
+<div class='cb'></div>
+</div>
+</div>
+<div class='s-grid-colMd12 s-grid-colSm24 s-vgPadRight1 s-vgTop1 s-vgBottom1'>
+<div class='u-floatRight'>
+<div class='share fixed_header_button u-inlineBlock'>
+<div class="u-vAlignMiddle c-button c-button--gray dssh0 startups-show-helpers fsn94 share_button _a _jm" href="/startups/917/share_module" style="" tag_name="a" data-_tn="startups/show/helpers/share_button">Share
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="u-bgGray s-vgPadTop1  dss98 startups-show fhs5 header_navigation_tabs _a _jm" data-_tn="startups/show/header_navigation_tabs"><div class='s-grid s-grid--outer u-maxWidthLayout'>
+<div class='actions u-uppercase s-vgPullTop1'>
+<div class='tabs'><span><a class="tab show selected" data-name="show" href="/looksharp">Company</a></span></div>
+</div>
+<div class='mobile_nav s-vgLeft1 s-vgRight1'>
+<div class='tabs g-form'>
+<div class='icon_container'>
+<div class='icon'><img class="icon_image" alt="" src="//assets.angel.co/assets/icons/arrow_list_down-6474e12ee7bee2c57dd106d18751b916bfd44aaa4b4c3fe4f9ac0ad46ce7a291.png" /></div>
+</div>
+<div class='value' data-names='{"show":"Overview"}'>
+Overview
+</div>
+</div>
+<select name="tab_select" id="" class="tab_select"><option data-name='show' selected='selected' value='/looksharp'>
+Overview
+</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+<div class='content s-grid s-grid--outer u-maxWidthLayout s-vgBottom2'>
+<div class='panes_container no_error s-grid-colSm24'>
+<div class='error u-textAlignCenter u-colorGray6 s-vgTop2'>There was a problem loading your content.</div>
+<div class='s-flexgrid0 s-flexgrid0--fixed panes_grid'>
+<div class='main pane s-flexgrid0--footer s-flexgrid0-colMdW s-vgPadRight1'><div data-show-wvyp-modal="null" class=" ds2 startups fsw49 show _a _jm" data-_tn="startups/show"><a name='new_product'></a>
+<h3 class='header new_product'>
+Product
+</h3>
+<div class='new_product section'><div class="section with_filler with_editable_regions itemized dsss17 startups-show-sections fnt94 new_product _a _jm" data-startup="{&quot;id&quot;:917,&quot;product_desc&quot;:&quot;Looksharp is a recruiting platform dedicated to launching the career of every student. Employers use our enterprise products to showcase employment brand and streamline the recruiting process from start to finish.\n\nWe have a marketplace of 10M job-seeking college students and new grads annually, over 70% of the market. Blue chip customers like Facebook, Wells Fargo, HP, Disney, and more attract talent using a Company Profile with rich media, events, and testimonials. No longer confined by the costs of recruiting on campus, employers source from a vast network of talent—no travel required.\n\nEmployers also use Looksharp to manage their college recruiting workflow. They combine digital and campus recruiting, eliminating paper resumes with Looksharp Recruiter, our companion mobile app for campus events. They segment, analyze, and follow up with leads using our CRM.\n\nOnline and off, employers trust Looksharp to deliver high-quality candidates, significantly reducing time and cost to hire.&quot;}" data-_tn="startups/show/sections/new_product"><div class='screenshots_and_video editable_region'>
+<div class='show'><div id="media" class="g-module no_shadow itemized dsss17 startups-show-sections fso33 screenshots_and_video _a _jm" data-id="917" data-_tn="startups/show/sections/screenshots_and_video"><div class='content'>
+<div class='big-mobile'>
+<div class='big-mobile-container'>
+<a target="_blank" rel="nofollow noopener noreferrer" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/614/059/614059-ea215580f5de4ca1dcd4cad74cd5be78fb803ee0.png?1447091896"><img class="mobile_ss" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/614/059/614059-781ae2389d8b0bc690b40aac7336f0398a40ec98.jpg?1447091896" /></a>
+<a target="_blank" rel="nofollow noopener noreferrer" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/612/985/612985-f04d776285b443927269dac657f8e93f4fb48407.png?1446843909"><img class="mobile_ss" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/612/985/612985-f0955bf088fe1b4166dab73c328979d949d7629f.jpg?1446843909" /></a>
+<a target="_blank" rel="nofollow noopener noreferrer" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/612/986/612986-a9481cde8b312438815a6d2688f87cca24f57d22.png?1446843945"><img class="mobile_ss" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/612/986/612986-069a3fce97250941a432ae4d6ece8c5bf2bc8d6c.jpg?1446843945" /></a>
+<a target="_blank" rel="nofollow noopener noreferrer" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/612/987/612987-43a3568dd58d17f1825386c671123d5851d664a1.png?1446843971"><img class="mobile_ss" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/612/987/612987-014b50f830531cac0d8822b182ff15615f8bde95.jpg?1446843971" /></a>
+<a target="_blank" rel="nofollow noopener noreferrer" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/612/988/612988-2bbba1f70986fa606f1059f70f9debba9a96ecec.jpg?1446844074"><img class="mobile_ss" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/612/988/612988-e1108430604914aacfbbe957a5fa38926bfddc0b.jpg?1446844074" /></a>
+</div>
+</div>
+<div class='big'>
+<div class='popup'>
+<a href='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/614/059/614059-ea215580f5de4ca1dcd4cad74cd5be78fb803ee0.png?1447091896'><img alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/614/059/614059-781ae2389d8b0bc690b40aac7336f0398a40ec98.jpg?1447091896" /></a>
+</div>
+</div>
+<div class='thumbs'>
+<div class='video_thumbnail'>
+</div>
+<ul class='screenshots'>
+<li class='screenshot popup' data-preview505='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/614/059/614059-781ae2389d8b0bc690b40aac7336f0398a40ec98.jpg?1447091896' data-src='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/614/059/614059-ea215580f5de4ca1dcd4cad74cd5be78fb803ee0.png?1447091896'>
+<a rel="nofollow" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/614/059/614059-ea215580f5de4ca1dcd4cad74cd5be78fb803ee0.png?1447091896"><img class="small" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/tiny/000/614/059/614059-38b07a6811c9942ab57306fe3876143567eb62f9.jpg?1447091896" /></a>
+</li>
+<li class='screenshot popup' data-preview505='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/612/985/612985-f0955bf088fe1b4166dab73c328979d949d7629f.jpg?1446843909' data-src='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/612/985/612985-f04d776285b443927269dac657f8e93f4fb48407.png?1446843909'>
+<a rel="nofollow" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/612/985/612985-f04d776285b443927269dac657f8e93f4fb48407.png?1446843909"><img class="small" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/tiny/000/612/985/612985-aa0ff18aeac77ba0cdc0f2ef524f50d41308a300.jpg?1446843909" /></a>
+</li>
+<li class='screenshot popup' data-preview505='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/612/986/612986-069a3fce97250941a432ae4d6ece8c5bf2bc8d6c.jpg?1446843945' data-src='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/612/986/612986-a9481cde8b312438815a6d2688f87cca24f57d22.png?1446843945'>
+<a rel="nofollow" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/612/986/612986-a9481cde8b312438815a6d2688f87cca24f57d22.png?1446843945"><img class="small" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/tiny/000/612/986/612986-bf689ea331ae4bdca5d8213be62787c3935f4850.jpg?1446843945" /></a>
+</li>
+<li class='screenshot popup' data-preview505='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/612/987/612987-014b50f830531cac0d8822b182ff15615f8bde95.jpg?1446843971' data-src='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/612/987/612987-43a3568dd58d17f1825386c671123d5851d664a1.png?1446843971'>
+<a rel="nofollow" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/612/987/612987-43a3568dd58d17f1825386c671123d5851d664a1.png?1446843971"><img class="small" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/tiny/000/612/987/612987-392b74e13150037a0b934c2752a8520ee04e0544.jpg?1446843971" /></a>
+</li>
+<li class='screenshot popup' data-preview505='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/612/988/612988-e1108430604914aacfbbe957a5fa38926bfddc0b.jpg?1446844074' data-src='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/612/988/612988-2bbba1f70986fa606f1059f70f9debba9a96ecec.jpg?1446844074'>
+<a rel="nofollow" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/612/988/612988-2bbba1f70986fa606f1059f70f9debba9a96ecec.jpg?1446844074"><img class="small" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/tiny/000/612/988/612988-320904cf180e56f1d93d63ca1b2c906c26091343.jpg?1446844074" /></a>
+</li>
+</ul>
+</div>
+<div class='mobile-video'>
+</div>
+<div class='video_no_embed'>
+</div>
+</div>
+</div></div>
+</div>
+<div class='s-vgTop2'></div>
+<div class='product_desc editable_region'>
+<div class='show'>
+<div class='content'>
+Looksharp is a recruiting platform dedicated to launching the career of every student. Employers use our enterprise products to showcase employment brand and streamline the recruiting process from start to finish.<br/><br/>We have a marketplace of 10M job-seeking college students and new grads annually, over 70% of the market. Blue chip customers like Facebook, Wells Fargo, HP, Disney, and more attract<span class="elipses">&hellip; &middot; </span><a class="hidden_more" href="javascript:void(0);">More</a><span class="hidden"> talent using a Company Profile with rich media, events, and testimonials. No longer confined by the costs of recruiting on campus, employers source from a vast network of talent—no travel required.<br/><br/>Employers also use Looksharp to manage their college recruiting workflow. They combine digital and campus recruiting, eliminating paper resumes with Looksharp Recruiter, our companion mobile app for campus events. They segment, analyze, and follow up with leads using our CRM.<br/><br/>Online and off, employers trust Looksharp to deliver high-quality candidates, significantly reducing time and cost to hire.</span>
+</div>
+</div>
+</div>
+
+</div></div>
+<a name='founders'></a>
+<h3 class='founders header'>
+Founders
+</h3>
+<div class='founders section'><div class="section with_filler with_editable_regions dsss17 startups-show-sections ffs70 founders _a _jm" data-id="917" data-_tn="startups/show/sections/founders"><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="larger" data-startup_id="917" data-role="founder" data-_tn="startup_roles/startup_profile_group"><ul class='larger roles'><li class='role' data-token='2Me'><div data-startup_role="{&quot;id&quot;:987,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:2095,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;founder&quot;,&quot;token&quot;:&quot;2Me&quot;,&quot;past?&quot;:false}" data-size="larger" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup larger top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="2095" href="https://angel.co/andrew-maguire"><img class="angel_image" alt="Andrew Maguire" src="https://d1qb2nb5cznatu.cloudfront.net/users/2095-medium_jpg?1405434652" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="2095" href="https://angel.co/andrew-maguire">Andrew Maguire</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Chief Executive Officer at <a href="https://angel.co/looksharp" class="at_mention_link" target="_blank" title="Looksharp" data-mention="true" data-type="Startup" data-id="917" data-slug_id="4560" data-name="looksharp"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Looksharp</span></a></p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='bFv'><div data-startup_role="{&quot;id&quot;:30931,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:25035,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;founder&quot;,&quot;token&quot;:&quot;bFv&quot;,&quot;past?&quot;:false}" data-size="larger" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup larger top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="25035" href="https://angel.co/nathan-parcells"><img class="angel_image" alt="Nathan Parcells" src="https://d1qb2nb5cznatu.cloudfront.net/users/25035-medium_jpg?1481853237" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="25035" href="https://angel.co/nathan-parcells">Nathan Parcells</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Founded Looksharp. Led growth from seed stage through Series A and beyond.</p></div>
+</div>
+</div>
+</div></li></ul>
+</div>
+
+</div></div>
+<a name='past_financing'></a>
+<h3 class='header past_financing'>
+Funding
+</h3>
+<div class='past_financing section'><div class="section dsss17 startups-show-sections fpg76 past_financing _a _jm" data-id="917" data-_tn="startups/show/sections/past_financing"><div data-id="917" class=" dsss17 startups-show-sections fss49 startup_rounds _a _jm" data-_tn="startups/show/sections/startup_rounds"><ul class='startup_rounds with_rounds'><li class='first not_editing startup_round'>
+<div data-id="105979" class=" dsr49 fpe53 _a _jm" data-_tn="startup_rounds/profile"><div class='show section'>
+<div class='g-sash green left'>
+<div class='copy'>Exit</div>
+</div>
+<div class='details inner_section'>
+<div class='header'>
+<div class='type'>
+Acquired
+by WayUp
+</div>
+<div class='date_display'>Feb 17, 2017</div>
+</div>
+<div class='raised unknown'>
+<a rel="nofollow" target="_blank" href="https://techcrunch.com/2017/02/17/wayup-acquires-looksharp/?ncid=rss">Unknown</a>
+</div>
+<a class="read_press" rel="nofollow" target="_blank" href="https://techcrunch.com/2017/02/17/wayup-acquires-looksharp/?ncid=rss">Read Press</a>
+</div>
+<div class='participant_list inner_section'>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="startup-link" title="WayUp" data-type="Startup" data-id="390194" href="https://angel.co/wayup"><img class="angel_image" alt="WayUp" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/390194-7630a8546c10e01fb129eac607d73dd1-medium_jpg.jpg?buster=1439831980" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="390194" href="https://angel.co/wayup">WayUp</a>
+</div>
+<div class='tags'>
+<a href="https://angel.co/new-york-ny-1">New York City</a>
+</div>
+</div>
+</div>
+</div>
+<div class='press'>
+<div class='host'>
+techcrunch.com
+</div>
+<div class='title'>
+<a target="_blank" rel="nofollow" href="https://techcrunch.com/2017/02/17/wayup-acquires-looksharp/?ncid=rss">Student job finder WayUp acquires competitor Looksharp</a>
+</div>
+<div class='snippet'>
+WayUp is making its first acquisition - it&#39;s buying the similarly focused Looksharp. Both companies have created job listing sites for college students...
+</div>
+</div>
+</div>
+</div>
+</li><li class='first not_editing startup_round'>
+<div data-id="51775" class=" dsr49 fpe53 _a _jm" data-_tn="startup_rounds/profile"><div class='show section'>
+<div class='details inner_section'>
+<div class='header'>
+<div class='type'>
+Series A
+</div>
+<div class='date_display'>Jun 11, 2013</div>
+</div>
+<div class='raised'>
+$4,000,000
+</div>
+</div>
+<div class='participant_list inner_section'>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="startup-link" title="ARTIS VENTURES (AV)" data-type="Startup" data-id="169320" href="https://angel.co/artisventures"><img class="angel_image" alt="ARTIS VENTURES (AV)" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/169320-28cd392f746405b97cd4190c8f84b923-medium_jpg.jpg?buster=1445558403" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="169320" href="https://angel.co/artisventures">ARTIS VENTURES (AV)</a>
+</div>
+<div class='tags'>
+<a href="https://angel.co/vc-3">VC Firm</a> &middot; <a href="https://angel.co/san-francisco">San Francisco</a>
+</div>
+</div>
+</div>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="startup-link" title="500 Startups" data-type="Startup" data-id="1124" href="https://angel.co/500startups"><img class="angel_image" alt="500 Startups" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/1124-9f04812061e2dcd37e24eeb20cf47e5c-medium_jpg.jpg?buster=1466480246" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="1124" href="https://angel.co/500startups">500 Startups</a>
+</div>
+<div class='tags'>
+<a href="https://angel.co/vc-3">VC Firm</a> &middot; <a href="https://angel.co/mountain-view-1">Mountain View</a>
+</div>
+</div>
+</div>
+</div>
+<a class="more_participants_link" href="javascript:void(0);">View all 5 investors from this round</a>
+</div>
+</div>
+</li><li class='first not_editing startup_round'>
+<div data-id="51776" class=" dsr49 fpe53 _a _jm" data-_tn="startup_rounds/profile"><div class='show section'>
+<div class='details inner_section'>
+<div class='header'>
+<div class='type unknown'>
+No Stage
+</div>
+<div class='date_display'>Jan 16, 2013</div>
+</div>
+<div class='raised'>
+$1,200,000
+</div>
+</div>
+<div class='participant_list inner_section'>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="startup-link" title="Dave McClure" data-type="Startup" data-id="88993" href="https://angel.co/dave-mcclure"><img class="angel_image" alt="Dave McClure" src="https://angel.co/images/shared/nopic_startup.png" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="88993" href="https://angel.co/dave-mcclure">Dave McClure</a>
+</div>
+<div class='tags'>
+
+</div>
+</div>
+</div>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="77" href="https://angel.co/mkapor"><img class="angel_image" alt="Mitch Kapor" src="https://d1qb2nb5cznatu.cloudfront.net/users/77-medium_jpg?1405432929" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="77" href="https://angel.co/mkapor">Mitch Kapor</a>
+</div>
+<div class='tags'>
+<a href="https://angel.co/oakland">Oakland</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li><li class='first not_editing startup_round'>
+<div data-id="51777" class=" dsr49 fpe53 _a _jm" data-_tn="startup_rounds/profile"><div class='show section'>
+<div class='details inner_section'>
+<div class='header'>
+<div class='type'>
+Series A
+</div>
+<div class='date_display'>Aug 21, 2012</div>
+</div>
+<div class='raised'>
+$1,600,000
+</div>
+</div>
+</div>
+</div>
+</li><li class='first not_editing startup_round'>
+<div data-id="29825" class=" dsr49 fpe53 _a _jm" data-_tn="startup_rounds/profile"><div class='show section'>
+<div class='details inner_section'>
+<div class='header'>
+<div class='type'>
+Seed
+</div>
+<div class='date_display'>May 15, 2012</div>
+</div>
+<div class='raised'>
+$1,200,000
+</div>
+</div>
+</div>
+</div>
+</li><li class='first not_editing startup_round'>
+<div data-id="10872" class=" dsr49 fpe53 _a _jm" data-_tn="startup_rounds/profile"><div class='show section'>
+<div class='details inner_section'>
+<div class='header'>
+<div class='type'>
+Seed
+</div>
+<div class='date_display'>Sep  7, 2011</div>
+</div>
+<div class='raised'>
+<a rel="nofollow" target="_blank" href="http://techcrunch.com/2011/09/07/internmatch-raises-500k-to-connect-students-with-internships/">$500,000</a>
+</div>
+<a class="read_press" rel="nofollow" target="_blank" href="http://techcrunch.com/2011/09/07/internmatch-raises-500k-to-connect-students-with-internships/">Read Press</a>
+</div>
+<div class='participant_list inner_section'>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="startup-link" title="500 Startups" data-type="Startup" data-id="1124" href="https://angel.co/500startups"><img class="angel_image" alt="500 Startups" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/1124-9f04812061e2dcd37e24eeb20cf47e5c-medium_jpg.jpg?buster=1466480246" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="1124" href="https://angel.co/500startups">500 Startups</a>
+</div>
+<div class='tags'>
+<a href="https://angel.co/vc-3">VC Firm</a> &middot; <a href="https://angel.co/mountain-view-1">Mountain View</a>
+</div>
+</div>
+</div>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="startup-link" title="Social Leverage" data-type="Startup" data-id="34173" href="https://angel.co/social-leverage"><img class="angel_image" alt="Social Leverage" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/34173-2badc7af37305ecf107b9ca79ad2e4eb-medium_jpg.jpg?buster=1466480865" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="34173" href="https://angel.co/social-leverage">Social Leverage</a>
+</div>
+<div class='tags'>
+<a href="https://angel.co/vc-3">VC Firm</a> &middot; <a href="https://angel.co/san-diego">San Diego</a>
+</div>
+</div>
+</div>
+</div>
+<a class="more_participants_link" href="javascript:void(0);">View all 4 investors from this round</a>
+<div class='press'>
+<div class='host'>
+techcrunch.com
+</div>
+<div class='title'>
+<a target="_blank" rel="nofollow" href="http://techcrunch.com/2011/09/07/internmatch-raises-500k-to-connect-students-with-internships/">InternMatch Raises $500K To Connect Students With Internships  |  TechCrunch</a>
+</div>
+<div class='snippet'>
+InternMatch, a 500 Startups-incubated company has raised $500,000 in funding from Netflix founder Marc Randolph, Roger Dickey, Angel Fund Social Leverage,...
+</div>
+</div>
+</div>
+</div>
+</li><li class='first not_editing startup_round'>
+<div data-id="10871" class=" dsr49 fpe53 _a _jm" data-_tn="startup_rounds/profile"><div class='show section'>
+<div class='details inner_section'>
+<div class='header'>
+<div class='type'>
+Seed
+</div>
+<div class='date_display'>Feb  1, 2011</div>
+</div>
+<div class='raised'>
+<a rel="nofollow" target="_blank" href="http://techcrunch.com/2011/02/02/internmatch-raises-400k-to-help-students-find-the-perfect-internship/">$400,000</a>
+</div>
+<a class="read_press" rel="nofollow" target="_blank" href="http://techcrunch.com/2011/02/02/internmatch-raises-400k-to-help-students-find-the-perfect-internship/">Read Press</a>
+</div>
+<div class='participant_list inner_section'>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="startup-link" title="Dave McClure" data-type="Startup" data-id="88993" href="https://angel.co/dave-mcclure"><img class="angel_image" alt="Dave McClure" src="https://angel.co/images/shared/nopic_startup.png" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="88993" href="https://angel.co/dave-mcclure">Dave McClure</a>
+</div>
+<div class='tags'>
+
+</div>
+</div>
+</div>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="216" href="https://angel.co/kennyvz"><img class="angel_image" alt="Kenny Van Zant" src="https://d1qb2nb5cznatu.cloudfront.net/users/216-medium_jpg?1405433092" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="216" href="https://angel.co/kennyvz">Kenny Van Zant</a>
+</div>
+<div class='tags'>
+<a href="https://angel.co/santa-barbara">Santa Barbara</a>
+</div>
+</div>
+</div>
+</div>
+<a class="more_participants_link" href="javascript:void(0);">View all 4 investors from this round</a>
+<div class='press'>
+<div class='host'>
+techcrunch.com
+</div>
+<div class='title'>
+<a target="_blank" rel="nofollow" href="http://techcrunch.com/2011/02/02/internmatch-raises-400k-to-help-students-find-the-perfect-internship/">InternMatch Raises $400K To Help Students Find The Perfect Internship  |  TechCrunch</a>
+</div>
+<div class='snippet'>
+Startup InternMatch has just raised $400,000 in angel funding from Dave McClure, Mitch Kapor, Kenny Van Zant, and Raj Agarwal.
+Part of the 500 Startups...
+</div>
+</div>
+</div>
+</div>
+</li><li class='first not_editing startup_round'>
+<div data-id="51778" class=" dsr49 fpe53 _a _jm" data-_tn="startup_rounds/profile"><div class='show section'>
+<div class='details inner_section'>
+<div class='header'>
+<div class='type unknown'>
+No Stage
+</div>
+<div class='date_display'>Oct 20, 2010</div>
+</div>
+<div class='raised'>
+$155,000
+</div>
+</div>
+</div>
+</div>
+</li></ul></div>
+<h4 class='subtitle' data-tips_selector='past_investors_section'>
+Investors
+<span class='detail'>from previous rounds</span>
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="917" data-role="past_investor" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='32f'><div data-startup_role="{&quot;id&quot;:1800,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:77,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;32f&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="77" href="https://angel.co/mkapor"><img class="angel_image" alt="Mitch Kapor" src="https://d1qb2nb5cznatu.cloudfront.net/users/77-medium_jpg?1405432929" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="77" href="https://angel.co/mkapor">Mitch Kapor</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Lotus Founder, from 0 to $200MM in 3 yrs. Co-founder EFF, founding Chair <a href="https://angel.co/mozilla" class="at_mention_link" target="_blank" title="Mozilla" data-mention="true" data-type="Startup" data-id="39119" data-slug_id="218142" data-name="mozilla"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Mozilla</span></a>. Investor: <a href="https://angel.co/twilio" class="at_mention_link" target="_blank" title="Twilio" data-mention="true" data-type="Startup" data-id="32509" data-slug_id="204915" data-name="twilio"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Twilio</span></a>, <a href="https://angel.co/uber" class="at_mention_link" target="_blank" title="Uber" data-mention="true" data-type="Startup" data-id="19163" data-slug_id="77863" data-name="uber"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Uber</span></a>, <a href="https://angel.co/classdojo" class="at_mention_link" target="_blank" title="ClassDojo" data-mention="true" data-type="Startup" data-id="58369" data-slug_id="256634" data-name="classdojo"><span class="at_mention_symbol">@</span><span class="at_mention_slug">ClassDojo</span></a> ,<a href="https://angel.co/clever" class="at_mention_link" target="_blank" title="Clever" data-mention="true" data-type="Startup" data-id="114426" data-slug_id="405023" data-name="clever"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Clever</span></a>, <a href="https://angel.co/optimizely" class="at_mention_link" target="_blank" title="Optimizely" data-mention="true" data-type="Startup" data-id="32998" data-slug_id="205892" data-name="optimizely"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Optimizely</span></a>,<a href="https://angel.co/formlabs" class="at_mention_link" target="_blank" title="Formlabs" data-mention="true" data-type="Startup" data-id="25991" data-slug_id="145119" data-name="formlabs"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Formlabs</span></a> </p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='bGD'><div data-startup_role="{&quot;id&quot;:30997,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:3516,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;bGD&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="3516" href="https://angel.co/marallo"><img class="angel_image" alt="Mike Edwards" src="https://d1qb2nb5cznatu.cloudfront.net/users/3516-medium_jpg?1405435699" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="3516" href="https://angel.co/marallo">Mike Edwards</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>CEO @ Creative Labs.</p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='bGE'><div data-startup_role="{&quot;id&quot;:30998,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:29604,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;bGE&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="29604" href="https://angel.co/hhulian"><img class="angel_image" alt="Hector Hulian" src="https://d1qb2nb5cznatu.cloudfront.net/users/29604-medium_jpg?1405459102" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="29604" href="https://angel.co/hhulian">Hector Hulian</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Entrepreneur, Investor and Internet Addict.</p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='c5n'><div data-startup_role="{&quot;id&quot;:32257,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:2288,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;c5n&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="2288" href="https://angel.co/mbrandolph"><img class="angel_image" alt="Marc Randolph" src="https://d1qb2nb5cznatu.cloudfront.net/users/2288-medium_jpg?1405434789" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="2288" href="https://angel.co/mbrandolph">Marc Randolph</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p><a href="https://angel.co/netflix" class="at_mention_link" target="_blank" title="Netflix" data-mention="true" data-type="Startup" data-id="33986" data-slug_id="207879" data-name="netflix"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Netflix</span></a> Co-founder.  Entrepreneur, Investor and Advisor</p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='pYp'><div data-startup_role="{&quot;id&quot;:75643,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:3975,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;pYp&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="3975" href="https://angel.co/jamesdlevine"><img class="angel_image" alt="James Levine" src="https://d1qb2nb5cznatu.cloudfront.net/users/3975-medium_jpg?1405436077" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="3975" href="https://angel.co/jamesdlevine">James Levine</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Mentor @ 500 Startups, previously CTO @ SimplyHired</p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='bM5'><div data-startup_role="{&quot;id&quot;:31254,&quot;tagged_type&quot;:&quot;Startup&quot;,&quot;tagged_id&quot;:1124,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;bM5&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="startup-link" title="500 Startups" data-type="Startup" data-id="1124" href="https://angel.co/500startups"><img class="angel_image" alt="500 Startups" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/1124-9f04812061e2dcd37e24eeb20cf47e5c-medium_jpg.jpg?buster=1466480246" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="1124" href="https://angel.co/500startups">500 Startups</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>500 Startups is a seed fund &amp; a network of startup programs in Silicon Valley</p></div>
+</div>
+</div>
+</div></li></ul>
+<a class="view_all" href="/startup_roles?role=past_investor&amp;startup_id=917">View all 38 Past Investors</a>
+</div></div>
+<h4 class='subtitle'>Incubator</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="917" data-role="incubator" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='9Xa'><div data-startup_role="{&quot;id&quot;:25111,&quot;tagged_type&quot;:&quot;Startup&quot;,&quot;tagged_id&quot;:1124,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;incubator&quot;,&quot;token&quot;:&quot;9Xa&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="startup-link" title="500 Startups" data-type="Startup" data-id="1124" href="https://angel.co/500startups"><img class="angel_image" alt="500 Startups" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/1124-9f04812061e2dcd37e24eeb20cf47e5c-medium_jpg.jpg?buster=1466480246" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="1124" href="https://angel.co/500startups">500 Startups</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>500 Startups is a seed fund &amp; a network of startup programs in Silicon Valley</p></div>
+</div>
+</div>
+</div></li></ul>
+</div></div>
+</div></div>
+<a name='team'></a>
+<h3 class='header team'>
+Team
+</h3>
+<div class='section team'><div class="section dsss17 startups-show-sections ftm23 team _a _jm" data-_tn="startups/show/sections/team"><a name='employees_section'></a>
+<h4 class='subtitle' data-tips_selector='employees_section'>
+Employees
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="917" data-role="employee" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='2BwS'><div data-startup_role="{&quot;id&quot;:309642,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:160875,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;employee&quot;,&quot;token&quot;:&quot;2BwS&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="160875" href="https://angel.co/raphaelcm"><img class="angel_image" alt="Raphael Crawford-Marks" src="https://d1qb2nb5cznatu.cloudfront.net/users/160875-medium_jpg?1483995482" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="160875" href="https://angel.co/raphaelcm">Raphael Crawford-Marks</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Founder <a href="https://angel.co/bonusly" class="at_mention_link" target="_blank" title="Bonusly" data-mention="true" data-type="Startup" data-id="198145" data-slug_id="635641" data-name="bonusly"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Bonusly</span></a> • Worked at <a href="https://angel.co/looksharp" class="at_mention_link" target="_blank" title="Looksharp" data-mention="true" data-type="Startup" data-id="917" data-slug_id="4560" data-name="looksharp"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Looksharp</span></a>, <a href="https://angel.co/squaretrade" class="at_mention_link" target="_blank" title="SquareTrade" data-mention="true" data-type="Startup" data-id="61843" data-slug_id="263578" data-name="squaretrade"><span class="at_mention_symbol">@</span><span class="at_mention_slug">SquareTrade</span></a> • Studied at <a href="https://angel.co/hampshire-college" class="at_mention_link" target="_blank"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Hampshire College</span></a></p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='56Rd'><div data-startup_role="{&quot;id&quot;:795122,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:45623,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;employee&quot;,&quot;token&quot;:&quot;56Rd&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="45623" href="https://angel.co/fynn-glover"><img class="angel_image" alt="Fynn Glover" src="https://d1qb2nb5cznatu.cloudfront.net/users/45623-medium_jpg?1405469401" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="45623" href="https://angel.co/fynn-glover">Fynn Glover</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Founder RootsRated, <a href="https://angel.co/rootsrated-media" class="at_mention_link" target="_blank" title="RootsRated Media" data-mention="true" data-type="Startup" data-id="149140" data-slug_id="498066" data-name="rootsrated-media"><span class="at_mention_symbol">@</span><span class="at_mention_slug">RootsRated Media</span></a> • Worked at <a href="https://angel.co/looksharp" class="at_mention_link" target="_blank" title="Looksharp" data-mention="true" data-type="Startup" data-id="917" data-slug_id="4560" data-name="looksharp"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Looksharp</span></a> • Studied at <a href="https://angel.co/university-of-richmond" class="at_mention_link" target="_blank"><span class="at_mention_symbol">@</span><span class="at_mention_slug">University of Richmond</span></a></p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='hPQ3'><div data-startup_role="{&quot;id&quot;:3277686,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:1695865,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;employee&quot;,&quot;token&quot;:&quot;hPQ3&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="1695865" href="https://angel.co/jakehaim"><img class="angel_image" alt="Jake Haim" src="https://d1qb2nb5cznatu.cloudfront.net/users/1695865-medium_jpg?1456005556" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="1695865" href="https://angel.co/jakehaim">Jake Haim</a>
+</div>
+<div class='role_title'>Director of Finance</div>
+<div class='bio'><p></p></div>
+</div>
+</div>
+</div></li></ul>
+<a class="view_all" href="/startup_roles?role=employee&amp;startup_id=917">View all 4 Employees</a>
+</div></div>
+<a name='past_employees_section'></a>
+<h4 class='subtitle' data-tips_selector='past_employees_section'>
+Past Employees
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="917" data-role="past_employee" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='2zFC'><div data-startup_role="{&quot;id&quot;:303422,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:51306,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;employee&quot;,&quot;token&quot;:&quot;2zFC&quot;,&quot;past?&quot;:true}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="51306" href="https://angel.co/thomas-martino"><img class="angel_image" alt="Thomas Martino" src="https://d1qb2nb5cznatu.cloudfront.net/users/51306-medium_jpg?1405471041" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="51306" href="https://angel.co/thomas-martino">Thomas Martino</a>
+</div>
+<div class='role_title'>Director of Marketing</div>
+<div class='bio'><p>Growth Marketer | Growth Lead <a href="https://angel.co/tradecraft" class="at_mention_link" target="_blank" title="Tradecraft" data-mention="true" data-type="Startup" data-id="295108" data-slug_id="918551" data-name="tradecraft"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Tradecraft</span></a> | Former Head of Growth <a href="https://angel.co/pley" class="at_mention_link" target="_blank" title="Pley" data-mention="true" data-type="Startup" data-id="206620" data-slug_id="658844" data-name="pley"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Pley</span></a> <a href="https://angel.co/looksharp" class="at_mention_link" target="_blank" title="Looksharp" data-mention="true" data-type="Startup" data-id="917" data-slug_id="4560" data-name="looksharp"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Looksharp</span></a> / <a href="https://angel.co/looksharp" class="at_mention_link" target="_blank" title="Looksharp" data-mention="true" data-type="Startup" data-id="917" data-slug_id="4560" data-name="looksharp"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Looksharp</span></a>  | Growth Consultant &amp; Speaker | HTML CSS SQL | Data Lover</p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='34NF'><div data-startup_role="{&quot;id&quot;:398023,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:45484,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;employee&quot;,&quot;token&quot;:&quot;34NF&quot;,&quot;past?&quot;:true}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="45484" href="https://angel.co/rgarver"><img class="angel_image" alt="Ryan Garver" src="https://d1qb2nb5cznatu.cloudfront.net/users/45484-medium_jpg?1405469754" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="45484" href="https://angel.co/rgarver">Ryan Garver</a>
+<div class='via-tag tiptip' title='Hired on AngelList'>Via</div>
+</div>
+<div class='role_title'>CTO</div>
+<div class='bio'><p>CTO at <a href="https://angel.co/looksharp" class="at_mention_link" target="_blank" title="Looksharp" data-mention="true" data-type="Startup" data-id="917" data-slug_id="4560" data-name="looksharp"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Looksharp</span></a>, <a href="https://angel.co/profounder" class="at_mention_link" target="_blank" title="ProFounder" data-mention="true" data-type="Startup" data-id="32623" data-slug_id="205143" data-name="profounder"><span class="at_mention_symbol">@</span><span class="at_mention_slug">ProFounder</span></a>, &amp; others. Serial technical leader. Specializing in early to growth stage startups.</p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='57dW'><div data-startup_role="{&quot;id&quot;:796382,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:24339,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;employee&quot;,&quot;token&quot;:&quot;57dW&quot;,&quot;past?&quot;:true}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="24339" href="https://angel.co/rahilsondhi"><img class="angel_image" alt="Rahil Sondhi" src="https://d1qb2nb5cznatu.cloudfront.net/users/24339-medium_jpg?1488924909" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="24339" href="https://angel.co/rahilsondhi">Rahil Sondhi</a>
+</div>
+<div class='role_title'>Software Engineer</div>
+<div class='bio'><p>Software Engineer <a href="https://angel.co/instacart" class="at_mention_link" target="_blank" title="Instacart" data-mention="true" data-type="Startup" data-id="131716" data-slug_id="452495" data-name="instacart"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Instacart</span></a> </p></div>
+</div>
+</div>
+</div></li></ul>
+</div></div>
+<a name='advisors_section'></a>
+<h4 class='subtitle' data-tips_selector='advisors_section'>
+Advisors
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="917" data-role="advisor" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='MJ8'><div data-startup_role="{&quot;id&quot;:148823,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:60295,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;advisor&quot;,&quot;token&quot;:&quot;MJ8&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="60295" href="https://angel.co/colin-axi-us"><img class="angel_image" alt="Colin Barceloux" src="https://d1qb2nb5cznatu.cloudfront.net/users/60295-medium_jpg?1438643926" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="60295" href="https://angel.co/colin-axi-us">Colin Barceloux</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Founder <a href="https://angel.co/bookrenter" class="at_mention_link" target="_blank" title="BookRenter" data-mention="true" data-type="Startup" data-id="36326" data-slug_id="212563" data-name="bookrenter"><span class="at_mention_symbol">@</span><span class="at_mention_slug">BookRenter</span></a> <a href="https://angel.co/techmate" class="at_mention_link" target="_blank" title="Techmate" data-mention="true" data-type="Startup" data-id="1380611" data-slug_id="4698366" data-name="techmate"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Techmate</span></a> <a href="https://angel.co/axius" class="at_mention_link" target="_blank" title="Axius" data-mention="true" data-type="Startup" data-id="3840158" data-slug_id="10843427" data-name="axius"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Axius</span></a> 
+<br />MIS <a href="https://angel.co/santa-clara-university-1" class="at_mention_link" target="_blank" title="Santa Clara University" data-mention="true" data-type="Startup" data-id="143579" data-slug_id="484189" data-name="santa-clara-university-1"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Santa Clara University</span></a> 
+<br />MBA <a href="https://angel.co/stanford-graduate-school-of-business-1" class="at_mention_link" target="_blank" title="Stanford Graduate School of Business" data-mention="true" data-type="Startup" data-id="64401" data-slug_id="269520" data-name="stanford-graduate-school-of-business-1"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Stanford Graduate School of Business</span></a></p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='35DZ'><div data-startup_role="{&quot;id&quot;:400883,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:70064,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;advisor&quot;,&quot;token&quot;:&quot;35DZ&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="70064" href="https://angel.co/sehann"><img class="angel_image" alt="Scott Hannan" src="https://d1qb2nb5cznatu.cloudfront.net/users/70064-medium_jpg?1405477483" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="70064" href="https://angel.co/sehann">Scott Hannan</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>12 years in the mobile space, GM at Mobileway (acquired by Sybase), VP Bus Dev at Pelago (acquired by Groupon), founder of Rel8tion (acquired by Facebook).</p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='4oLb'><div data-startup_role="{&quot;id&quot;:656906,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:36907,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;advisor&quot;,&quot;token&quot;:&quot;4oLb&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="36907" href="https://angel.co/paul-willard"><img class="angel_image" alt="Paul Willard" src="https://d1qb2nb5cznatu.cloudfront.net/users/36907-medium_jpg?1405465303" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="36907" href="https://angel.co/paul-willard">Paul Willard</a>
+</div>
+<div class='role_title'></div>
+<div class='comment'>In addition to a great market space to attack, this management team is so committed to success and so great to work with.  I can't stop having fun.</div>
+</div>
+</div>
+</div></li></ul>
+<a class="view_all" href="/startup_roles?role=advisor&amp;startup_id=917">View all 5 Advisors</a>
+</div></div>
+<a name='attorneys_section'></a>
+<h4 class='subtitle' data-tips_selector='attorneys_section'>
+Attorneys
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="917" data-role="attorney" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='2BwT'><div data-startup_role="{&quot;id&quot;:309643,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:160883,&quot;startup_id&quot;:917,&quot;role&quot;:&quot;attorney&quot;,&quot;token&quot;:&quot;2BwT&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="160883" href="https://angel.co/ccarter358"><img class="angel_image" alt="Charlie Carter" src="https://d1qb2nb5cznatu.cloudfront.net/users/160883-medium_jpg?1405538210" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="160883" href="https://angel.co/ccarter358">Charlie Carter</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Studied at <a href="https://angel.co/columbia-university" class="at_mention_link" target="_blank"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Columbia University</span></a>, University of Washington</p></div>
+</div>
+</div>
+</div></li></ul>
+</div></div>
+</div></div>
+</div>
+</div>
+<div class='sidebar pane s-flexgrid0-colMd s-flexgrid0--width7 s-flexgrid0--header s-vgPadLeft1'><div class="show customized_sections dss98 startups-show fsr30 sidebar _a _jm" data-id="917" data-current_action="show" data-actions="[&quot;show&quot;]" data-default_sections="[&quot;startups/show/sections/jobs&quot;,&quot;startups/show/sections/in_search_of&quot;,&quot;startups/show/sections/similar_profiles&quot;]" data-per_action_sections="{&quot;show&quot;:[&quot;startups/show/sections/jobs&quot;,&quot;startups/show/sections/in_search_of&quot;,&quot;startups/show/sections/similar_profiles&quot;],&quot;syndicate&quot;:false,&quot;embed&quot;:false,&quot;activity&quot;:[&quot;startups/show/sections/jobs&quot;,&quot;startups/show/sections/in_search_of&quot;],&quot;post_close_hub&quot;:[&quot;startups/show/sections/post_close_hub_examples&quot;,&quot;startups/show/sections/investments&quot;,&quot;startups/show/sections/post_close_hub_tools&quot;],&quot;views&quot;:false}" data-titles="{&quot;startups/show/sections/jobs&quot;:&quot;Jobs&quot;,&quot;startups/show/sections/in_search_of&quot;:&quot;Freelance Opportunities&quot;,&quot;startups/show/sections/similar_profiles&quot;:&quot;People also viewed&quot;,&quot;startups/show/sections/post_close_hub_examples&quot;:&quot;Examples&quot;,&quot;startups/show/sections/investments&quot;:&quot;You Invested &lt;i class=\&quot;fontello-ok\&quot;&gt;&lt;/i&gt;&quot;,&quot;startups/show/sections/post_close_hub_tools&quot;:&quot;Tools&quot;}" data-_tn="startups/show/sidebar"><div class='section_container' data-section='startups/show/sections/jobs'><div class='header jobs'>Jobs</div><div class='jobs section'><div class="section dsss17 startups-show-sections fjs30 jobs _a _jm" data-startup_id="917" data-non_recruiting="true" data-_tn="startups/show/sections/jobs"><div class='section_content'>
+<div class='no_jobs'>
+Looksharp
+hasn't added any jobs yet.
+</div>
+<div class='actions'>
+<div class='details-button job-section-button'>
+<div class=" djl87 job_listings fan13 apply_button _a _jm" data-startup_id="917" data-startup_name="Looksharp" data-startup-hiring="false" data-logged-in="false" data-startup="looksharp" data-source="startup_jobs_module" data-_tn="job_listings/apply_button"><div class='js-success u-hidden'>
+<div class='buttons'>
+<a class='alternate c-button c-button--full-width c-button--gray u-fontWeight600' href='javascript:void(0);'>
+<span class='fontello-ok' style='font-size: 0.9em'></span>
+Notification Set
+</a>
+</div>
+</div>
+<div class='js-qualifications-dropdown u-hidden qualifications-dropdown'></div>
+<div class='buttons js-apply applicant-flow-dropdown'>
+<a class="c-button c-button--blue c-button--full-width   js-interested-button" href="javascript:void(0);">Get Notified</a>
+<div class='dropdown-align--left dropdown-menu job-dropdown-menu js-dropdown u-hidden' data-force-note='' data-source='startup_jobs_module' data-startup-id='917'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-width--lg'>
+<div class='u-textAlignLeft'>
+<div class='job-listings js-job-listings js-step'>
+<div class='dropdown-item dropdown-title u-fontSize14 u-fontWeight500'>
+Which position are you applying for?
+</div>
+<ul>
+</ul>
+</div>
+<div class='hide js-step js-user-note s-form'>
+<div class='dropdown-item dropdown-title u-fontSize14 u-fontWeight500'>
+Add a message to Looksharp
+</div>
+<textarea class='autogrow user-note-textarea u-fontSize14 u-colorGray6 u-block' max_length='1000' placeholder='(optional) Write a note to Andrew Maguire at Looksharp. What excites you about Looksharp? Why would you be a good fit?'></textarea>
+<button class='apply-button c-button c-button--blue s-vgTop0_5 s-vgRight1 u-floatRight js-apply-button'>
+Apply
+</button>
+<div class='cb'></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='js-notify-me-modal u-hidden mfp-hide'>
+<div class='lightbox-content popover'>
+<div class='title s-vgBottom1'>
+<h3 class='s-h3'>Notify Me When Looksharp Lists Jobs</h3>
+</div>
+<div class='s-form'>
+<div class='input'>
+<input type="text" name="email" id="email" value="" placeholder="example@you.com" class="js-email" />
+</div>
+<div class='js-errors hidden'></div>
+<div class='buttons'>
+<button class='c-button c-button--blue s-vgTop1 u-block js-set-notification-button'>
+Create Notification
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='details-button job-section-button'>
+<a class='g-button js-similar-jobs-button' href='/san-francisco/education/jobs'>
+See Similar Jobs
+</a>
+</div>
+</div>
+<div class='footer-actions'><a class="details" href="https://angel.co/looksharp/jobs">View jobs page</a></div>
+<div class='cb'></div>
+</div>
+</div></div>
+</div>
+<div class='section_container u-hiddenSmOnly' data-section='startups/show/sections/similar_profiles'><div class='header similar_profiles'>People also viewed</div><div class='section similar_profiles'><div class="u-hiddenSmOnly dsss17 startups-show-sections fss16 similar_profiles _a _jm" data-_tn="startups/show/sections/similar_profiles"><div class='c-inset u-bgWhite s-vgBottom1_5'>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="AngelList" data-type="Startup" data-id="6702" href="https://angel.co/angellist?src=rec"><img class="angel_image" alt="AngelList" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/6702-766d1ce00c99ce9a5cbc19d0c87a436e-medium_jpg.jpg?buster=1367604615" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="6702" href="https://angel.co/angellist?src=rec">AngelList</a></div>
+<div class='u-fontWeight200 u-colorGray8'>A platform for startups</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Forkable" data-type="Startup" data-id="251699" href="https://angel.co/forkable?src=rec"><img class="angel_image" alt="Forkable" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/251699-1b3c254e4b62dda6da97518fdad262a1-medium_jpg.jpg?buster=1448319402" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="251699" href="https://angel.co/forkable?src=rec">Forkable</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Automatic Lunch</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Brilliant" data-type="Startup" data-id="2280" href="https://angel.co/brilliant?src=rec"><img class="angel_image" alt="Brilliant" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/2280-5a63da350d219886a1957cb546caec61-medium_jpg.jpg?buster=1399753868" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="2280" href="https://angel.co/brilliant?src=rec">Brilliant</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Excel in math and science</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="StartupDigest" data-type="Startup" data-id="815" href="https://angel.co/startupdigest?src=rec"><img class="angel_image" alt="StartupDigest" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/815-b42c45292e6591f3a9920ba1de3da2ca-medium_jpg.jpg?buster=1315770812" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="815" href="https://angel.co/startupdigest?src=rec">StartupDigest</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Meet people and learn more in the...</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Springboard" data-type="Startup" data-id="270431" href="https://angel.co/springboard?src=rec"><img class="angel_image" alt="Springboard" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/270431-8e9451e1ad3372c78ccf005fa4b5f6c1-medium_jpg.jpg?buster=1496181622" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="270431" href="https://angel.co/springboard?src=rec">Springboard</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Making online learning human,...</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Clever" data-type="Startup" data-id="114426" href="https://angel.co/clever?src=rec"><img class="angel_image" alt="Clever" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/114426-35f998fe322ec70969f2c3c932b2caf3-medium_jpg.jpg?buster=1495226725" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="114426" href="https://angel.co/clever?src=rec">Clever</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Online Learning Platform Used in Over...</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Elevate" data-type="Startup" data-id="1023" href="https://angel.co/elevate-3?src=rec"><img class="angel_image" alt="Elevate" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/1023-0e4f9d4a79828f0964a70720d695d2d7-medium_jpg.jpg?buster=1483054123" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="1023" href="https://angel.co/elevate-3?src=rec">Elevate</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Game-based cognitive training</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Pinterest" data-type="Startup" data-id="281" href="https://angel.co/pinterest?src=rec"><img class="angel_image" alt="Pinterest" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/281-b4cb685d7b58fc51f60794ec6db2608d-medium_jpg.jpg?buster=1431023407" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="281" href="https://angel.co/pinterest?src=rec">Pinterest</a></div>
+<div class='u-fontWeight200 u-colorGray8'>A Universal Social Catalog</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+
+</div>
+<div id='root_footer'></div>
+</div><div id="footer" class=" centered dark  dl85 layouts ffr55 footer _a _jm" data-_tn="layouts/footer"><div class="u-colorGray9 s-fontWeight300 u-fontSize12 u-textAlignCenter u-textShadowWhite s-grid0 s-grid0--outer u-maxWidthLayout dl85 layouts ffs95 footer_links _a _jm" data-_tn="layouts/footer_links"><div class='links'>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/help">Help</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/companies/a">Companies</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/jobs/locations">Jobs by Location</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/jobs/markets">Jobs by Market</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a rel="" class="s-vgRight0_5 u-uncoloredLink" href="https://blog.angel.co">Blog</a>
+<a class="s-vgRight0_5 u-uncoloredLink" rel="nofollow" href="http://twitter.com/angellist">Twitter</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/terms">Terms &amp; Risks</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/unsubscribe">Unsubscribe</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<span class='tiptip' title='AngelList is not responsible for the contents of this profile. Do your own diligence.'>
+Profile not verified
+</span>
+</div>
+
+</div>
+</div>
+
+<div id='fb-root'></div>
+</body>
+</html>
+
+
+

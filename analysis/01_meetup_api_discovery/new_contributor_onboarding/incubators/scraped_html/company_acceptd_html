@@ -1,0 +1,1023 @@
+<!DOCTYPE html>
+<html class='notranslate no-js scheme-lighter_gray_backdrop ml no-ms no-mm size-large responsive' xmlns:fb='http://ogp.me/ns/fb#'>
+<head>
+<title>Acceptd | AngelList</title>
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="MntpR7Pl6I1GwFUr+BHBTfQScdhU0B8xB/Ows7iJFv0GPkkMPxr8lTYwE1rxdxGkYzG66djaQJ/b4GxHkJrTRA==" />
+<!--
+IJNUC1AI5TLbl3dc1fgyxLQ4X7n0Md+hyR/lUUvhjS+JRt+g4etYoOXoX10XwftO5xVdOp3eQFrzwka1hFtnad1AIJF9FX5wpyu6ZbuODkucFxJtrlBK7x2w7wbEtL01t8R3BUaVmnrknbLHaxkEaJMaNL9kVa0KzTIBfeyg3KD9v7VQ0lGNretbq6DX9C3TW++JncNpLNvXCtNzRnGXcsJB1OFIx45XqwvgRsNGoo9NFvjf2hilAqk6xXRLjx7KTiodKVn1lRwHTQ05u75uKlUyNEC0GHiWHOTel5oB/TgXG0Irz+v+poo9hrk19Y1kIc+b+mFuAercwFZ1mK7ZtyiwENQEtuZpif6W9vbbqh5AksX43XJyVvkGvrvwMMjdN8RqG+mB6eIPOC8uS7Sutv8VcHtG58ZFZ/4r4qsMXa0ci/FhUqFBilIO2qMaxrQwZEp8fVqlTExTTrMP+RmxtIhwZqT/ly/W0ZcTH4dTFoCxrFI7/OnYCv3+vEqCSAwHFE1OFeFW0dW0x3iuPou3olVE8yhsqRY/X38IuPYda0/0/DNjzRzEa6K0Gb+uxVU5COJzc/3/41z3ek+C+C0s3wt2hSY8+GoCZZijaiXz2FjZkHxApfsuFMk2jok8U3gXaBv2DFxzKNN1sTBABdWvi6goVc5KRbqW/A6ZhP+3C0hiTil6we95XxWSUe0v47eaXEtQnsucI9trJ0GdYIZXgNx40rGTRSmjEFBFZd7tLE10bVRRdQyfUytJpeqTzMMqsM5EI56Jv4+BSxRJgbKs5yHk+rQEJvvaMG1mR4uN4SlVMRgR8DMC3k0fX0vDsOU1PCIRbZ1ZWCrRrdxJPR4dLHMDkMWp1IWKOX92pBLKq/Bdi+zWtMcLq3RqDfaOLFFsA/h4aNfyKYTOhnbocr44BNTz9OQVrJxrXP80k8SBoNMzL6ZkY1/EWkJLhJSpJ6XuwkRjL4uYBnmVWuszRrL2kknmqIZCFapyFH1rZ8CwTwiOpUNv5c+tTPlQx04Zs/3d969kUR8LbimyehK3cJy6kYpEXAV0DC5Ym0ETVuiAUVcLcjOUWHOnlSfH2yUpjbaz3yqx5skgHj7wLPceeUvYcZDrONo7b84Yu7ChNzErWZtxWaZIt8p3vziGlS4cUPHov1SMIieV7yzArPEDjQU0gZEp8ylqdWP7xlaNXkoFmx9zwaz11iWynxVxrqP76BHq4DrWMTNkDcR1MfS3aWWh8bKaP57Bje6RSFN9hEqi0N8FNI4Su6ygeVTfgYjeTLs8//ewE/SLRrpmnFA7+u1+wTrf/kKX1BxVCihJrhPPWgePZWqtG2P5OpD5wjQHEP9pQ8oBSgQ6anCaBNYBPAV+LaedjzryRnFZNGuAej7jG7KF3sFyHdef5bviBedvfMxE+imzYw0po0NbrwgGEkTdv1S4cuWk4BckSmBTb2NG5mwrPTjnttBnsx068gQB9PS7i8WQhVZPWrdK7QSRwsUPDwHPq+mZ6NoRw7lJDw/NqLIoBCSeNpgaTk0SXOCg8JzZbSLHHpoFFRsBNBU1/kRcJJJhQ9NTSlmD60UYi9GIT0qBGEtA3GVyHzbc/l3O1B/pp5dSB2u7hYHiMSHyUh+YAHMChqbjJZURvaKcbAbdQoWiOkzZHJrNbeERUM5hfeHfJlfy5E/u/yuX6Cs26JGl2BDWwyd7nQSmgHKuSxBChjoQnJ35r1kbEhxP57WnKqgqz86JuAPhwtn3xaQ9WWhiBoIP1QwVGa0MBjwn4tKxgPt0e69fJuPcPC+CmRVdJF6g70gE0lq6A8WQEavVdplyvbu4YXxS7Qux4yqY0cX+TRwrBnKfNIoVIoQiKhhVVWqRlDW5KHnuWNQXbhectNxEJtzypJB1FUiUSMzCaXCyBRhbif6XfmvwVCGJJXV53oUGluppqspryt7g4X8XooLdXjrGOeUxFPUvpoRkDMrGT5PyTiFUEam2jqJZ1aGJnHPZ334GL0CBjGrt3qcIin+RNqPPYBs4mJ/JamTvMdHsDUxF0PTimDTzPJzdPNF00M2mPVoCEQO1vUtn1ivmC7X1JdurPV0S0HxDIFk9sO0n1SLUK4gdW6okJz+uFJQun80WmOxsTSLI7lb3zPYdvVYWsuU9GbUMg8GmGMaVQZiNdg5g5X4idHE2nNn26Wab3+WAMCcH4+PZBGWhImKIbt63B9ysOs+VFZQOO19nYT3z3322nNgE5GtQ3mBitKonv9e6+Aq1DtB4dR+q28ALIIKVXBeHYdexpCpVGkSAGQO57c+X0W9hYxy0jqAn/msVsPAuTr1hH+wn
+-->
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'>
+<meta content='en_US' http-equiv='Content-Language'>
+<meta content='c2y_K2CiLmGeet7GUQc9e3RVGp_gCOxUC4IdJg_RBVo' name='google-site-verification'>
+<meta content='00bd751d25bdb494779b40bedece7089' name='detectify-verification'>
+<meta content='initial-scale=1.0,maximum-scale=2.0,width=device-width' name='viewport'>
+<meta content='notranslate' name='google'>
+<meta content='Acceptd - Arts Application &amp; Recruitment Marketplace - View company info, team members, fundraising and more' name='description'>
+<meta content='noarchive' name='robots'>
+<link href='https://angel.co/acceptd' rel='canonical'>
+<meta content='https://d1qb2nb5cznatu.cloudfront.net/startups/i/133842-78b5c247910a41abc1be9471fef51ad5-thumb_jpg.jpg?buster=1392393674' property='og:image'>
+<meta content='Acceptd' property='og:title'>
+<meta content='Acceptd - Arts Application &amp; Recruitment Marketplace - View company info, team members, fundraising and more' property='og:description'>
+<meta content='https://angel.co/acceptd' property='og:url'>
+<meta content='angellist' name='twitter:site'>
+<meta content='Acceptd - Arts Application &amp; Recruitment Marketplace' name='twitter:title'>
+<meta content='angel.co' name='twitter:domain'>
+<meta content='Acceptd - Arts Application &amp; Recruitment Marketplace - View company info, team members, fundraising and more' name='twitter:description'>
+<meta content='https://d1qb2nb5cznatu.cloudfront.net/startups/i/133842-78b5c247910a41abc1be9471fef51ad5-medium_jpg.jpg?buster=1392393674' name='twitter:image:src'>
+<meta content='product' name='twitter:card'>
+<meta content='FOUNDER' name='twitter:label1'>
+<meta content='Don Hunter' name='twitter:data1'>
+<meta content='TEAM' name='twitter:label2'>
+<meta content='Founded Acceptd' name='twitter:data2'>
+
+<link href='//assets.angel.co/assets/icons/angellist-e1decb2fb69dc221e2dd4ad5f749797e28b3e9e92957e0f161b8e64d5a8a74c8.ico' rel='shortcut icon'>
+<link href='/images/icons/iOS/Icon.png' rel='apple-touch-icon-precomposed' sizes='57x57'>
+<link href='/images/icons/iOS/Icon-72.png' rel='apple-touch-icon-precomposed' sizes='72x72'>
+<link href='/images/icons/iOS/Icon@2x.png' rel='apple-touch-icon-precomposed' sizes='114x114'>
+<link href='/images/icons/iOS/Icon-72@2x.png' rel='apple-touch-icon-precomposed' sizes='144x144'>
+
+<link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.g.application0-22ed6f69f455e9894027aeb071e5f678.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.g.application1-6234e3ddb9b06c341d820c9fecb426d4.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.admin-216b428508a3b1815691d6d41ec2927c.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.angel_profiles-7d9af9b27287899d820727983d30049a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.closings-439798ac5469bfbfe748e3dae8fd4492.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.companies-f88176545f07def6cd7527db86e16483.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.follows-ea0cd8fa110929cf29575e967272dfed.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fund_campaigns-66d198d400ee816d04418d0999c86af7.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.funding_rounds-75894cbd96b33dd8ebc38a46381bcb4d.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fundraising-38c4ab481b2bc7b8cc422236888bfa51.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.fundraising_campaigns-59521b4fdf1787344530788431f2da16.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.home-8a662f0685b39d18f5fd4ff4b7a7f677.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.incubator_administrators-df26943c9d6e72640c7afe5c840cae35.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_listing_showcase-ee242ec721d85dbfdcf39d58fd7e18b1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_listings-34788d616970942fbe122f9ebef36996.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_pairings-1a0e77ccf3378e20fc17b4c807832036.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.job_profile_signup-cd35c129f5fca74c4d0b79e669a0080a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.layouts-935af14c17de1324fd124322eaacae14.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.messages-b31a83501f010acf74cadce64cbf20a3.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_posts-f3fd4a6d1c8db28df4c13cc928f45fef.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_taggings-329d0d35099da8a5922d5e4eef40f02a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.new_tags-509f6e8a41b23b6cd37a1174dca6f4d5.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.onboarding-d98f82475ce9b5a651d6a24d91018a78.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.paths-9520b1cda7b731be6d0923b9c57e7c55.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.people-e2632e256c33c05b3cd313f8cfc625fc.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profile_flaggings-ddd19e885192e4560f6f7f35dcbd4b69.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profile_transaction_listings-d7b86ffd3c0c278550868c68ee83be79.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.profiles-5fba6d565832e28be5419b6412073ab1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.program_applications-96262d89c322e1b7fe54401f4843e56e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.programs-7458ffa6bad61b3d8ae55d74da52f3d2.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.projects-1d49de599cee97c030d30d210a5eb3e1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.qa-25edb3ccd35cfc2d12b5476e4a3a01e1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.reviews-2da4057e5e52f66eab9f2e6ce2b70bba.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.screenshots-d7349598409c1f85776bdcfaedb8d3ab.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.sessions-5da1bdc7d6768cf45099bb920e066681.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.settings-52b9c88fe27eb65e32005624842c707e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.shared-e411a216cda70bdb8820d096c1dba2a1.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.social-5da48eb7577c4628095d5d9c9d2cbd32.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_intros-e1eb2c0feb137b283c6270973e22ba4e.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_roles-8fdf53d155560dc58e65d75a2b8d21d0.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startup_rounds-fe188c9d18bf5ab371d8c67709785a5a.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.startups-fbb0ab18bcae14012b079baf4cc5cc74.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.syndicates-9c2246b04f09a862c6ac6cbdb7377a40.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.tags-207bbefa797190c0a7d577055225f847.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.transaction_feed-e165d0e88d499b872d6765a7f6901ecd.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.user_graph_edges-3ad2bb21af9bffb99b6d5b10986bed6f.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.user_one_signal_preferences-35553bd46064906bc0e94360e218a2cd.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.valuations-5c78c00ec3ca16792b48e1559ec1dc1c.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/wps.v.views-11c1d8186d5a791f7ca981b3c4b4c90d.css" /><link rel="stylesheet" media="screen" href="//assets.angel.co/webpack/application-e196d4ad5152313f4baba3d0932b7052.css" />
+
+<script>
+//<![CDATA[
+window['fs_disable']=true;
+//]]>
+</script><script>
+//<![CDATA[
+window._rollbarPerson={"id":null,"username":null};
+//]]>
+</script><script>
+//<![CDATA[
+!function(r){function e(t){if(n[t])return n[t].exports;var o=n[t]={i:t,l:!1,exports:{}};return r[t].call(o.exports,o,o.exports,e),o.l=!0,o.exports}var n={};return e.m=r,e.c=n,e.i=function(r){return r},e.d=function(r,n,t){e.o(r,n)||Object.defineProperty(r,n,{configurable:!1,enumerable:!0,get:t})},e.n=function(r){var n=r&&r.__esModule?function(){return r["default"]}:function(){return r};return e.d(n,"a",n),n},e.o=function(r,e){return Object.prototype.hasOwnProperty.call(r,e)},e.p="//assets.angel.co/webpack/",e(e.s=314)}({314:function(r,e,n){n(50),n(42),n(49)},324:function(r,e,n){r.exports=n.p+"3fd28f327bccd084051e98a9c3d97fa2.js"},346:function(r,e){!function(r){function e(t){if(n[t])return n[t].exports;var o=n[t]={exports:{},id:t,loaded:!1};return r[t].call(o.exports,o,o.exports,e),o.loaded=!0,o.exports}var n={};return e.m=r,e.c=n,e.p="",e(0)}([function(r,e,n){"use strict";var t=n(1).Rollbar,o=n(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js";var a=t.init(window,_rollbarConfig),i=o(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,e){"use strict";function n(r){return function(){try{return r.apply(this,arguments)}catch(e){try{console.error("[Rollbar]: Internal error",e)}catch(n){}}}}function t(r,e,n){window._rollbarWrappedError&&(n[4]||(n[4]=window._rollbarWrappedError),n[5]||(n[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,n),e&&e.apply(window,n)}function o(r){var e=function(){var e=Array.prototype.slice.call(arguments,0);t(r,r._rollbarOldOnError,e)};return e.belongsToShim=!0,e}function a(r){this.shimId=++c,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var e=a;return n(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var n=this,t="scope"===r;t&&(n=new e(this));var o=Array.prototype.slice.call(arguments,0),a={shim:n,method:r,args:o,ts:new Date};return window._rollbarShimQueue.push(a),t?n:void 0})}function l(r,e){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){var n=e.addEventListener;e.addEventListener=function(e,t,o){n.call(this,e,r.wrap(t),o)};var t=e.removeEventListener;e.removeEventListener=function(r,e,n){t.call(this,r,e&&e._wrapped?e._wrapped:e,n)}}}var c=0;a.init=function(r,e){var t=e.globalAlias||"Rollbar";if("object"==typeof r[t])return r[t];r._rollbarShimQueue=[],r._rollbarWrappedError=null,e=e||{};var i=new a;return n(function(){if(i.configure(e),e.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=o(i);var n,a,c="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(n=0;n<c.length;++n)a=c[n],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return e.captureUnhandledRejections&&(i._unhandledRejectionHandler=function(r){var e=r.reason,n=r.promise,t=r.detail;!e&&t&&(e=t.reason,n=t.promise),i.unhandledRejection(e,n)},r.addEventListener("unhandledrejection",i._unhandledRejectionHandler)),r[t]=i,i})()},a.prototype.loadFull=function(r,e,t,o,a){var i=function(){var e;if(void 0===r._rollbarPayloadQueue){var n,t,o,i;for(e=new Error("rollbar.js did not load");n=r._rollbarShimQueue.shift();)for(o=n.args,i=0;i<o.length;++i)if(t=o[i],"function"==typeof t){t(e);break}}"function"==typeof a&&a(e)},l=!1,c=e.createElement("script"),u=e.getElementsByTagName("script")[0],s=u.parentNode;c.crossOrigin="",c.src=o.rollbarJsUrl,c.async=!t,c.onload=c.onreadystatechange=n(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){c.onload=c.onreadystatechange=null;try{s.removeChild(c)}catch(r){}l=!0,i()}}),s.insertBefore(c,u)},a.prototype.wrap=function(r,e){try{var n;if(n="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(e){throw"string"==typeof e&&(e=new String(e)),e._rollbarContext=n()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e,e}},r._wrapped._isWrap=!0;for(var t in r)r.hasOwnProperty(t)&&(r._wrapped[t]=r[t])}return r._wrapped}catch(o){return r}};for(var u="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError,unhandledRejection".split(","),s=0;s<u.length;++s)a.prototype[u[s]]=i(u[s]);r.exports={Rollbar:a,_rollbarWindowOnError:t}},function(r,e){"use strict";r.exports=function(r,e){return function(n){if(!n&&!window._rollbarInitialized){var t=window.RollbarNotifier,o=e||{},a=o.globalAlias||"Rollbar",i=window.Rollbar.init(o,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,t.processPayloads()}}}}])},42:function(r,e){window.fs_disable||(window._fs_debug=!1,window._fs_host="www.fullstory.com",window._fs_org="1JRNY",window._fs_namespace="FS_al_noconflict",function(r,e,n,t,o,a,i,l){n in r&&r.console&&r.console.log||(i=r[n]=function(r,e){i.q?i.q.push([r,e]):i._api(r,e)},i.q=[],a=e.createElement(t),a.async=1,a.src="https://"+_fs_host+"/s/fs.js",l=e.getElementsByTagName(t)[0],l.parentNode.insertBefore(a,l),i.identify=function(r,e){i(o,{uid:r}),e&&i(o,e)},i.setUserVars=function(r){i(o,r)},i.identifyAccount=function(r,e){a="account",e=e||{},e.acctId=r,i(a,e)},i.clearUserCookie=function(r,n){for(r=e.domain;;){if(e.cookie="fs_uid=;domain="+r+";path=/;expires="+new Date(0),n=r.indexOf("."),n<0)break;r=r.slice(n+1)}})}(window,document,window._fs_namespace,"script","user"),window._fs_callbacks=[],window._fs_ready=function(){setTimeout(function(){for(var r in window._fs_callbacks)window._fs_callbacks[r]();window._fs_callbacks=!1},100)})},49:function(r,e){var n,t;t=[],n=!1,window._eventQueueClear=function(r,e){var o,a,i,l;if(n)throw new Error("_eventQueueClear only be invoked once");for(n=!0,l=[],a=0,i=t.length;a<i;a++)o=t[a],l.push(o(r,e));return l},window._q=function(r){return!!n||(!!this._eventQueueTriggered||(this._eventQueueTriggered=!0,r.preventDefault(),this.className+=" loading",t.push(function(e){return function(n,t){return t["with"](n(e).closest(t.rootSelector()),function(){return n(e).removeClass("loading"),n(e).trigger(n.event.fix(r))})}}(this)),!0))}},50:function(r,e,n){window._rollbarConfig={accessToken:"e36e9edcd88b416780f0ebe64497cb59",captureUncaught:!0,captureUnhandledRejections:!1,globalAlias:"_alRollbar",rollbarJsUrl:n(324),payload:{environment:"production_js",client:{javascript:{code_version:"a3c200bd8365c017e8c030098218df84122614cd",source_map_enabled:!0,guess_uncaught_frames:!0}},person:window._rollbarPerson},checkIgnore:function(r,e,n){var t,o,a,i,l,c,u,s,d,f,p,w,_,h,b,g,v,y,m,E,x,C,k,R,j;try{if("development_js"===n.data.environment)return!0;if(j=null!=n&&null!=(f=n.data)&&null!=(p=f.client)&&null!=(b=p.javascript)?b.browser:void 0,i=null!=n&&null!=(g=n.data)&&null!=(v=g.body)&&null!=(y=v.trace)?y.exception:void 0,c=null!=n&&null!=(m=n.data)&&null!=(E=m.body)&&null!=(x=E.trace)&&null!=(C=x.frames)&&null!=(w=C[0])?w.filename:void 0,r&&i.rollbarIgnore)return!0;if(r&&null!=c&&null!=j&&/Firefox/.test(j)&&/^resource:\/\//.test(c))return!0;for(t=[/Loading chunk [0-9]+ failed/,/atomicFindClose/,/Baiduspider/,/dataKeys/,/gcdemodata/,/bCapGloRef/,/sCapGloRef/],l=0,s=t.length;l<s;l++)if(k=t[l],k.test(null!=i?i.message:void 0))return!0;for(R=[/^http[s]?\:\/\/webcache\.googleusercontent\.com/,/^http[s]?\:\/\/web\.archive\.org/,/^http[s]?\:\/\/tunnelproxy\.nu/],u=0,d=R.length;u<d;u++)if(k=R[u],k.test(null!=n&&null!=(_=n.data)&&null!=(h=_.request)?h.url:void 0))return!0;return!!/NPObject/.test(i.message)||n.data.client.runtime_ms>12e5}catch(a){return o=a,!1}}},n(346)}});
+//]]>
+</script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'jdy1kdx',
+      scriptTimeout: 3000
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+<script>
+//<![CDATA[
+window._mediaBreakpoints = [767,959];
+//]]>
+</script>
+<script src="//assets.angel.co/assets/bundles/head-7a544bb79c892b8597bde3cc17533bc60dbf0829d695c33a3725da4986dee5a2.js"></script>
+<script>
+  window._alConfig = {"lib/environment":{"controller":"startups","action":"show","environment":"production","current_user":null},"initializer":{"root_class":"_a","template_name_data_key":"_tn","javascript_module_exists_class":"_jm"},"lib/partials":{"root_class":"_a"},"segment/analytics":{"logging_enabled":false},"application":{"js_templates":["startups/show/sections/screenshots_and_video","startups/show/sections/new_product","startup_roles/startup_profile_group","startups/show/sections/founders","startup_rounds/profile","startups/show/sections/startup_rounds","startups/show/sections/past_financing","startups/show/sections/team","startups/show","startups/show/structure","startups/show/helpers/share_button","startups/show/sections/connections_v2","startups/show/header","startups/show/header_fixed","startups/show/header_navigation_tabs","job_listings/apply_button","startups/show/sections/jobs","startups/show/sections/similar_profiles","startups/show/sidebar","layouts/profile","layouts/nav","layouts/header","layouts/flashes","layouts/footer","layouts/footer_links"],"image_host":"//assets.angel.co/images"}};
+</script>
+<script src="//assets.angel.co/webpack/application-d25e1b0446969671d990.js" async="async"></script>
+
+
+<script>
+//<![CDATA[
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga("create","UA-17693728-1","auto");
+ga("set","contentGroup1","Startup profile");
+ga("send","pageview");
+
+//]]>
+</script><script async='async' src='https://www.google-analytics.com/analytics.js'></script>
+<meta content='132453076811032' property='fb:app_id'>
+<script>
+//<![CDATA[
+!function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","reset","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.1.0";
+analytics.load("poTMRBHig2tYBNBP5P6kGfkGBFq19jmB");
+analytics.page(null,null, {"anonymousId":"f05cc79f8dbb530e8ad8b0cdce5a2f1b","controller":"startups","action":"show","pageviewId":"f05cc79f8dbb530e8ad8b0cdce5a2f1b2f4bc5b821737278b7f02cfed21b3a21"}, {"anonymousId":"f05cc79f8dbb530e8ad8b0cdce5a2f1b"})
+window._pageviewId = "f05cc79f8dbb530e8ad8b0cdce5a2f1b2f4bc5b821737278b7f02cfed21b3a21"
+}}();
+
+//]]>
+</script><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '654344241403981'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=654344241403981&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+<script>
+//<![CDATA[
+window._stripeKey = 'pk_live_Sgsc9Y8xSonesJppEw1ee0dY'
+
+//]]>
+</script>
+</head>
+<body id='layouts-base-body'>
+<div data-routes="{&quot;show&quot;:&quot;/acceptd&quot;}" data-page_titles="{&quot;show&quot;:&quot;Acceptd | AngelList&quot;}" class=" dss98 startups-show fse9 structure _a _jm" data-_tn="startups/show/structure"></div><div id="root" class=" centered dark  dl85 layouts ffr55 footer _a _jm" data-_tn="layouts/footer">
+<div class="u-fontSize16 normal dl85 layouts ffs42 flashes _a _jm" data-flash_class="flash u-textAlignCenter u-colorWhite s-vgPadTop1 s-vgPadBottom1" data-_tn="layouts/flashes"><div class='js-container s-grid0 s-grid0--outer u-hidden u-maxWidthLayout'>
+</div>
+</div>
+<div class="header_nav  flush_bottom  dl85 layouts fhr17 header _a _jm" data-_tn="layouts/header">
+<div class=" dl85 layouts fnv25 nav _a _jm" data-_tn="layouts/nav"><div class='s-grid s-grid--outer u-maxWidthLayout primaryContainer'>
+<div class='s-grid-colSm24'>
+<div class='searchAndLinks u-floatRight u-borderBox'>
+<div class='s-flexgrid0 s-flexgrid0--inline'>
+<div class='s-flexgrid0-colSm'>
+<form class="s-form u-inlineBlock searchForm u-hiddenMdDown" action="/search" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="XV+nuW4e0Ir2EPi6Uaj0j1FgrG1tAeqlb+krM9nlOGtpGofy4uHEkobgvstYziRmxkNnXOELtQuz+vfH8fb90g==" />
+<div class='s-flexgrid0 s-flexgrid0--inline'>
+<div class='s-flexgrid0-colSm'>
+<label class="fontello-search-1 s-vgPadRight1 s-vgPadLeft1 searchLabel u-inlineBlock u-vAlignTop" for="q"></label>
+</div>
+<div class='s-flexgrid0-colSmW'>
+<div class='s-vgPadRight0_5'><input type="text" name="q" id="q" value="" placeholder="SEARCH" class="searchInput s-form--blended" /></div>
+</div>
+</div>
+</form>
+
+</div><div class='s-flexgrid0-colSm linksContainer respondToNavbarHeight u-floatRight'><div class='u-inlineBlock'>
+<a class="auth u-fontWeight300" href="/join">Join</a>
+&nbsp;
+<a class="auth login u-fontWeight300" href="/login">Log In</a>
+</div><div class='u-inlineBlock u-hiddenLgOnly'>
+<div class='fontello-search-1 icon mobileSearchLink s-vgLeft0_5 u-inlineBlock u-unstyledLink'></div>
+</div></div></div>
+</div>
+<div class='navAndPrefix respondToNavbarHeight u-borderBox s-vgPadRight1 u-vAlignTop u-nowrap'>
+<div class='mainNav respondToNavbarHeight u-inlineBlock u-nowrap'>
+<div class='logoWrapper u-inline u-vAlignTop'>
+<a class="u-unstyledLink u-inlineBlock s-vgRight0_5 logo fontello-angellist" href="/?ref=nav">AngelList</a>
+</div>
+<ul class='c-navbar navigationLinks u-inline u-uppercase u-vAlignTop'><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item  " href="/jobs">Startup Jobs</a>
+</li><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item  " href="/recruiting">Recruit</a>
+</li><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item  " href="/invest/start">Invest</a>
+</li><li class='u-inlineBlock u-vAlignTop'>
+<a class="c-navbar-item more-dropdown-button" href="javascript:void(0);">More</a>
+<div class='more-dropdown dropdown hide_when_handheld'>
+<div class='more-dropdown-desktop-menu dropdown-menu js-dropdown-menu u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-align--center'>
+<a class="u-fontSize14 dropdown-item" href="/companies">Companies</a>
+<span>
+<a class="u-fontSize14 dropdown-item" href="/freelancers">Freelancers</a>
+</span>
+<a class="u-fontSize14 dropdown-item" href="/accelerators/apply">Incubators</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/track">Track</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/salaries">Salaries</a>
+<a class="u-fontSize14 dropdown-item" href="/valuations">Valuations</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/help">Help</a>
+</div>
+
+</div>
+</div>
+</li></ul>
+</div>
+</div>
+<div class='network-dropdown dropdown'>
+<div class='network-dropdown-handheld-menu dropdown-menu js-dropdown-menu u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-align--center'>
+<a class="u-fontSize14 dropdown-item" href="/alumni-networks/me">Your Alumni Network</a>
+</div>
+
+</div>
+</div>
+<div class='more-dropdown dropdown hide_when_desktop hide_when_tablet'>
+<div class='dropdown-menu js-dropdown-menu logged-out more-dropdown-handheld-menu u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-align--center'>
+<a class="u-fontSize14 dropdown-item" href="/companies">Companies</a>
+<span>
+<a class="u-fontSize14 dropdown-item" href="/freelancers">Freelancers</a>
+</span>
+<a class="u-fontSize14 dropdown-item" href="/accelerators/apply">Incubators</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/track">Track</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/salaries">Salaries</a>
+<a class="u-fontSize14 dropdown-item" href="/valuations">Valuations</a>
+<div class='dropdown-hr'></div>
+<a class="u-fontSize14 dropdown-item" href="/help">Help</a>
+</div>
+
+</div>
+</div>
+</div>
+<div class='mobileSearchOuterContainer'>
+<div class='u-hidden mobileSearchContainer'>
+<form class="s-form mobileSearchForm" action="/search" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="v+9+htEYr7Zm3ym1XWyBxZKLAff9K2PfM5DKGcbtmXuLql7NXee7rhYvb8RUClEsBajKxnEhPHHvgxbt7v5cwg==" />
+<input type="text" name="q" id="q" value="" placeholder="Search" class="mobileSearchInput" />
+</form>
+
+</div>
+</div>
+</div>
+</div>
+</div><div class="ghost  flush_bottom  dl85 layouts fhr17 header _a _jm" data-_tn="layouts/header">
+</div><div class="page   flush_bottom  dl85 layouts fhr17 header _a _jm" data-_tn="layouts/header">
+<div itemscope itemtype='http://data-vocabulary.org/Person'>
+<div class="show_sidebar dl85 layouts fpe53 profile _a _jm" data-_tn="layouts/profile"><div class='prefix u-bgWhite'><div class='u-bgGray u-hiddenSmOnly'>
+<div class='s-grid s-grid--outer u-maxWidthLayout'>
+<div class='s-grid-colLg4 s-grid-colMd1'>
+&nbsp;
+</div>
+<div class='s-grid-colLg12 s-grid-colMd12 u-fontSize14 s-vgPadTop1 s-vgPadBottom1 u-textAlignLeft'>
+<div class='u-fontWeight500'>Acceptd is on AngelList, where the world meets startups.</div>
+<div class='subhead'>
+To connect with Acceptd,
+<a href="/join?src=user_profile">sign up</a>
+for AngelList today.
+</div>
+</div>
+<div class='s-grid-colLg8 s-grid-colMd7 u-textAlignLeft u-textAlignCenterSmOnly u-fontSize16'>
+<div class='buttons'>
+<div class='s-vgTop1 u-hiddenSmOnly'></div>
+<a class="c-button c-button--blue" href="/join?src=user_profile">Sign up</a>
+<a class="c-button c-button--gray" href="/login?src=user_profile">Log in</a>
+</div>
+<div class='s-vgBottom2 u-hiddenMdUp'></div>
+</div>
+</div>
+</div>
+<div data-id="133842" data-firm="false" data-taggings="[{&quot;id&quot;:3881384,&quot;new_taggable_id&quot;:133842,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_company_type&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Early Stage&quot;,&quot;slug_url&quot;:&quot;https://angel.co/early-stage&quot;}},{&quot;id&quot;:1264121,&quot;new_taggable_id&quot;:133842,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_locations&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Columbus&quot;,&quot;slug_url&quot;:&quot;https://angel.co/columbus&quot;}},{&quot;id&quot;:1264125,&quot;new_taggable_id&quot;:133842,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Digital Media&quot;,&quot;slug_url&quot;:&quot;https://angel.co/digital-media&quot;}},{&quot;id&quot;:1264122,&quot;new_taggable_id&quot;:133842,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Education&quot;,&quot;slug_url&quot;:&quot;https://angel.co/education&quot;}},{&quot;id&quot;:1264123,&quot;new_taggable_id&quot;:133842,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;College Recruiting&quot;,&quot;slug_url&quot;:&quot;https://angel.co/college-recruiting&quot;}},{&quot;id&quot;:3881380,&quot;new_taggable_id&quot;:133842,&quot;new_taggable_type&quot;:&quot;Startup&quot;,&quot;new_taggable_field&quot;:&quot;tags_interested_markets&quot;,&quot;new_tag&quot;:{&quot;display_name&quot;:&quot;Performing Arts&quot;,&quot;slug_url&quot;:&quot;https://angel.co/performing-arts&quot;}}]" data-invisible_taggings="[]" class="u-bgWhite dss98 startups-show fhr17 header _a _jm" data-_tn="startups/show/header"><div class='summary'>
+<div class='editable_region'>
+<div class='show'>
+<div class='s-grid s-grid--outer u-maxWidthLayout subheader-container'>
+<div class='s-grid-colMd24 subheader-inner-container'>
+<div class='g-lockup-subheader'>
+<div class='photo subheader-avatar'>
+<img alt="Acceptd logo" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/133842-78b5c247910a41abc1be9471fef51ad5-medium_jpg.jpg?buster=1392393674" />
+</div>
+<div class='text profile-text u-textAlignCenterSmOnly'>
+<div class='s-grid0'>
+<div class='s-grid0-colMd14'>
+<h1 class='u-fontWeight500 s-vgBottom0_5'>
+Acceptd
+</h1>
+<h2 class='js-startup_high_concept u-fontSize15 u-fontWeight400 u-colorGray3'>
+Arts Application &amp; Recruitment Marketplace
+</h2>
+</div>
+<div class='s-grid0-colMd10 action-col'>
+<div class='action-links u-textAlignRightMdUp u-textAlignCenterSmOnly'>
+<div class="c-button c-button--blue c-button--md action-button s-vgRight0_5 dssh0 startups-show-helpers fsn94 share_button _a _jm" href="/startups/133842/share_module" style="" tag_name="a" data-_tn="startups/show/helpers/share_button">Share
+</div>
+<div class='dropdown u-hiddenLgOnly u-inlineBlock'>
+<div class='dropdown-button js-dropdown-button'>
+<div class='c-button c-button--transparent-blue fontello-angle-down u-fontSize16 u-inlineBlock s-vgPullTop0_5 action-button'></div>
+</div>
+<div class='js-dropdown-menu dropdown-menu dropdown-align--right u-hidden'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu'>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='s-grid0-colMd24'>
+<div class='tags-container'>
+<div class=" dssh27 startups-show-header_2 fts73 tags_and_links _a" data-_tn="startups/show/header_2/tags_and_links"><div class='u-colorGray8 u-fontSize12'>
+<span class='js-location_tag_holder'>
+<span class='s-vgRight1'>
+<i class='fontello-location' style='margin-right: 3px;'></i>
+<span class='js-location_tags'>
+<a class="tag" href="https://angel.co/columbus">Columbus</a>
+</span>
+</span>
+</span>
+<span class='js-market_tag_holder'>
+<span class='s-vgRight1'>
+<i class='fontello-tag-1' style='margin-right: 3px;'></i>
+<span class='js-market_tags'>
+<a class="tag" href="https://angel.co/education">Education</a> &middot; <a class="tag" href="https://angel.co/digital-media">Digital Media</a> &middot; <a class="tag" href="https://angel.co/performing-arts">Performing Arts</a> &middot; <a class="tag" href="https://angel.co/college-recruiting">College Recruiting</a>
+</span>
+</span>
+</span>
+<span class='s-vgRight1'>
+<i class='fontello-group' style='margin-right: 3px;'></i>
+<span class='js-company_size'>
+11-50
+</span>
+employees
+</span>
+<span class='s-vgRight1 links u-hiddenSmOnly'>
+<span class='link'>
+<a class="fontello-twitter u-uncoloredLink twitter_url" rel="nofollow" target="_blank" href="https://twitter.com/acceptd"></a>
+</span>
+<span class='blank link'>
+<a class="fontello-facebook u-uncoloredLink facebook_url" rel="nofollow" target="_blank" href="/acceptd"></a>
+</span>
+<span class='blank link'>
+<a class="fontello-linkedin u-uncoloredLink linkedin_url" rel="nofollow" target="_blank" href="/acceptd"></a>
+</span>
+<span class='blank link'>
+<a class="fontello-product-hunt u-uncoloredLink producthunt_url" rel="external" target="_blank" href="/acceptd"></a>
+</span>
+<span class='link'>
+<a class="fontello-rss u-uncoloredLink blog_url" rel="nofollow" target="_blank" href="http://getacceptd.com/blog"></a>
+</span>
+<span class='link'>
+<a target="_blank" class="u-uncoloredLink company_url" rel=" nofollow noopener noreferrer" href="http://getacceptd.com">getacceptd.com</a>
+</span>
+</span>
+</div>
+</div>
+<div data-load="false" data-id="133842" class=" dsss17 startups-show-sections fc250 connections_v2 _a _jm" data-_tn="startups/show/sections/connections_v2"><div class='u-textAlignCenterSmOnly u-colorGray8'>
+<div class='text'>
+<i class='fontello-plus' style='margin-right: 3px;'></i>
+<a href="/join?utm_source=profile-connections">Sign up</a> to see how you are connected to Acceptd
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class=" dss98 startups-show fhd40 header_fixed _a _jm" data-_tn="startups/show/header_fixed"><div class='container fixed-top'>
+<div class='s-grid u-maxWidthLayout s-grid--outer'>
+<div class='s-grid-colMd12 u-textAlignCenterSmOnly'>
+<div class='avatar-container s-vgTop1 s-vgBottom1'>
+<div class='avatar u-floatLeft u-inlineBlock'>
+<div class='g-photo_container'><img alt="Acceptd logo" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/133842-78b5c247910a41abc1be9471fef51ad5-medium_jpg.jpg?buster=1392393674" /></div>
+</div>
+<div class='name u-fontSize16 u-colorGray3 u-floatLeft u-inlineBlock s-vgLeft1'>
+Acceptd
+</div>
+<div class='cb'></div>
+</div>
+</div>
+<div class='s-grid-colMd12 s-grid-colSm24 s-vgPadRight1 s-vgTop1 s-vgBottom1'>
+<div class='u-floatRight'>
+<div class='share fixed_header_button u-inlineBlock'>
+<div class="u-vAlignMiddle c-button c-button--gray dssh0 startups-show-helpers fsn94 share_button _a _jm" href="/startups/133842/share_module" style="" tag_name="a" data-_tn="startups/show/helpers/share_button">Share
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="u-bgGray s-vgPadTop1  dss98 startups-show fhs5 header_navigation_tabs _a _jm" data-_tn="startups/show/header_navigation_tabs"><div class='s-grid s-grid--outer u-maxWidthLayout'>
+<div class='actions u-uppercase s-vgPullTop1'>
+<div class='tabs'><span><a class="tab show selected" data-name="show" href="/acceptd">Company</a></span></div>
+</div>
+<div class='mobile_nav s-vgLeft1 s-vgRight1'>
+<div class='tabs g-form'>
+<div class='icon_container'>
+<div class='icon'><img class="icon_image" alt="" src="//assets.angel.co/assets/icons/arrow_list_down-6474e12ee7bee2c57dd106d18751b916bfd44aaa4b4c3fe4f9ac0ad46ce7a291.png" /></div>
+</div>
+<div class='value' data-names='{"show":"Overview"}'>
+Overview
+</div>
+</div>
+<select name="tab_select" id="" class="tab_select"><option data-name='show' selected='selected' value='/acceptd'>
+Overview
+</option>
+</select>
+</div>
+</div>
+</div>
+</div>
+<div class='content s-grid s-grid--outer u-maxWidthLayout s-vgBottom2'>
+<div class='panes_container no_error s-grid-colSm24'>
+<div class='error u-textAlignCenter u-colorGray6 s-vgTop2'>There was a problem loading your content.</div>
+<div class='s-flexgrid0 s-flexgrid0--fixed panes_grid'>
+<div class='main pane s-flexgrid0--footer s-flexgrid0-colMdW s-vgPadRight1'><div data-show-wvyp-modal="null" class=" ds2 startups fsw49 show _a _jm" data-_tn="startups/show"><a name='new_product'></a>
+<h3 class='header new_product'>
+Product
+</h3>
+<div class='new_product section'><div class="section with_filler with_editable_regions itemized dsss17 startups-show-sections fnt94 new_product _a _jm" data-startup="{&quot;id&quot;:133842,&quot;product_desc&quot;:&quot;Acceptd was founded to better connect applicants with opportunity and streamline the recruiting and review process for visual and performing arts programs. We believe the right opportunity should be accessible to any applicant regardless of geography or socio-economic status.\n&quot;}" data-_tn="startups/show/sections/new_product"><div class='screenshots_and_video editable_region'>
+<div class='show'><div id="media" class="g-module no_shadow itemized dsss17 startups-show-sections fso33 screenshots_and_video _a _jm" data-id="133842" data-_tn="startups/show/sections/screenshots_and_video"><div class='content'>
+<div class='big-mobile'>
+<div class='big-mobile-container'>
+<a target="_blank" rel="nofollow noopener noreferrer" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/283/006/283006-6dbd6c0bb5c488031e2840c273fb13b8ca1e5472.jpg?1395373082"><img class="mobile_ss" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/283/006/283006-4fb47e4469d0d0c7d28ccaeec5fd72f7009eac8e.jpg?1395373082" /></a>
+<a target="_blank" rel="nofollow noopener noreferrer" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/283/011/283011-b93914345804f64d6842e82ae98d9875cf0d1690.jpg?1395373097"><img class="mobile_ss" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/283/011/283011-19ac25aaef370ac5643a3f29ff444cac444c76aa.jpg?1395373097" /></a>
+</div>
+</div>
+<div class='big'>
+<iframe src="https://player.vimeo.com/video/52167891" width='551' height='310' frameborder="0"></iframe>
+</div>
+<div class='thumbs'>
+<div class='video_thumbnail'>
+<img class="small" alt="" src="https://secure-b.vimeocdn.com/ts/359/966/359966174_100.jpg" />
+</div>
+<ul class='screenshots'>
+<li class='screenshot popup' data-preview505='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/283/006/283006-4fb47e4469d0d0c7d28ccaeec5fd72f7009eac8e.jpg?1395373082' data-src='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/283/006/283006-6dbd6c0bb5c488031e2840c273fb13b8ca1e5472.jpg?1395373082'>
+<a rel="nofollow" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/283/006/283006-6dbd6c0bb5c488031e2840c273fb13b8ca1e5472.jpg?1395373082"><img class="small" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/tiny/000/283/006/283006-bbd4fd75d16ef49a78794c10c11d51835d3d96c4.jpg?1395373082" /></a>
+</li>
+<li class='screenshot popup' data-preview505='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/preview505/000/283/011/283011-19ac25aaef370ac5643a3f29ff444cac444c76aa.jpg?1395373097' data-src='https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/283/011/283011-b93914345804f64d6842e82ae98d9875cf0d1690.jpg?1395373097'>
+<a rel="nofollow" href="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/original/000/283/011/283011-b93914345804f64d6842e82ae98d9875cf0d1690.jpg?1395373097"><img class="small" alt="" src="https://d2gn4xht817m0g.cloudfront.net/p/product_screenshots/images/tiny/000/283/011/283011-be250f17be44fb98e43fa164b50dfbe79c4d7872.jpg?1395373097" /></a>
+</li>
+</ul>
+</div>
+<div class='mobile-video'>
+<a target="_blank" rel="nofollow noopener noreferrer" class="g-button expanded" href="https://vimeo.com/52167891">Video</a>
+</div>
+<div class='video_no_embed'>
+</div>
+</div>
+</div></div>
+</div>
+<div class='s-vgTop2'></div>
+<div class='product_desc editable_region'>
+<div class='show'>
+<div class='content'>
+Acceptd was founded to better connect applicants with opportunity and streamline the recruiting and review process for visual and performing arts programs. We believe the right opportunity should be accessible to any applicant regardless of geography or socio-economic status.<br/><span class="elipses">&hellip; &middot; </span><a class="hidden_more" href="javascript:void(0);">More</a><span class="hidden"></span>
+</div>
+</div>
+</div>
+
+</div></div>
+<a name='founders'></a>
+<h3 class='founders header'>
+Founders
+</h3>
+<div class='founders section'><div class="section with_filler with_editable_regions dsss17 startups-show-sections ffs70 founders _a _jm" data-id="133842" data-_tn="startups/show/sections/founders"><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="larger" data-startup_id="133842" data-role="founder" data-_tn="startup_roles/startup_profile_group"><ul class='larger roles'><li class='role' data-token='31Wm'><div data-startup_role="{&quot;id&quot;:388376,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:192330,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;founder&quot;,&quot;token&quot;:&quot;31Wm&quot;,&quot;past?&quot;:false}" data-size="larger" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup larger top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="192330" href="https://angel.co/don-hunter"><img class="angel_image" alt="Don Hunter" src="https://d1qb2nb5cznatu.cloudfront.net/users/192330-medium_jpg?1463199654" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="192330" href="https://angel.co/don-hunter">Don Hunter</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Founder Acceptd • Studied at <a href="https://angel.co/university-of-cincinnati" class="at_mention_link" target="_blank"><span class="at_mention_symbol">@</span><span class="at_mention_slug">University of Cincinnati</span></a></p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='3RBj'><div data-startup_role="{&quot;id&quot;:552108,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:192337,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;founder&quot;,&quot;token&quot;:&quot;3RBj&quot;,&quot;past?&quot;:false}" data-size="larger" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup larger top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="192337" href="https://angel.co/derek-brown-1"><img class="angel_image" alt="Derek Brown" src="https://d1qb2nb5cznatu.cloudfront.net/users/192337-medium_jpg?1463199654" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="192337" href="https://angel.co/derek-brown-1">Derek Brown</a>
+</div>
+<div class='role_title'></div>
+</div>
+</div>
+</div></li></ul>
+</div>
+
+</div></div>
+<a name='past_financing'></a>
+<h3 class='header past_financing'>
+Funding
+</h3>
+<div class='past_financing section'><div class="section dsss17 startups-show-sections fpg76 past_financing _a _jm" data-id="133842" data-_tn="startups/show/sections/past_financing"><div data-id="133842" class=" dsss17 startups-show-sections fss49 startup_rounds _a _jm" data-_tn="startups/show/sections/startup_rounds"><ul class='startup_rounds with_rounds'><li class='first not_editing startup_round'>
+<div data-id="37727" class=" dsr49 fpe53 _a _jm" data-_tn="startup_rounds/profile"><div class='show section'>
+<div class='details inner_section'>
+<div class='header'>
+<div class='type'>
+Series A
+</div>
+<div class='date_display'>Mar 20, 2013</div>
+</div>
+<div class='raised'>
+<a rel="nofollow" target="_blank" href="http://www.bizjournals.com/columbus/news/2013/06/13/ohio-techangel-funds-leads-1m-funding.html?ana=twt">$1,000,000</a>
+</div>
+<a class="read_press" rel="nofollow" target="_blank" href="http://www.bizjournals.com/columbus/news/2013/06/13/ohio-techangel-funds-leads-1m-funding.html?ana=twt">Read Press</a>
+</div>
+<div class='participant_list inner_section'>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="startup-link" title="Ohio TechAngel Funds" data-type="Startup" data-id="142661" href="https://angel.co/ohio-techangel-funds"><img class="angel_image" alt="Ohio TechAngel Funds" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/142661-040e2b94a55250c36cbc8f9c4dd5bb22-medium_jpg.jpg?buster=1386800851" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="142661" href="https://angel.co/ohio-techangel-funds">Ohio TechAngel Funds</a>
+</div>
+<div class='tags'>
+<a href="https://angel.co/seed-fund-2">Seed Fund</a> &middot; <a href="https://angel.co/columbus">Columbus</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li><li class='first not_editing startup_round'>
+<div data-id="24439" class=" dsr49 fpe53 _a _jm" data-_tn="startup_rounds/profile"><div class='show section'>
+<div class='details inner_section'>
+<div class='header'>
+<div class='type'>
+Seed
+</div>
+<div class='date_display'>Oct  1, 2012</div>
+</div>
+<div class='raised'>
+$475,000
+</div>
+</div>
+<div class='participant_list inner_section'>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="startup-link" title="Founders Factory" data-type="Startup" data-id="60662" href="https://angel.co/founders-factory"><img class="angel_image" alt="Founders Factory" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/60662-8f3bae9d0f9e80ca03d3fdd06de1f427-medium_jpg.jpg?buster=1344285589" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="60662" href="https://angel.co/founders-factory">Founders Factory</a>
+</div>
+<div class='tags'>
+<a href="https://angel.co/seed-fund-2">Seed Fund</a> &middot; <a href="https://angel.co/columbus">Columbus</a>
+</div>
+</div>
+</div>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="startup-link" title="Rev1 Ventures" data-type="Startup" data-id="48016" href="https://angel.co/rev1-ventures"><img class="angel_image" alt="Rev1 Ventures" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/48016-f63d3fed5789cd70e9839941c8d86ce7-medium_jpg.jpg?buster=1433943888" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="48016" href="https://angel.co/rev1-ventures">Rev1 Ventures</a>
+</div>
+<div class='tags'>
+<a href="https://angel.co/vc-3">VC Firm</a> &middot; <a href="https://angel.co/columbus">Columbus</a>
+</div>
+</div>
+</div>
+</div>
+<a class="more_participants_link" href="javascript:void(0);">View all 5 investors from this round</a>
+</div>
+</div>
+</li><li class='first not_editing startup_round'>
+<div data-id="24438" class=" dsr49 fpe53 _a _jm" data-_tn="startup_rounds/profile"><div class='show section'>
+<div class='details inner_section'>
+<div class='header'>
+<div class='type'>
+Seed
+</div>
+<div class='date_display'>Nov 15, 2011</div>
+</div>
+<div class='raised'>
+<a rel="nofollow" target="_blank" href="http://www.techcolumbus.org/techcolumbus-leads-half-million-dollar-investment-10x-startup-acceptd">$500,000</a>
+</div>
+<a class="read_press" rel="nofollow" target="_blank" href="http://www.techcolumbus.org/techcolumbus-leads-half-million-dollar-investment-10x-startup-acceptd">Read Press</a>
+</div>
+<div class='participant_list inner_section'>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="startup-link" title="Founders Factory" data-type="Startup" data-id="60662" href="https://angel.co/founders-factory"><img class="angel_image" alt="Founders Factory" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/60662-8f3bae9d0f9e80ca03d3fdd06de1f427-medium_jpg.jpg?buster=1344285589" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="60662" href="https://angel.co/founders-factory">Founders Factory</a>
+</div>
+<div class='tags'>
+<a href="https://angel.co/seed-fund-2">Seed Fund</a> &middot; <a href="https://angel.co/columbus">Columbus</a>
+</div>
+</div>
+</div>
+<div class='participant g-lockup'>
+<div class='photo'>
+<a class="startup-link" title="Rev1 Ventures" data-type="Startup" data-id="48016" href="https://angel.co/rev1-ventures"><img class="angel_image" alt="Rev1 Ventures" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/48016-f63d3fed5789cd70e9839941c8d86ce7-medium_jpg.jpg?buster=1433943888" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="48016" href="https://angel.co/rev1-ventures">Rev1 Ventures</a>
+</div>
+<div class='tags'>
+<a href="https://angel.co/vc-3">VC Firm</a> &middot; <a href="https://angel.co/columbus">Columbus</a>
+</div>
+</div>
+</div>
+</div>
+<a class="more_participants_link" href="javascript:void(0);">View all 5 investors from this round</a>
+</div>
+</div>
+</li></ul></div>
+<h4 class='subtitle' data-tips_selector='past_investors_section'>
+Investors
+<span class='detail'>from previous rounds</span>
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="133842" data-role="past_investor" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='31WE'><div data-startup_role="{&quot;id&quot;:388394,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:23273,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;31WE&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="23273" href="https://angel.co/michael-butler"><img class="angel_image" alt="Michael Butler" src="https://d1qb2nb5cznatu.cloudfront.net/users/23273-medium_jpg?1431532064" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="23273" href="https://angel.co/michael-butler">Michael Butler</a>
+</div>
+<div class='role_title'>Investor</div>
+<div class='bio'><p>Investor in <a href="https://angel.co/acceptd-1" class="at_mention_link" target="_blank" title="Acceptd" data-mention="true" data-type="Startup" data-id="55700" data-slug_id="251306" data-name="acceptd-1"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Acceptd</span></a> <a href="https://angel.co/bringshare" class="at_mention_link" target="_blank" title="BringShare" data-mention="true" data-type="Startup" data-id="1562" data-slug_id="6940" data-name="bringshare"><span class="at_mention_symbol">@</span><span class="at_mention_slug">BringShare</span></a> <a href="https://angel.co/gotcast" class="at_mention_link" target="_blank" title="GotCast" data-mention="true" data-type="Startup" data-id="1798" data-slug_id="8630" data-name="gotcast"><span class="at_mention_symbol">@</span><span class="at_mention_slug">GotCast</span></a> <a href="https://angel.co/domedia" class="at_mention_link" target="_blank" title="DOmedia" data-mention="true" data-type="Startup" data-id="56406" data-slug_id="252715" data-name="domedia"><span class="at_mention_symbol">@</span><span class="at_mention_slug">DOmedia</span></a> <a href="https://angel.co/agile-networks" class="at_mention_link" target="_blank" title="Agile Networks" data-mention="true" data-type="Startup" data-id="375257" data-slug_id="1144179" data-name="agile-networks"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Agile Networks</span></a> <a href="https://angel.co/exacter" class="at_mention_link" target="_blank" title="Exacter" data-mention="true" data-type="Startup" data-id="56955" data-slug_id="253811" data-name="exacter"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Exacter</span></a> <a href="https://angel.co/azoti" class="at_mention_link" target="_blank" title="Azoti.com Local Food Solutions" data-mention="true" data-type="Startup" data-id="138961" data-slug_id="471927" data-name="azoti"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Azoti.com Local Food Solutions</span></a> </p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='31WG'><div data-startup_role="{&quot;id&quot;:388396,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:68838,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;31WG&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="68838" href="https://angel.co/brookepaul-1"><img class="angel_image" alt="brookepaul" src="https://d1qb2nb5cznatu.cloudfront.net/users/68838-medium_jpg?1405477510" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="68838" href="https://angel.co/brookepaul-1">brookepaul</a>
+</div>
+<div class='role_title'>Investor</div>
+<div class='comment'>Disruptive technology for a large, underserved market.</div>
+</div>
+</div>
+</div></li><li class='role' data-token='36Ve'><div data-startup_role="{&quot;id&quot;:405131,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:9042,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;36Ve&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="9042" href="https://angel.co/chris-anderson"><img class="angel_image" alt="Chris Anderson" src="https://d1qb2nb5cznatu.cloudfront.net/users/9042-medium_jpg?1405441706" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="9042" href="https://angel.co/chris-anderson">Chris Anderson</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Husband, Father, Friend, Adviser, Techie, Deal Junkie, Geek, Public Speaker, Connector, Entrepreneur Enabler, Mover and Hand Shaker.</p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='5Xh9'><div data-startup_role="{&quot;id&quot;:961404,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:54762,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;5Xh9&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="54762" href="https://angel.co/zach-lawrence"><img class="angel_image" alt="Zach Lawrence" src="https://d1qb2nb5cznatu.cloudfront.net/users/54762-medium_jpg?1412097929" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="54762" href="https://angel.co/zach-lawrence">Zach Lawrence</a>
+</div>
+<div class='role_title'>Investor</div>
+<div class='bio'><p>Former Sr Director of 2nd largest angel group in US. Started Venture Corp Dev to offer finance &amp; strategy leadership to privately-held high growth companies.</p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='4due'><div data-startup_role="{&quot;id&quot;:622341,&quot;tagged_type&quot;:&quot;Startup&quot;,&quot;tagged_id&quot;:60662,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;4due&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="startup-link" title="Founders Factory" data-type="Startup" data-id="60662" href="https://angel.co/founders-factory"><img class="angel_image" alt="Founders Factory" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/60662-8f3bae9d0f9e80ca03d3fdd06de1f427-medium_jpg.jpg?buster=1344285589" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="60662" href="https://angel.co/founders-factory">Founders Factory</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p></p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='6bhs'><div data-startup_role="{&quot;id&quot;:1005154,&quot;tagged_type&quot;:&quot;Startup&quot;,&quot;tagged_id&quot;:142661,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;past_investor&quot;,&quot;token&quot;:&quot;6bhs&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="startup-link" title="Ohio TechAngel Funds" data-type="Startup" data-id="142661" href="https://angel.co/ohio-techangel-funds"><img class="angel_image" alt="Ohio TechAngel Funds" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/142661-040e2b94a55250c36cbc8f9c4dd5bb22-medium_jpg.jpg?buster=1386800851" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="142661" href="https://angel.co/ohio-techangel-funds">Ohio TechAngel Funds</a>
+</div>
+<div class='role_title'></div>
+</div>
+</div>
+</div></li></ul>
+<a class="view_all" href="/startup_roles?role=past_investor&amp;startup_id=133842">View all 16 Past Investors</a>
+</div></div>
+<h4 class='subtitle'>Incubator</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="133842" data-role="incubator" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='31WL'><div data-startup_role="{&quot;id&quot;:388400,&quot;tagged_type&quot;:&quot;Startup&quot;,&quot;tagged_id&quot;:75901,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;incubator&quot;,&quot;token&quot;:&quot;31WL&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="startup-link" title="10-Xelerator" data-type="Startup" data-id="75901" href="https://angel.co/10xelerator"><img class="angel_image" alt="10-Xelerator" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/75901-f1e929818fcef08a48b5b94758fa292a-medium_jpg.jpg?buster=1345338482" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="startup-link" data-type="Startup" data-id="75901" href="https://angel.co/10xelerator">10-Xelerator</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>10x is a new venture accelerator. 10x runs twice each year in the winter and summer.</p></div>
+</div>
+</div>
+</div></li></ul>
+</div></div>
+</div></div>
+<a name='team'></a>
+<h3 class='header team'>
+Team
+</h3>
+<div class='section team'><div class="section dsss17 startups-show-sections ftm23 team _a _jm" data-_tn="startups/show/sections/team"><a name='employees_section'></a>
+<h4 class='subtitle' data-tips_selector='employees_section'>
+Employees
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="133842" data-role="employee" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='31WQ'><div data-startup_role="{&quot;id&quot;:388404,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:192458,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;employee&quot;,&quot;token&quot;:&quot;31WQ&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="192458" href="https://angel.co/jerry-tsai-1"><img class="angel_image" alt="Jerry Tsai" src="https://d1qb2nb5cznatu.cloudfront.net/users/192458-medium_jpg?1405547023" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="192458" href="https://angel.co/jerry-tsai-1">Jerry Tsai</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Worked at <a href="https://angel.co/acceptd" class="at_mention_link" target="_blank" title="Acceptd" data-mention="true" data-type="Startup" data-id="133842" data-slug_id="458724" data-name="acceptd"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Acceptd</span></a> • Studied at <a href="https://angel.co/university-of-nevada-las-vegas" class="at_mention_link" target="_blank"><span class="at_mention_symbol">@</span><span class="at_mention_slug">University of Nevada, Las Vegas</span></a>, <a href="https://angel.co/university-of-cincinnati" class="at_mention_link" target="_blank"><span class="at_mention_symbol">@</span><span class="at_mention_slug">University of Cincinnati</span></a></p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='31WR'><div data-startup_role="{&quot;id&quot;:388405,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:192420,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;employee&quot;,&quot;token&quot;:&quot;31WR&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="192420" href="https://angel.co/samantha-burton"><img class="angel_image" alt="Samantha Burton" src="https://d1qb2nb5cznatu.cloudfront.net/users/192420-medium_jpg?1405524301" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="192420" href="https://angel.co/samantha-burton">Samantha Burton</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Worked at @acceptd-2 • Studied at <a href="https://angel.co/ohio-state-university" class="at_mention_link" target="_blank"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Ohio State University</span></a></p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='31WS'><div data-startup_role="{&quot;id&quot;:388406,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:192346,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;employee&quot;,&quot;token&quot;:&quot;31WS&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="192346" href="https://angel.co/jessica-reed"><img class="angel_image" alt="Jessica Reed" src="https://d1qb2nb5cznatu.cloudfront.net/users/192346-medium_jpg?1463199658" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="192346" href="https://angel.co/jessica-reed">Jessica Reed</a>
+</div>
+<div class='role_title'></div>
+</div>
+</div>
+</div></li></ul>
+<a class="view_all" href="/startup_roles?role=employee&amp;startup_id=133842">View all 4 Employees</a>
+</div></div>
+<a name='advisors_section'></a>
+<h4 class='subtitle' data-tips_selector='advisors_section'>
+Advisors
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="133842" data-role="advisor" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='31WP'><div data-startup_role="{&quot;id&quot;:388403,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:192369,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;advisor&quot;,&quot;token&quot;:&quot;31WP&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="192369" href="https://angel.co/dandance"><img class="angel_image" alt="Daniel Lewis" src="https://angel.co/images/shared/nopic.png" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="192369" href="https://angel.co/dandance">Daniel Lewis</a>
+</div>
+<div class='role_title'></div>
+<div class='comment'>I like this organization and think it can save parents a lot of money getting students into the right college and university programs. </div>
+</div>
+</div>
+</div></li><li class='role' data-token='6NGM'><div data-startup_role="{&quot;id&quot;:1127669,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:72819,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;advisor&quot;,&quot;token&quot;:&quot;6NGM&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="72819" href="https://angel.co/greg-ruf"><img class="angel_image" alt="Greg Ruf" src="https://d1qb2nb5cznatu.cloudfront.net/users/72819-medium_jpg?1462941907" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="72819" href="https://angel.co/greg-ruf">Greg Ruf</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Chairman at Acceptd</p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='6NGN'><div data-startup_role="{&quot;id&quot;:1127670,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:31964,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;advisor&quot;,&quot;token&quot;:&quot;6NGN&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="31964" href="https://angel.co/brookepaul"><img class="angel_image" alt="Brooke Paul" src="https://d1qb2nb5cznatu.cloudfront.net/users/31964-medium_jpg?1405461033" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="31964" href="https://angel.co/brookepaul">Brooke Paul</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Founded MobileWait and sold it to ProfitStreams.  CEO of Neohapsis, Sold to KSR.
+</p></div>
+</div>
+</div>
+</div></li></ul>
+<a class="view_all" href="/startup_roles?role=advisor&amp;startup_id=133842">View all 4 Advisors</a>
+</div></div>
+<a name='attorneys_section'></a>
+<h4 class='subtitle' data-tips_selector='attorneys_section'>
+Attorneys
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="133842" data-role="attorney" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='31X1'><div data-startup_role="{&quot;id&quot;:388414,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:192354,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;attorney&quot;,&quot;token&quot;:&quot;31X1&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="192354" href="https://angel.co/abrown"><img class="angel_image" alt="abrown" src="https://angel.co/images/shared/nopic.png" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="192354" href="https://angel.co/abrown">abrown</a>
+</div>
+<div class='role_title'></div>
+</div>
+</div>
+</div></li></ul>
+</div></div>
+<a name='board_members_section'></a>
+<h4 class='subtitle' data-tips_selector='board_members_section'>
+Board Members
+</h4>
+<div class='group'><div class=" dsr31 startup_roles fsp87 startup_profile_group _a _jm" data-size="medium" data-startup_id="133842" data-role="board_member" data-_tn="startup_roles/startup_profile_group"><ul class='medium roles'><li class='role' data-token='31WU'><div data-startup_role="{&quot;id&quot;:388408,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:23273,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;board_member&quot;,&quot;token&quot;:&quot;31WU&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="23273" href="https://angel.co/michael-butler"><img class="angel_image" alt="Michael Butler" src="https://d1qb2nb5cznatu.cloudfront.net/users/23273-medium_jpg?1431532064" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="23273" href="https://angel.co/michael-butler">Michael Butler</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Investor in <a href="https://angel.co/acceptd-1" class="at_mention_link" target="_blank" title="Acceptd" data-mention="true" data-type="Startup" data-id="55700" data-slug_id="251306" data-name="acceptd-1"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Acceptd</span></a> <a href="https://angel.co/bringshare" class="at_mention_link" target="_blank" title="BringShare" data-mention="true" data-type="Startup" data-id="1562" data-slug_id="6940" data-name="bringshare"><span class="at_mention_symbol">@</span><span class="at_mention_slug">BringShare</span></a> <a href="https://angel.co/gotcast" class="at_mention_link" target="_blank" title="GotCast" data-mention="true" data-type="Startup" data-id="1798" data-slug_id="8630" data-name="gotcast"><span class="at_mention_symbol">@</span><span class="at_mention_slug">GotCast</span></a> <a href="https://angel.co/domedia" class="at_mention_link" target="_blank" title="DOmedia" data-mention="true" data-type="Startup" data-id="56406" data-slug_id="252715" data-name="domedia"><span class="at_mention_symbol">@</span><span class="at_mention_slug">DOmedia</span></a> <a href="https://angel.co/agile-networks" class="at_mention_link" target="_blank" title="Agile Networks" data-mention="true" data-type="Startup" data-id="375257" data-slug_id="1144179" data-name="agile-networks"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Agile Networks</span></a> <a href="https://angel.co/exacter" class="at_mention_link" target="_blank" title="Exacter" data-mention="true" data-type="Startup" data-id="56955" data-slug_id="253811" data-name="exacter"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Exacter</span></a> <a href="https://angel.co/azoti" class="at_mention_link" target="_blank" title="Azoti.com Local Food Solutions" data-mention="true" data-type="Startup" data-id="138961" data-slug_id="471927" data-name="azoti"><span class="at_mention_symbol">@</span><span class="at_mention_slug">Azoti.com Local Food Solutions</span></a> </p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='31WX'><div data-startup_role="{&quot;id&quot;:388411,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:192330,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;board_member&quot;,&quot;token&quot;:&quot;31WX&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="192330" href="https://angel.co/don-hunter"><img class="angel_image" alt="Don Hunter" src="https://d1qb2nb5cznatu.cloudfront.net/users/192330-medium_jpg?1463199654" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="192330" href="https://angel.co/don-hunter">Don Hunter</a>
+</div>
+<div class='role_title'></div>
+<div class='bio'><p>Founder Acceptd • Studied at <a href="https://angel.co/university-of-cincinnati" class="at_mention_link" target="_blank"><span class="at_mention_symbol">@</span><span class="at_mention_slug">University of Cincinnati</span></a></p></div>
+</div>
+</div>
+</div></li><li class='role' data-token='31WY'><div data-startup_role="{&quot;id&quot;:388412,&quot;tagged_type&quot;:&quot;User&quot;,&quot;tagged_id&quot;:192337,&quot;startup_id&quot;:133842,&quot;role&quot;:&quot;board_member&quot;,&quot;token&quot;:&quot;31WY&quot;,&quot;past?&quot;:false}" data-size="medium" class=" dsr31 startup_roles fse35 startup_profile _a _jm" data-_tn="startup_roles/startup_profile"><div class='g-lockup medium top'>
+<div class='photo'>
+<a class="profile-link" data-type="User" data-id="192337" href="https://angel.co/derek-brown-1"><img class="angel_image" alt="Derek Brown" src="https://d1qb2nb5cznatu.cloudfront.net/users/192337-medium_jpg?1463199654" /></a>
+</div>
+<div class='text'>
+<div class='name'>
+<a class="profile-link" data-type="User" data-id="192337" href="https://angel.co/derek-brown-1">Derek Brown</a>
+</div>
+<div class='role_title'></div>
+</div>
+</div>
+</div></li></ul>
+</div></div>
+</div></div>
+</div>
+</div>
+<div class='sidebar pane s-flexgrid0-colMd s-flexgrid0--width7 s-flexgrid0--header s-vgPadLeft1'><div class="show customized_sections dss98 startups-show fsr30 sidebar _a _jm" data-id="133842" data-current_action="show" data-actions="[&quot;show&quot;]" data-default_sections="[&quot;startups/show/sections/jobs&quot;,&quot;startups/show/sections/in_search_of&quot;,&quot;startups/show/sections/similar_profiles&quot;]" data-per_action_sections="{&quot;show&quot;:[&quot;startups/show/sections/jobs&quot;,&quot;startups/show/sections/in_search_of&quot;,&quot;startups/show/sections/similar_profiles&quot;],&quot;syndicate&quot;:false,&quot;embed&quot;:false,&quot;activity&quot;:[&quot;startups/show/sections/jobs&quot;,&quot;startups/show/sections/in_search_of&quot;],&quot;post_close_hub&quot;:[&quot;startups/show/sections/post_close_hub_examples&quot;,&quot;startups/show/sections/investments&quot;,&quot;startups/show/sections/post_close_hub_tools&quot;],&quot;views&quot;:false}" data-titles="{&quot;startups/show/sections/jobs&quot;:&quot;Jobs&quot;,&quot;startups/show/sections/in_search_of&quot;:&quot;Freelance Opportunities&quot;,&quot;startups/show/sections/similar_profiles&quot;:&quot;People also viewed&quot;,&quot;startups/show/sections/post_close_hub_examples&quot;:&quot;Examples&quot;,&quot;startups/show/sections/investments&quot;:&quot;You Invested &lt;i class=\&quot;fontello-ok\&quot;&gt;&lt;/i&gt;&quot;,&quot;startups/show/sections/post_close_hub_tools&quot;:&quot;Tools&quot;}" data-_tn="startups/show/sidebar"><div class='section_container' data-section='startups/show/sections/jobs'><div class='header jobs'>Jobs</div><div class='jobs section'><div class="section dsss17 startups-show-sections fjs30 jobs _a _jm" data-startup_id="133842" data-non_recruiting="true" data-_tn="startups/show/sections/jobs"><div class='section_content'>
+<div class='no_jobs'>
+Acceptd
+hasn't added any jobs yet.
+</div>
+<div class='actions'>
+<div class='details-button job-section-button'>
+<div class=" djl87 job_listings fan13 apply_button _a _jm" data-startup_id="133842" data-startup_name="Acceptd" data-startup-hiring="false" data-logged-in="false" data-startup="acceptd" data-source="startup_jobs_module" data-_tn="job_listings/apply_button"><div class='js-success u-hidden'>
+<div class='buttons'>
+<a class='alternate c-button c-button--full-width c-button--gray u-fontWeight600' href='javascript:void(0);'>
+<span class='fontello-ok' style='font-size: 0.9em'></span>
+Notification Set
+</a>
+</div>
+</div>
+<div class='js-qualifications-dropdown u-hidden qualifications-dropdown'></div>
+<div class='buttons js-apply applicant-flow-dropdown'>
+<a class="c-button c-button--blue c-button--full-width   js-interested-button" href="javascript:void(0);">Get Notified</a>
+<div class='dropdown-align--left dropdown-menu job-dropdown-menu js-dropdown u-hidden' data-force-note='' data-source='startup_jobs_module' data-startup-id='133842'>
+<div class='dropdown-nub-wrapper'></div>
+<div class='dropdown-nub'></div>
+<div class='dropdown-inner-menu dropdown-width--lg'>
+<div class='u-textAlignLeft'>
+<div class='job-listings js-job-listings js-step'>
+<div class='dropdown-item dropdown-title u-fontSize14 u-fontWeight500'>
+Which position are you applying for?
+</div>
+<ul>
+</ul>
+</div>
+<div class='hide js-step js-user-note s-form'>
+<div class='dropdown-item dropdown-title u-fontSize14 u-fontWeight500'>
+Add a message to Acceptd
+</div>
+<textarea class='autogrow user-note-textarea u-fontSize14 u-colorGray6 u-block' max_length='1000' placeholder='(optional) Write a note to Don Hunter at Acceptd. What excites you about Acceptd? Why would you be a good fit?'></textarea>
+<button class='apply-button c-button c-button--blue s-vgTop0_5 s-vgRight1 u-floatRight js-apply-button'>
+Apply
+</button>
+<div class='cb'></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='js-notify-me-modal u-hidden mfp-hide'>
+<div class='lightbox-content popover'>
+<div class='title s-vgBottom1'>
+<h3 class='s-h3'>Notify Me When Acceptd Lists Jobs</h3>
+</div>
+<div class='s-form'>
+<div class='input'>
+<input type="text" name="email" id="email" value="" placeholder="example@you.com" class="js-email" />
+</div>
+<div class='js-errors hidden'></div>
+<div class='buttons'>
+<button class='c-button c-button--blue s-vgTop1 u-block js-set-notification-button'>
+Create Notification
+</button>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class='details-button job-section-button'>
+<a class='g-button js-similar-jobs-button' href='/columbus/digital-media/jobs'>
+See Similar Jobs
+</a>
+</div>
+</div>
+<div class='footer-actions'><a class="details" href="https://angel.co/acceptd/jobs">View jobs page</a></div>
+<div class='cb'></div>
+</div>
+</div></div>
+</div>
+<div class='section_container u-hiddenSmOnly' data-section='startups/show/sections/similar_profiles'><div class='header similar_profiles'>People also viewed</div><div class='section similar_profiles'><div class="u-hiddenSmOnly dsss17 startups-show-sections fss16 similar_profiles _a _jm" data-_tn="startups/show/sections/similar_profiles"><div class='c-inset u-bgWhite s-vgBottom1_5'>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Rapchat" data-type="Startup" data-id="563482" href="https://angel.co/rapchat?src=rec"><img class="angel_image" alt="Rapchat" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/563482-e0c763083909be1f84b4f61e0344d51b-medium_jpg.jpg?buster=1458802719" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="563482" href="https://angel.co/rapchat?src=rec">Rapchat</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Create, share, and discover freestyle...</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="nChannel" data-type="Startup" data-id="93160" href="https://angel.co/nchannel?src=rec"><img class="angel_image" alt="nChannel" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/93160-d2d24eee69304e23b77c399f0a21b04c-medium_jpg.jpg?buster=1350941765" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="93160" href="https://angel.co/nchannel?src=rec">nChannel</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Multi-channel Integration Hub</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="DIY" data-type="Startup" data-id="87148" href="https://angel.co/diyco?src=rec"><img class="angel_image" alt="DIY" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/87148-1e2f1640398d8c0dbbf29ef6ac65e692-medium_jpg.jpg?buster=1423506845" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="87148" href="https://angel.co/diyco?src=rec">DIY</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Makers of magical learning...</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Backslash Digital" data-type="Startup" data-id="867208" href="https://angel.co/backslash-digital?src=rec"><img class="angel_image" alt="Backslash Digital" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/867208-6d63a7eb50c59a27c5f06a7744c06a6d-medium_jpg.jpg?buster=1444842202" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="867208" href="https://angel.co/backslash-digital?src=rec">Backslash Digital</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Full Service Digital Agency</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="NAV" data-type="Startup" data-id="80822" href="https://angel.co/nav-3?src=rec"><img class="angel_image" alt="NAV" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/80822-e052c1c17384a0717337c7b47bc3cb38-medium_jpg.jpg?buster=1417458312" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="80822" href="https://angel.co/nav-3?src=rec">NAV</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Early-Stage Venture Capital for...</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Edelweiss" data-type="Startup" data-id="251106" href="https://angel.co/edelweiss?src=rec"><img class="angel_image" alt="Edelweiss" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/251106-2e04af9e9d715bdcaef55d9954a26675-medium_jpg.jpg?buster=1478889628" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="251106" href="https://angel.co/edelweiss?src=rec">Edelweiss</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Entrepreneur angels: Lee Jacobs,...</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="Universally Thinking" data-type="Startup" data-id="850891" href="https://angel.co/universally-thinking-1?src=rec"><img class="angel_image" alt="Universally Thinking" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/850891-7963d4ed679db52360158555ec04dc83-medium_jpg.jpg?buster=1498387601" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="850891" href="https://angel.co/universally-thinking-1?src=rec">Universally Thinking</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Innovation Igniter</div>
+</div>
+</div>
+<div class='g-lockup large s-vgBottom1'>
+<div class='photo'><a class="startup-link" title="BringShare" data-type="Startup" data-id="1562" href="https://angel.co/bringshare?src=rec"><img class="angel_image" alt="BringShare" src="https://d1qb2nb5cznatu.cloudfront.net/startups/i/1562-372c44febcf857b174d6124ea0f6c7c8-medium_jpg.jpg?buster=1320415712" /></a></div>
+<div class='text'>
+<div class='subtitle name'><a class="startup-link" data-type="Startup" data-id="1562" href="https://angel.co/bringshare?src=rec">BringShare</a></div>
+<div class='u-fontWeight200 u-colorGray8'>Marketing report creation tool</div>
+</div>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+
+</div>
+<div id='root_footer'></div>
+</div><div id="footer" class=" centered dark  dl85 layouts ffr55 footer _a _jm" data-_tn="layouts/footer"><div class="u-colorGray9 s-fontWeight300 u-fontSize12 u-textAlignCenter u-textShadowWhite s-grid0 s-grid0--outer u-maxWidthLayout dl85 layouts ffs95 footer_links _a _jm" data-_tn="layouts/footer_links"><div class='links'>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/help">Help</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/companies/a">Companies</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/jobs/locations">Jobs by Location</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/directory/jobs/markets">Jobs by Market</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a rel="" class="s-vgRight0_5 u-uncoloredLink" href="https://blog.angel.co">Blog</a>
+<a class="s-vgRight0_5 u-uncoloredLink" rel="nofollow" href="http://twitter.com/angellist">Twitter</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/terms">Terms &amp; Risks</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<a class="s-vgRight0_5 u-uncoloredLink" href="/unsubscribe">Unsubscribe</a>
+<span class='s-vgRight0_5'>&middot;</span>
+<span class='tiptip' title='AngelList is not responsible for the contents of this profile. Do your own diligence.'>
+Profile not verified
+</span>
+</div>
+
+</div>
+</div>
+
+<div id='fb-root'></div>
+</body>
+</html>
+
+
+
