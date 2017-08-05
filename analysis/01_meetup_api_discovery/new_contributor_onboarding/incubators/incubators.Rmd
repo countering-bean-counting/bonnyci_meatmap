@@ -190,26 +190,79 @@ write.csv(seeddb_companies, "seeddb_companies.csv", row.names = FALSE, na = "")
 
 # Currently doesn't work
 
-seeddb_companies <- read.csv("seeddb_companies.csv")
-seeddb_companies_lnk <- seeddb_companies %>% filter(! is.na(angellist))
+seeddb_accelerators_usa <- read.csv("seeddb_accelerators_usa.csv", na=" ")
+seeddb_acc_has_companies <- seeddb_accelerators_usa %>% filter(Companies > 0)
 
-for(n in 1){#:nrow(seeddb_companies)){
-  row <- seeddb_companies_lnk[n,]
-  angellist_link <- as.character(row["angellist"])
-  company <- as.character(row["Company"])
+seeddb_companies <- read.csv("seeddb_companies.csv", na.strings= "")
+seeddb_companies_lnk <- seeddb_companies %>% filter(!is.na(angellist))
+
+seeddb_companies_subset <- seeddb_companies_lnk %>% 
+  inner_join(seeddb_acc_has_companies %>% select(Program), by="Program")
+
+
+for(n in 1:nrow(seeddb_companies_subset)){
+  row <- seeddb_companies_subset[n,]
+  row$Company <- levels(droplevels(row$Company))
+  row$angellist <- levels(droplevels(row$angellist))
+  company <- row$Company
+  angellist_link <- row$angellist
   
   company_filename <- str_replace_all(company, "/| ", "_")
   company_filename <- str_to_lower(company_filename)
   company_filename <- paste("scraped_html/company", company_filename, "html", sep="_")
   
-  print(paste("getting HTML for", acc))
-  seeddb_company_html <- download.file(angellist_link, company_filename)
+  print(paste("getting HTML for", n, company))
+  seeddb_company_html <- tryCatch(download.file(angellist_link, company_filename),
+                                  error=function (e) {
+                                      print(paste(
+                                        "Error downloading", angellist_link, "to", company_filename))
+                                    },
+                                  finally=print(paste(
+                                    "Saving", angellist_link, "to", company_filename)))
+
+
   print(paste("saved HTML to", company_filename))
 }
 
 ```
 
+```{r}
+# extract city from angel.co html
 
+"#root > div.page.flush_bottom.dl85.layouts.fhr17.header._a._jm > div > div > div.prefix.u-bgWhite > div.u-bgWhite.dss98.startups-show.fhr17.header._a._jm > div > div > div > div > div > div > div.text.profile-text.u-textAlignCenterSmOnly > div > div.s-grid0-colMd24 > div > div.dssh27.startups-show-header_2.fts73.tags_and_links._a > div > span.js-location_tag_holder > span > span > a"
+```
+
+## Add Location Info to Incubators
+
+Add the Metropolitan Areas to the cities identified in the Incubator data.
+
+```{r}
+incubators <- read.csv("seeddb_accelerators_usa.csv", stringsAsFactors = FALSE)
+metro_areas <- read.csv("../tech_meetups/metro_areas_meetups.csv", 
+                        na.strings = "", stringsAsFactors = FALSE)
+
+# fix the incubators state abbreviations
+incubators <- incubators %>% 
+  mutate(state_alt=state.abb[match(state,state.name)],
+         state=ifelse(is.na(state_alt), as.character(state), state_alt)) %>%
+  select(-state_alt)
+
+# fix a couple of bogus city names
+incubators <- incubators %>%
+  mutate(city=ifelse(city=="Greenville and Spartanburg", "Greenville", as.character(city)),
+         city=ifelse(city=="Silicon Valley", "San Jose", as.character(city)))
+
+# add "Ann Arbor" to metro areas
+metro_areas[nrow(metro_areas) + 1, ] <- 
+  c("C1982","MI","Detroit","Michigan","Detroit MI","MI","Ann Arbor","Detroit-Warren-Dearborn, MI MSA")
+                         
+# join on metro areas
+incubators_msa <- incubators %>%
+  left_join(metro_areas, by=c("city"="msa_cities", "state"="msa_states"))
+
+write.csv(incubators_msa, "incubators_msa.csv", row.names = FALSE, na = "")
+
+```
 
 
 # Sources
