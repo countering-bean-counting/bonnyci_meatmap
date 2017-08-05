@@ -33,6 +33,7 @@ cities <- c(
   "Phoenix",
   "Portland",
   "San Francisco",
+  "San Jose",
   "Seattle"
 )
 
@@ -48,6 +49,7 @@ states <- c(
   "PA",
   "AZ",
   "OR",
+  "CA",
   "CA",
   "WA"
 )
@@ -106,7 +108,7 @@ for (n in 1:nrow(meetup_geo)) {
 meetup_groups <- meetup_groups %>% 
   mutate(events_url = paste("https://api.meetup.com/", urlname, "/events", sep=""))
 
-write.csv(meetup_groups, "meetup_groups.csv")
+write.csv(meetup_groups, "meetup_groups.csv", row.names = FALSE, na = "")
 
 ```
 
@@ -140,7 +142,78 @@ for (n in 1:nrow(meetup_groups)) {
 }
 
 
-write.csv(meetup_events, "meetup_events.csv")
+write.csv(meetup_events, "meetup_events.csv", row.names = FALSE, na = "")
+```
+
+```{r}
+meetup_events <- read_csv("meetup_events.csv")
+```
+
+
+## Add MSA (Metropolitan Statistical Area) Designations to Meetups
+
+Add cities that show up in Meetup searches but don't show up in the BLS list. It's not clear if these areas are part of the official BLS MSA but it's not unusual for people to live or work in these cities that also live and work in the main metropolitan region.
+
+```{r}
+metro_areas <- read.csv("../bls/qcew/qcew_msa.csv")
+metro_areas_meetup_add <- read.csv("meetup_msa_add.csv")
+
+metro_areas_meetup_add <- metro_areas_meetup_add %>% 
+  inner_join(metro_areas, by="city_state", "msa_states") %>%
+  rename(msa_cities=msa_cities.x, msa_states=msa_states.x) %>%
+  select(-msa_cities.y, -msa_states.y) %>%
+  unique()
+
+metro_areas_meetups <- bind_rows(metro_areas, metro_areas_meetup_add)
+write.csv(metro_areas_meetups, "metro_areas_meetups.csv", row.names = FALSE, na = "")
+```
+
+
+```{r}
+meetup_groups <- read.csv("meetup_groups.csv")
+metro_areas <- read.csv("metro_areas_meetups.csv")
+
+meetups_metro <- meetup_groups %>% 
+  left_join(metro_areas %>% select(area_fips, city_state, msa_cities, msa_states),
+             by=c("city"="msa_cities", "state"="msa_states"))
+
+meetups_metro_matched <- meetups_metro %>% 
+  filter(!is.na(city_state)) %>%
+  mutate(msa_states=state)
+
+meetups_metro_na <- meetups_metro %>% 
+  filter(is.na(city_state)) %>%
+  inner_join(metro_areas %>% select(area_fips, city_state, msa_states, state),
+             by=c("state")) %>%
+  filter(as.character(state) == as.character(msa_states)) %>%
+  select(-area_fips.x, -city_state.x) %>%
+  rename(city_state=city_state.y, area_fips=area_fips.y) %>%
+  unique()
+
+# couldn't find a metro area for these, need to add it when we pull from meetup next time around
+meetups_metro_missed <- meetups_metro %>% 
+  anti_join(meetups_metro_na, by="id") %>%
+  anti_join(meetups_metro_matched, by="id")
+  
+
+meetup_groups_msa <- bind_rows(meetups_metro_matched, meetups_metro_na, meetups_metro_missed)
+
+write.csv(meetup_groups_msa, "meetup_groups_msa.csv", row.names = FALSE, na = "")
+```
+
+```{r}
+meetup_groups_msa <- read.csv("meetup_groups_msa.csv", na="")
+meetup_events <- read_csv("meetup_events.csv")
+
+meetup_events_msa <- meetup_events %>% 
+  inner_join(meetup_groups_msa %>% select(area_fips, city_state, msa_states, id),
+             by=c("group.id"="id")) %>%
+  unique()
+
+meetup_events_msa_missing <- meetup_events %>% 
+  anti_join(meetup_events_msa, by=c("id"))
+
+
 ```
 
 
