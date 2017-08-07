@@ -1,0 +1,258 @@
+---
+title: "Example Notebook"
+author: "Your Name Here"
+date: "July 28, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+library(dplyr)
+library(ggplot2)
+```
+
+# Overview
+
+What is the point of this research? What questions are you trying to answer?
+
+## Hypothesis
+
+What are you proposing?
+
+## Methodology
+
+How did you gather the data? How did you go about approaching the problem?
+
+# Data
+
+Load your data here. Where did it come from? Did you do anything special to it?
+
+```{r load_data}
+meetups <- read.csv("tech_meetups/meetup_groups.csv")
+```
+
+Validate your data
+```{r validate_data}
+
+paste("Number of rows:", nrow(meetups))
+
+# Columns
+paste(names(meetups), sep=" ")
+```
+
+Summary is a quick way to make sure it's what you expect.
+
+What states are there?
+```{r}
+summary(meetups$state)
+```
+
+Anything non-US?
+```{r}
+summary(meetups$country)
+```
+
+Anything non-tech?
+```{r}
+summary(meetups$category.name)
+```
+
+# Analysis
+
+How did you go about exploring your question?
+
+How many meetup groups are in each state?
+
+```{r}
+ggplot(meetups, aes(x=state, fill=status)) +
+  geom_bar() +
+  xlab("State") +
+  guides(fill=guide_legend(title="Status"))
+```
+
+How many members are in each state?
+
+```{r}
+ggplot(meetups, aes(x=state, y=members, fill=is.na(next_event.id))) +
+  geom_bar(stat="identity") +
+  xlab("State") +
+  ylab("Members")
+  guides(fill=guide_legend(title="Has Next Event?"))
+```
+
+Wow, California has a lot!
+
+```{r}
+meetups %>% filter(state=="CA") %>% summarise(sum(members))
+```
+
+What is the age of the meetups?
+
+```{r}
+# convert from epoch time
+meetups <- meetups %>%
+  mutate(created_date = as.POSIXct(created/1000, origin="1970-01-01"),
+         created_y = format(created_date, "%Y"),
+         created_my = format(created_date, "%b-%Y"))
+```
+
+
+```{r}
+ggplot(meetups, aes(x=created_y, fill=state)) +
+  geom_bar() +
+  xlab("Created") +
+  ylab("Meetup Groups")
+  guides(fill=guide_legend(title="State"))
+  
+```
+
+
+```{r}
+ggplot(meetups %>% filter(state=="CA"), aes(city, members)) +
+  geom_boxplot() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+```
+
+## Your TURN!
+
+Make this work with the Meetup data:
+
+Plot a histogram with one variable:
+
+```{r}
+ggplot(my_data, aes(x=column_name_for_thing_to_count) +
+  geom_bar() +
+  xlab("Thing I'm Counting")
+```
+
+Group and Summarize something in the dataset:
+
+```{r}
+# things per month, creates a summarized version of your dataset
+
+things_per_month_summary <- my_things %>%
+  group_by(month, person) %>% # how do you want to group?
+  summarise(num_things = n(), # number of rows total
+			num_unique_things = n_distinct(things), # number of unique things (doesn't count repeats)
+            biggest_thing=max(thing),
+			smallest_thing=min(thing),
+			average_thing=mean(thing),
+			middle_thing=med(thing))
+
+# If you don't want to summarize but want to keep rows intact, you can use "mutate" instead
+things_per_month_all <- my_things %>%
+  group_by(month, person) %>% # how do you want to group?
+  mutate(num_things = n(), # number of rows total in the grouping
+			num_unique_things = n_distinct(thing), # number of unique things (doesn't count repeats)
+            biggest_thing=max(thing),
+			smallest_thing=min(thing),
+			average_thing=mean(thing),
+			middle_thing=med(thing))
+```
+
+Plot a summary using a bar chart:
+
+```{r}
+# to use a bar plot with summaries, you need to use the keyword "identity"
+
+ggplot(my_data_summary, aes(x=numbers, y=thing) +
+  geom_bar(stat="identity") +
+  xlab("Thing I'm Numbering") +
+  ylab("Numbers")
+	   
+# to plot a grouped value, use fill
+# use position="dodge" for bars next to each other, 
+# position="stack" stacks them on top
+ggplot(my_data_summary, aes(x=numbers, y=thing, fill=thing_type) +
+  geom_bar(stat="identity", position="stack") +
+  xlab("Thing I'm Numbering") +
+  ylab("Numbers") 
+
+# if your things are in the wrong order you can use reorder()
+# a "-" in front means descending, otherwise it's ascending (smallest first)
+ggplot(my_data_summary, aes(x=numbers, y=thing, fill=reorder(thing_type, -num_things)) +
+  geom_bar(stat="identity", position="stack") +
+  xlab("Thing I'm Numbering") +
+  ylab("Numbers")  
+```
+
+
+Plot 2 different columns using a line graph:
+
+```{r}
+ggplot(data = my_data, aes(x = x_axis_thing)) +
+  geom_point(aes(y = numerical_value1, color="Thing 1"), group=1) +
+  geom_line(aes(y = numerical_value1, color="Thing 1"), group=1) +
+  geom_point(aes(y = numerical_value2, color="Thing 2"), group=2) +
+  geom_line(aes(y = numerical_value2, color="Thing 2"), group=2) +
+  ylab("Numbers") +
+  xlab("Thing I'm Numbering")
+```
+
+
+```{r}
+meetup_groups <- read.csv("tech_meetups/meetup_groups_msa.csv", na.strings="", stringsAsFactors = FALSE)
+incubators <- read.csv("incubators/incubators_msa.csv", na.strings = "", stringsAsFactors = FALSE)
+
+
+meetups_vs_incubators <- incubators %>% 
+  filter(!is.na(city_state)) %>%
+  select("Program", "Companies", "city_state") %>% 
+  inner_join(meetup_groups, by=c("city_state")) %>%
+  unique()
+
+meetups_vs_incubators_incub <- meetups_vs_incubators %>%
+  group_by(city_state, Program) %>%
+  mutate(Companies=first(Companies))
+
+meetups_vs_incubators_meetup <- meetups_vs_incubators %>%
+  group_by(city_state, name) %>%
+  mutate(members=first(members))
+
+meetups_vs_incubators_summary <- meetups_vs_incubators %>% 
+  group_by(city_state) %>% 
+  summarise(num_incubators=n_distinct(Program),
+         num_meetup_groups=n_distinct(name),
+         meetups_to_incubators=num_incubators/num_meetup_groups) %>%
+  inner_join(meetups_vs_incubators_meetup, by="city_state") %>%
+  inner_join(meetups_vs_incubators_incub, by="city_state")
+
+meetups_vs_incubators_summary_melt <- melt(meetups_vs_incubators_summary %>% 
+                                             select(num_incubators, num_meetup_groups, city_state), 
+                                           id=c("city_state"))
+```
+
+```{r}
+ggplot(incubators %>% filter(!is.na(city_state)), aes(x=city_state, fill=city)) +
+  geom_bar() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+ggplot(meetup_groups %>% filter(!is.na(city_state)), aes(x=city_state, fill=state)) +
+  geom_bar() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+ggplot(meetups_vs_incubators_summary, aes(x=city_state, y=meetups_to_incubators)) +
+  geom_bar(stat="identity", position="dodge") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1), legend.position="none")
+
+ggplot(meetups_vs_incubators_summary, aes(x=city_state)) + 
+  geom_point(aes(y=num_meetup_groups, size=num_meetup_groups, colour="Meetups")) +
+  geom_point(aes(y=num_incubators, size=num_incubators, colour="Incubators")) +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+ggplot(meetups_vs_incubators %>% filter(city_state == "San Jose CA" | city_state == "San Francisco CA"), 
+       aes(x=Companies, y=members, colour=city_state)) + 
+  geom_jitter() +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+
+ggplot(meetups_vs_incubators_summary_melt, aes(x=city_state, y=value, fill=variable)) +
+  geom_col(position="dodge") +
+  theme(axis.text.x = element_text(angle = 90, hjust = 1))
+```
+
+
+
+
+
+
