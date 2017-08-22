@@ -20,7 +20,7 @@ accelerators_html_file=paste("scraped_html/seeddb", "accelerators", "html", sep=
 ```
 
 ## Seedb Accelerators Page
-```{r seedb_html, include=FALSE, echo=FALSE}
+```{r seedb_html, eval=FALSE}
 
 # Scrape the Accelerators Page and save the result as a local file
 # Do not run this unless you want your local file to be overwritten!
@@ -30,7 +30,7 @@ download.file("http://www.seed-db.com/accelerators", accelerators_html_file)
 ```
 
 ## Parse Accelerators Table into Data Frame
-```{r seeddb_accelerators_table, echo=FALSE}
+```{r seeddb_accelerators_table, eval=FALSE}
 
 seeddb_accelerators_html <- read_html(accelerators_html_file)
 
@@ -49,7 +49,7 @@ seeddb_accelerators <- seeddb_accelerators %>%
 
 ## Get Company List for Each Accelerator
 
-```{r seeddb_accelerators_links, echo=FALSE}
+```{r seeddb_accelerators_links, eval=FALSE}
 seeddb_accelerators_links <- data.frame()
 link_selector <- "#accellist > tbody > tr:nth-child($) > td:nth-child(1) > a:nth-child(1)"
 
@@ -78,12 +78,12 @@ write.csv(seeddb_accelerators, "seeddb_accelerators.csv", row.names = FALSE, na 
 
 ```
 
-```{r}
+```{r, read_accelerators}
 seeddb_accelerators <- read.csv("seeddb_accelerators.csv")
 seeddb_acc_has_companies <- seeddb_accelerators %>% filter(Companies > 0)
 ```
 
-```{r seeddb_accelerators_fix_cities}
+```{r seeddb_accelerators_fix_cities, eval=FALSE}
 
 # not perfect but does the job
 seeddb_accelerators_split <- seeddb_accelerators %>% 
@@ -103,7 +103,7 @@ seeddb_accelerators_usa <- seeddb_accelerators_split %>%
 write.csv(seeddb_accelerators_usa, "seeddb_accelerators_usa.csv", row.names = FALSE, na = "")
 ```
 
-```{r seeddb_accelerators_companies, include=FALSE}
+```{r seeddb_accelerators_companies, eval=FALSE}
 # Create the archive of the HTML scrapes for the company pages
 # Don't run this unless you want all of your archives to be overwritten
 
@@ -126,7 +126,7 @@ for(n in 1:nrow(seeddb_acc_has_companies)){
 
 Crunchbase blocks bots. Angellist API doesn't provide location information about companies but could provide other insights for future research.
 
-```{r seeddb_companies, echo=FALSE}
+```{r seeddb_companies, eval=FALSE}
 seeddb_companies <- data_frame()
 
 # TODO: refactor so this isn't using for loops
@@ -186,7 +186,7 @@ seeddb_companies <- seeddb_companies %>%
 write.csv(seeddb_companies, "seeddb_companies.csv", row.names = FALSE, na = "")
 ```
 
-```{r get_company_location}
+```{r get_company_location, eval=FALSE}
 
 # Currently doesn't work
 
@@ -236,7 +236,7 @@ for(n in 1:nrow(seeddb_companies_subset)){
 
 Add the Metropolitan Areas to the cities identified in the Incubator data.
 
-```{r}
+```{r, eval=FALSE}
 incubators <- read.csv("seeddb_accelerators_usa.csv", stringsAsFactors = FALSE)
 metro_areas <- read.csv("../tech_meetups/metro_areas_meetups.csv", 
                         na.strings = "", stringsAsFactors = FALSE)
@@ -263,6 +263,30 @@ incubators_msa <- incubators %>%
 write.csv(incubators_msa, "incubators_msa.csv", row.names = FALSE, na = "")
 
 ```
+
+```{r, eval=FALSE}
+incubators <- read.csv("seeddb_accelerators_usa.csv", stringsAsFactors = FALSE, na.strings = "")
+metro_areas_all <- read.csv("../bls/qcew/qcew_msa_all.csv", stringsAsFactors = FALSE, na.strings = "")
+
+# fix the incubators state abbreviations
+incubators <- incubators %>% 
+  mutate(state_alt=state.abb[match(state,state.name)],
+         state=ifelse(is.na(state_alt), as.character(state), state_alt)) %>%
+  select(-state_alt)
+
+# fix a couple of bogus city names
+incubators <- incubators %>%
+  mutate(city=ifelse(city=="Greenville and Spartanburg", "Greenville", as.character(city)),
+         city=ifelse(city=="Silicon Valley", "San Jose", as.character(city)),
+         city=ifelse(city=="New York City"|city=="Brooklyn", "New York", as.character(city)))
+
+# join on metro areas
+incubators_msa_all <- incubators %>%
+  left_join(metro_areas_all, by=c("city"="msa_cities", "state"="msa_states"))
+
+write.csv(incubators_msa_all, "incubators_msa_all.csv", row.names = FALSE, na = "")
+```
+
 
 
 # Sources
